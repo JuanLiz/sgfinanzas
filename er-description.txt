@@ -1,0 +1,153 @@
+Explicación de las Relaciones de las Tablas:
+En el sistema de finanzas personales, se ha diseñado una estructura de base de datos que permite gestionar de manera eficiente los datos de los usuarios, sus transacciones financieras, las cuentas contables del PUC (Plan Único de Cuentas) y sus respectivas contrapartidas, entre otros aspectos. A continuación, se explican las relaciones clave entre las tablas en este sistema.
+1.	Relación entre usuarios y roles:
+o	Cada usuario tiene un rol asignado, definido en la tabla roles. Un usuario puede tener un único rol (como administrador, cliente, etc.), y esta relación es fundamental para gestionar los permisos y las funcionalidades que el usuario puede acceder dentro del sistema.
+2.	Relación entre usuarios y municipios y departamentos:
+o	Cada usuario está asociado a un municipio y un departamento, definidos en las tablas municipios y departamentos. Esto ayuda a ubicar geográficamente a los usuarios y personalizar ciertas funcionalidades en función de su localización.
+3.	Relaciones entre ingresos, egresos, inversiones, costos_fijos, costos_variables, metas_ahorro y alertas con usuarios:
+o	Estas tablas están directamente relacionadas con la tabla usuarios, ya que todos estos datos financieros pertenecen a un usuario en particular. La columna usu_idusu en cada una de estas tablas hace referencia al idusu de la tabla usuarios, indicando que los ingresos, egresos, inversiones, costos, metas de ahorro y alertas corresponden a un usuario específico.
+4.	Relación entre ingresos, egresos, contrapartida_PUC y puc:
+o	Los ingresos y egresos están relacionados con la tabla contrapartida_PUC, que define la cuenta contable correspondiente a cada tipo de transacción (ingreso o egreso). La tabla contrapartida_PUC a su vez está relacionada con la tabla puc, que define las cuentas contables de acuerdo con su naturaleza (deudora o acreedora). Esta relación es fundamental para mantener la coherencia contable y garantizar que los movimientos se registren correctamente en el debe o el haber.
+5.	Relación entre contrapartida_PUC y puc:
+o	La relación entre la tabla contrapartida_PUC y la tabla puc es clave para la contabilidad del sistema. La columna puc_idpuc en la tabla contrapartida_PUC establece que cada contrapartida (para ingresos o egresos) está asociada a una cuenta contable específica definida en el PUC. La cuenta contable puede ser de naturaleza deudora o acreedora, lo cual determina cómo se deben registrar las transacciones en el sistema contable.
+1. Tabla roles
+	Descripción: Almacena los diferentes roles que un usuario puede tener dentro del sistema (por ejemplo, Administrador, Cliente, etc.).
+	Columnas:
+o	idrol: Identificador único del rol (clave primaria).
+o	rol_descripcion: Descripción del rol (por ejemplo, "Administrador", "Cliente").
+o	estado: Indica si el rol está activo o inactivo.
+o	fecha_registro: Fecha en la que el rol fue registrado en el sistema.
+2. Tabla usuarios
+	Descripción: Contiene la información de los usuarios registrados en el sistema.
+	Columnas:
+o	idusu: Identificador único del usuario (clave primaria).
+o	usua_nombre: Nombre del usuario.
+o	rol_idrol: Relación con la tabla roles, indicando el rol del usuario.
+o	muni_idmuni: Relación con la tabla municipios, indicando el municipio al que pertenece el usuario.
+o	depar_iddepar: Relación con la tabla departamentos, indicando el departamento al que pertenece el usuario.
+o	estado: Indica si el usuario está activo o inactivo.
+o	fecha_registro: Fecha en la que el usuario fue registrado en el sistema.
+3. Tabla modulos
+	Descripción: Almacena los diferentes módulos que forman parte del sistema (por ejemplo, "Gestión de Ingresos", "Gestión de Egresos").
+	Columnas:
+o	idmod: Identificador único del módulo (clave primaria).
+o	modu_descripcion: Descripción del módulo (por ejemplo, "Gestión de Ingresos").
+o	estado: Indica si el módulo está activo o inactivo.
+o	fecha_registro: Fecha en la que el módulo fue registrado en el sistema.
+4. Tabla permisos
+	Descripción: Define los permisos que un usuario tiene sobre los módulos del sistema.
+	Columnas:
+o	idper: Identificador único del permiso (clave primaria).
+o	permiscol: Descripción del permiso (por ejemplo, "Acceso completo", "Lectura").
+o	estado: Indica si el permiso está activo o inactivo.
+o	fecha_registro: Fecha en la que el permiso fue registrado en el sistema.
+5. Tabla roles_has_modulos
+	Descripción: Relaciona los roles con los módulos del sistema, asignando permisos a los roles.
+	Columnas:
+o	rol_idrol: Relación con la tabla roles, indicando a qué rol pertenece la asignación.
+o	mod_idmod: Relación con la tabla modulos, indicando qué módulo tiene asignado el rol.
+o	per_idper: Relación con la tabla permisos, indicando qué permiso tiene asignado el rol para el módulo.
+6. Tabla municipios
+	Descripción: Almacena la información de los municipios a los cuales los usuarios pueden estar asociados.
+	Columnas:
+o	idmuni: Identificador único del municipio (clave primaria).
+o	muni_nombre: Nombre del municipio.
+o	estado: Indica si el municipio está activo o inactivo.
+o	fecha_registro: Fecha en la que el municipio fue registrado en el sistema.
+7. Tabla departamentos
+	Descripción: Almacena la información de los departamentos a los cuales los usuarios pueden estar asociados.
+	Columnas:
+o	iddepar: Identificador único del departamento (clave primaria).
+o	depar_nombre: Nombre del departamento.
+o	estado: Indica si el departamento está activo o inactivo.
+o	fecha_registro: Fecha en la que el departamento fue registrado en el sistema.
+8. Tabla ingresos
+	Descripción: Almacena los ingresos del usuario dentro del sistema.
+	Columnas:
+o	iding: Identificador único del ingreso (clave primaria).
+o	ingre_monto: Monto del ingreso registrado.
+o	ingre_fecha: Fecha del ingreso.
+o	ingre_descripcion: Descripción del ingreso (por ejemplo, "Salario", "Ventas").
+o	contpuc_idcontpuc: Relación con la tabla contrapartida_PUC, indicando la contrapartida contable asociada al ingreso.
+o	estado: Indica si el ingreso está activo o inactivo.
+o	fecha_registro: Fecha en la que el ingreso fue registrado en el sistema.
+9. Tabla egresos
+	Descripción: Almacena los egresos del usuario dentro del sistema.
+	Columnas:
+o	idegr: Identificador único del egreso (clave primaria).
+o	egres_monto: Monto del egreso registrado.
+o	egres_fecha: Fecha del egreso.
+o	egres_descripcion: Descripción del egreso (por ejemplo, "Compra de materiales", "Pago de servicios").
+o	egres_tipo: Tipo de egreso (por ejemplo, "Fijo", "Variable").
+o	contpuc_idcontpuc: Relación con la tabla contrapartida_PUC, indicando la contrapartida contable asociada al egreso.
+o	estado: Indica si el egreso está activo o inactivo.
+o	fecha_registro: Fecha en la que el egreso fue registrado en el sistema.
+10. Tabla inversiones
+	Descripción: Almacena las inversiones realizadas por el usuario.
+	Columnas:
+o	idinv: Identificador único de la inversión (clave primaria).
+o	inves_monto: Monto de la inversión realizada.
+o	inves_fecha: Fecha en la que se realizó la inversión.
+o	inves_tipo_inversion: Tipo de inversión (por ejemplo, "Acciones", "Fondos mutuos").
+o	inves_descripcion: Descripción de la inversión.
+o	usu_idusu: Relación con la tabla usuarios, indicando a qué usuario pertenece la inversión.
+o	estado: Indica si la inversión está activa o inactiva.
+o	fecha_registro: Fecha en la que la inversión fue registrada en el sistema.
+11. Tabla costos_fijos
+	Descripción: Almacena los costos fijos del usuario.
+	Columnas:
+o	idcosf: Identificador único del costo fijo (clave primaria).
+o	costf_monto: Monto del costo fijo registrado.
+o	costf_descripcion: Descripción del costo fijo (por ejemplo, "Alquiler de oficina", "Sueldos").
+o	usu_idusu: Relación con la tabla usuarios, indicando a qué usuario pertenece el costo fijo.
+o	estado: Indica si el costo está activo o inactivo.
+o	fecha_registro: Fecha en la que el costo fijo fue registrado en el sistema.
+12. Tabla costos_variables
+	Descripción: Almacena los costos variables del usuario.
+	Columnas:
+o	idcosv: Identificador único del costo variable (clave primaria).
+o	costv_monto: Monto del costo variable registrado.
+o	costv_descripcion: Descripción del costo variable (por ejemplo, "Gastos de publicidad", "Mantenimiento").
+o	usu_idusu: Relación con la tabla usuarios, indicando a qué usuario pertenece el costo variable.
+o	estado: Indica si el costo está activo o inactivo.
+o	fecha_registro: Fecha en la que el costo variable fue registrado en el sistema.
+13. Tabla metas_ahorro
+	Descripción: Almacena las metas de ahorro del usuario.
+	Columnas:
+o	idmetah: Identificador único de la meta de ahorro (clave primaria).
+o	metah_monto: Monto objetivo de la meta de ahorro.
+o	metah_descripcion: Descripción de la meta de ahorro (por ejemplo, "Ahorro para vacaciones").
+o	metah_fecha_meta: Fecha límite para alcanzar la meta de ahorro.
+o	usu_idusu: Relación con la tabla usuarios, indicando a qué usuario pertenece la meta.
+o	estado: Indica si la meta está activa o inactiva.
+o	fecha_registro: Fecha en la que la meta fue registrada en el sistema.
+14. Tabla alertas
+	Descripción: Almacena las alertas configuradas por el usuario.
+	Columnas:
+o	idaler: Identificador único de la alerta (clave primaria).
+o	aler_mensaje: Mensaje de la alerta (por ejemplo, "Fecha límite para pago de factura").
+o	aler_fecha_alerta: Fecha en la que la alerta debe activarse.
+o	aler_estado: Estado de la alerta, que puede ser "Pendiente" o "Resuelta".
+o	usu_idusu: Relación con la tabla usuarios, indicando a qué usuario pertenece la alerta.
+o	estado: Indica si la alerta está activa o inactiva.
+o	fecha_registro: Fecha en la que la alerta fue registrada en el sistema.
+15. Tabla contrapartida_PUC
+	Descripción: Almacena las contrapartidas contables utilizadas en ingresos y egresos.
+	Columnas:
+o	idcontpuc: Identificador único de la contrapartida (clave primaria).
+o	contpuc_codigo: Código de la contrapartida contable.
+o	contpuc_descripcion: Descripción de la contrapartida contable.
+o	contpuc_tipo: Tipo de la contrapartida (Ingreso o Egreso).
+o	puc_idpuc: Relación con la tabla puc, indicando la cuenta del PUC asociada.
+o	estado: Indica si la contrapartida está activa o inactiva.
+o	fecha_registro: Fecha en la que la contrapartida fue registrada en el sistema.
+16. Tabla puc
+	Descripción: Almacena las cuentas del Plan Único de Cuentas (PUC).
+	Columnas:
+o	idpuc: Identificador único de la cuenta del PUC (clave primaria).
+o	puc_codigo: Código único de la cuenta del PUC.
+o	puc_descripcion: Descripción de la cuenta del PUC.
+o	puc_naturaleza: Naturaleza de la cuenta, puede ser "Deudora" o "Acreedora".
+o	estado: Indica si la cuenta del PUC está activa o inactiva.
+o	fecha_registro: Fecha en la que la cuenta fue registrada en el sistema.
+
