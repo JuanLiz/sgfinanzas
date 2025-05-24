@@ -6,14 +6,15 @@ use Filament\Models\Contracts\FilamentUser;
 use Filament\Models\Contracts\HasName;
 use Filament\Panel;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\SoftDeletes;
 use Illuminate\Foundation\Auth\User as Authenticatable;
 use Illuminate\Notifications\Notifiable;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
 use Illuminate\Database\Eloquent\Relations\HasMany;
 
-class User extends Authenticatable implements FilamentUser, HasName // Add HasName interface
+class User extends Authenticatable implements FilamentUser, HasName
 {
-    use HasFactory, Notifiable;
+    use HasFactory, Notifiable, SoftDeletes;
 
     protected $table = 'usuarios';
     protected $primaryKey = 'idusu';
@@ -61,6 +62,15 @@ class User extends Authenticatable implements FilamentUser, HasName // Add HasNa
             'estado' => 'string',
         ];
     }
+
+    /**
+     * Los atributos con valores por defecto.
+     *
+     * @var array
+     */
+    protected $attributes = [
+        'estado' => 'Activo',
+    ];
 
     // Add this method for Filament to get the user's display name
     public function getFilamentName(): string

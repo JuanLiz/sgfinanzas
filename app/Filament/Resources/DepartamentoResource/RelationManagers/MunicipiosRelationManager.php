@@ -31,7 +31,9 @@ class MunicipiosRelationManager extends RelationManager
                         'Activo' => 'Activo',
                         'Inactivo' => 'Inactivo',
                     ])
-                    ->required(),
+                    ->default('Activo')
+                    ->required()
+                    ->visible(fn (string $operation): bool => $operation === 'edit'),
             ]);
     }
 

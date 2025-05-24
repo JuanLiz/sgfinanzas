@@ -10,6 +10,7 @@ use Filament\Forms\Form;
 use Filament\Resources\Resource;
 use Filament\Tables;
 use Filament\Tables\Table;
+use Filament\Tables\Filters\TrashedFilter;
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Database\Eloquent\SoftDeletingScope;
 
@@ -38,7 +39,9 @@ class RoleResource extends Resource
                         'Activo' => 'Activo',
                         'Inactivo' => 'Inactivo',
                     ])
-                    ->required(),
+                    ->default('Activo')
+                    ->required()
+                    ->visible(fn (string $operation): bool => $operation === 'edit'),
                 Forms\Components\DateTimePicker::make('fecha_registro')
                     ->label('Fecha de Registro')
                     ->disabled()
@@ -60,11 +63,12 @@ class RoleResource extends Resource
                 Tables\Columns\TextColumn::make('estado')
                     ->label('Estado')
                     ->badge()
-                    ->color(fn (string $state): string => match ($state) {
-                        'Activo' => 'success',
-                        'Inactivo' => 'danger',
-                        default => 'gray',
-                    })
+                    ->color(fn ($record): string => 
+                        $record->trashed()
+                            ? 'danger'
+                            : (($record->estado === 'Activo') ? 'success' : 'warning')
+                    )
+                    ->formatStateUsing(fn ($record) => $record->trashed() ? 'Eliminado' : $record->estado)
                     ->searchable(),
                 Tables\Columns\TextColumn::make('fecha_registro')
                     ->label('Fecha de Registro')
@@ -72,15 +76,19 @@ class RoleResource extends Resource
                     ->sortable(),
             ])
             ->filters([
-                //
+                Tables\Filters\TrashedFilter::make(),
             ])
             ->actions([
                 Tables\Actions\EditAction::make(),
-                Tables\Actions\DeleteAction::make(), // Added delete action
+                Tables\Actions\DeleteAction::make(),
+                Tables\Actions\RestoreAction::make(),
+                Tables\Actions\ForceDeleteAction::make(),
             ])
             ->bulkActions([
                 Tables\Actions\BulkActionGroup::make([
                     Tables\Actions\DeleteBulkAction::make(),
+                    Tables\Actions\RestoreBulkAction::make(),
+                    Tables\Actions\ForceDeleteBulkAction::make(),
                 ]),
             ]);
     }
@@ -99,5 +107,13 @@ class RoleResource extends Resource
             'create' => Pages\CreateRole::route('/create'),
             'edit' => Pages\EditRole::route('/{record}/edit'),
         ];
+    }
+
+    public static function getEloquentQuery(): Builder
+    {
+        return parent::getEloquentQuery()
+            ->withoutGlobalScopes([
+                SoftDeletingScope::class,
+            ]);
     }
 }
