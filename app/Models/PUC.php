@@ -7,25 +7,28 @@ use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\HasMany;
 use Illuminate\Database\Eloquent\SoftDeletes;
 
-class Departamento extends Model
+class PUC extends Model
 {
     use HasFactory, SoftDeletes;
 
-    protected $table = 'departamentos';
-    protected $primaryKey = 'iddepar';
+    protected $table = 'pucs';
+    protected $primaryKey = 'idpuc';
 
     public $timestamps = true;
     const CREATED_AT = 'fecha_registro';
     const UPDATED_AT = null;
 
     protected $fillable = [
-        'depar_nombre',
+        'puc_codigo',
+        'puc_descripcion',
+        'puc_naturaleza',
         'estado',
     ];
 
     protected $casts = [
         'fecha_registro' => 'datetime',
         'estado' => 'string',
+        'puc_naturaleza' => 'string',
     ];
 
     /**
@@ -37,20 +40,11 @@ class Departamento extends Model
         'estado' => 'Activo',
     ];
 
-    public function municipios(): HasMany
+    /**
+     * Obtiene las contrapartidas asociadas a esta cuenta PUC.
+     */
+    public function contrapartidas(): HasMany
     {
-        return $this->hasMany(Municipio::class, 'depar_iddepar', 'iddepar');
-    }
-    
-    public function users(): HasMany
-    {
-        return $this->hasManyThrough(
-            User::class,
-            Municipio::class,
-            'depar_iddepar', // Clave foránea en la tabla municipios
-            'muni_idmuni',   // Clave foránea en la tabla usuarios
-            'iddepar',       // Clave local en la tabla departamentos
-            'idmuni'         // Clave local en la tabla municipios
-        );
+        return $this->hasMany(ContrapartidaPUC::class, 'puc_idpuc', 'idpuc');
     }
 }

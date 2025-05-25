@@ -4,28 +4,32 @@ namespace App\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
-use Illuminate\Database\Eloquent\Relations\HasMany;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
 use Illuminate\Database\Eloquent\SoftDeletes;
 
-class Municipio extends Model
+class Ingreso extends Model
 {
     use HasFactory, SoftDeletes;
 
-    protected $table = 'municipios';
-    protected $primaryKey = 'idmuni';
+    protected $table = 'ingresos';
+    protected $primaryKey = 'iding';
 
     public $timestamps = true;
     const CREATED_AT = 'fecha_registro';
     const UPDATED_AT = null;
 
     protected $fillable = [
-        'muni_nombre',
-        'depar_iddepar',
+        'ingre_monto',
+        'ingre_fecha',
+        'ingre_descripcion',
+        'usu_idusu',
+        'contpuc_idcontpuc',
         'estado',
     ];
 
     protected $casts = [
+        'ingre_monto' => 'decimal:2',
+        'ingre_fecha' => 'date',
         'fecha_registro' => 'datetime',
         'estado' => 'string',
     ];
@@ -39,13 +43,19 @@ class Municipio extends Model
         'estado' => 'Activo',
     ];
 
-    public function users(): HasMany
+    /**
+     * Obtiene el usuario al que pertenece este ingreso.
+     */
+    public function usuario(): BelongsTo
     {
-        return $this->hasMany(User::class, 'muni_idmuni', 'idmuni');
+        return $this->belongsTo(User::class, 'usu_idusu', 'idusu');
     }
 
-    public function departamento(): BelongsTo
+    /**
+     * Obtiene la contrapartida contable asociada a este ingreso.
+     */
+    public function contrapartida(): BelongsTo
     {
-        return $this->belongsTo(Departamento::class, 'depar_iddepar', 'iddepar');
+        return $this->belongsTo(ContrapartidaPUC::class, 'contpuc_idcontpuc', 'idcontpuc');
     }
 }

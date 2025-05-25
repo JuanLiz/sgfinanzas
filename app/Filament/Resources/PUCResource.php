@@ -2,9 +2,8 @@
 
 namespace App\Filament\Resources;
 
-use App\Filament\Resources\RoleResource\Pages;
-use App\Filament\Resources\RoleResource\RelationManagers;
-use App\Models\Role;
+use App\Filament\Resources\PUCResource\Pages;
+use App\Models\PUC;
 use Filament\Forms;
 use Filament\Forms\Form;
 use Filament\Resources\Resource;
@@ -14,26 +13,45 @@ use Filament\Tables\Filters\TrashedFilter;
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Database\Eloquent\SoftDeletingScope;
 
-class RoleResource extends Resource
+class PUCResource extends Resource
 {
-    protected static ?string $model = Role::class;
+    protected static ?string $model = PUC::class;
 
-    protected static ?string $navigationIcon = 'heroicon-o-finger-print'; // Changed icon
-    protected static ?string $modelLabel = 'Rol';
-    protected static ?string $pluralModelLabel = 'Roles';
-    protected static ?string $navigationGroup = 'Administración de acceso';
+    protected static ?string $navigationIcon = 'heroicon-o-chart-bar';
+    protected static ?string $modelLabel = 'PUC';
+    protected static ?string $pluralModelLabel = 'PUCs';
+    protected static ?string $navigationGroup = 'Contabilidad';
     protected static ?int $navigationSort = 10;
-
 
     public static function form(Form $form): Form
     {
         return $form
             ->schema([
-                Forms\Components\TextInput::make('rol_descripcion')
-                    ->label('Descripción del Rol')
+                Forms\Components\TextInput::make('puc_codigo')
+                    ->label('Código')
                     ->required()
-                    ->maxLength(45)
-                    ->columnSpan('full'),
+                    ->maxLength(4)
+                    ->minLength(4)
+                    ->numeric()
+                    ->unique(ignoreRecord: true)
+                    ->helperText('Código de 4 dígitos para la cuenta PUC')
+                    ->columnSpan(['lg' => 1]),
+
+                Forms\Components\TextInput::make('puc_descripcion')
+                    ->label('Descripción')
+                    ->required()
+                    ->maxLength(255)
+                    ->columnSpan(['lg' => 2]),
+
+                Forms\Components\Select::make('puc_naturaleza')
+                    ->label('Naturaleza')
+                    ->options([
+                        'Deudora' => 'Deudora',
+                        'Acreedora' => 'Acreedora',
+                    ])
+                    ->required()
+                    ->columnSpan(['lg' => 1]),
+
                 Forms\Components\Select::make('estado')
                     ->label('Estado')
                     ->options([
@@ -43,11 +61,11 @@ class RoleResource extends Resource
                     ->default('Activo')
                     ->required()
                     ->visible(fn (string $operation): bool => $operation === 'edit'),
+
                 Forms\Components\DateTimePicker::make('fecha_registro')
                     ->label('Fecha de Registro')
                     ->disabled()
-                    ->default(now())
-                    ->visibleOn('edit'), // Only show on edit form, hidden on create
+                    ->visibleOn('edit'),
             ]);
     }
 
@@ -55,12 +73,29 @@ class RoleResource extends Resource
     {
         return $table
             ->columns([
-                Tables\Columns\TextColumn::make('idrol')
+                Tables\Columns\TextColumn::make('idpuc')
                     ->label('ID')
                     ->sortable(),
-                Tables\Columns\TextColumn::make('rol_descripcion')
-                    ->label('Descripción del Rol')
+                    
+                Tables\Columns\TextColumn::make('puc_codigo')
+                    ->label('Código')
+                    ->searchable()
+                    ->sortable(),
+                    
+                Tables\Columns\TextColumn::make('puc_descripcion')
+                    ->label('Descripción')
                     ->searchable(),
+                    
+                Tables\Columns\TextColumn::make('puc_naturaleza')
+                    ->label('Naturaleza')
+                    ->badge()
+                    ->color(fn (string $state): string => match ($state) {
+                        'Deudora' => 'info',
+                        'Acreedora' => 'warning',
+                        default => 'gray',
+                    })
+                    ->searchable(),
+                    
                 Tables\Columns\TextColumn::make('estado')
                     ->label('Estado')
                     ->badge()
@@ -71,10 +106,12 @@ class RoleResource extends Resource
                     )
                     ->formatStateUsing(fn ($record) => $record->trashed() ? 'Eliminado' : $record->estado)
                     ->searchable(),
+                    
                 Tables\Columns\TextColumn::make('fecha_registro')
                     ->label('Fecha de Registro')
                     ->dateTime()
-                    ->sortable(),
+                    ->sortable()
+                    ->toggleable(isToggledHiddenByDefault: true),
             ])
             ->filters([
                 Tables\Filters\TrashedFilter::make(),
@@ -97,16 +134,16 @@ class RoleResource extends Resource
     public static function getRelations(): array
     {
         return [
-           //
+            \App\Filament\Resources\PUCResource\RelationManagers\ContrapartidasRelationManager::class,
         ];
     }
 
     public static function getPages(): array
     {
         return [
-            'index' => Pages\ListRoles::route('/'),
-            'create' => Pages\CreateRole::route('/create'),
-            'edit' => Pages\EditRole::route('/{record}/edit'),
+            'index' => Pages\ListPUCS::route('/'),
+            'create' => Pages\CreatePUC::route('/create'),
+            'edit' => Pages\EditPUC::route('/{record}/edit'),
         ];
     }
 

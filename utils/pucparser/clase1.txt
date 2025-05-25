@@ -1,0 +1,2742 @@
+<ul class="account-list">
+                                            <li>
+                            <a href="/1">
+                                <span class="code">1</span> Activo</a>
+                        </li>
+                                            <li>
+                            <a href="/11">
+                                <span class="code">11</span> Disponible</a>
+                        </li>
+                                            <li>
+                            <a href="/1105">
+                                <span class="code">1105</span> Caja</a>
+                        </li>
+                                            <li>
+                            <a href="/110505">
+                                <span class="code">110505</span> Caja general</a>
+                        </li>
+                                            <li>
+                            <a href="/110510">
+                                <span class="code">110510</span> Cajas menores</a>
+                        </li>
+                                            <li>
+                            <a href="/110515">
+                                <span class="code">110515</span> Moneda extranjera</a>
+                        </li>
+                                            <li>
+                            <a href="/1110">
+                                <span class="code">1110</span> Bancos</a>
+                        </li>
+                                            <li>
+                            <a href="/111005">
+                                <span class="code">111005</span> Moneda nacional</a>
+                        </li>
+                                            <li>
+                            <a href="/111010">
+                                <span class="code">111010</span> Moneda extranjera</a>
+                        </li>
+                                            <li>
+                            <a href="/1115">
+                                <span class="code">1115</span> Remesas en tránsito</a>
+                        </li>
+                                            <li>
+                            <a href="/111505">
+                                <span class="code">111505</span> Moneda nacional</a>
+                        </li>
+                                            <li>
+                            <a href="/111510">
+                                <span class="code">111510</span> Moneda extranjera</a>
+                        </li>
+                                            <li>
+                            <a href="/1120">
+                                <span class="code">1120</span> Cuentas de ahorro</a>
+                        </li>
+                                            <li>
+                            <a href="/112005">
+                                <span class="code">112005</span> Bancos</a>
+                        </li>
+                                            <li>
+                            <a href="/112010">
+                                <span class="code">112010</span> Corporaciones de ahorro y vivienda</a>
+                        </li>
+                                            <li>
+                            <a href="/112015">
+                                <span class="code">112015</span> Organismos cooperativos financieros</a>
+                        </li>
+                                            <li>
+                            <a href="/1125">
+                                <span class="code">1125</span> Fondos</a>
+                        </li>
+                                            <li>
+                            <a href="/112505">
+                                <span class="code">112505</span> Rotatorios moneda nacional</a>
+                        </li>
+                                            <li>
+                            <a href="/112510">
+                                <span class="code">112510</span> Rotatorios moneda extranjera</a>
+                        </li>
+                                            <li>
+                            <a href="/112515">
+                                <span class="code">112515</span> Especiales moneda nacional</a>
+                        </li>
+                                            <li>
+                            <a href="/112520">
+                                <span class="code">112520</span> Especiales moneda extranjera</a>
+                        </li>
+                                            <li>
+                            <a href="/112525">
+                                <span class="code">112525</span> De amortización moneda nacional</a>
+                        </li>
+                                            <li>
+                            <a href="/112530">
+                                <span class="code">112530</span> De amortización moneda extranjera</a>
+                        </li>
+                                            <li>
+                            <a href="/12">
+                                <span class="code">12</span> Inversiones</a>
+                        </li>
+                                            <li>
+                            <a href="/1205">
+                                <span class="code">1205</span> Acciones</a>
+                        </li>
+                                            <li>
+                            <a href="/120505">
+                                <span class="code">120505</span> Agricultura, ganadería, caza y silvicultura</a>
+                        </li>
+                                            <li>
+                            <a href="/120510">
+                                <span class="code">120510</span> Pesca</a>
+                        </li>
+                                            <li>
+                            <a href="/120515">
+                                <span class="code">120515</span> Explotación de minas y canteras</a>
+                        </li>
+                                            <li>
+                            <a href="/120520">
+                                <span class="code">120520</span> Industria manufacturera</a>
+                        </li>
+                                            <li>
+                            <a href="/120525">
+                                <span class="code">120525</span> Suministro de electricidad, gas y agua</a>
+                        </li>
+                                            <li>
+                            <a href="/120530">
+                                <span class="code">120530</span> Construcción</a>
+                        </li>
+                                            <li>
+                            <a href="/120535">
+                                <span class="code">120535</span> Comercio al por mayor y al por menor</a>
+                        </li>
+                                            <li>
+                            <a href="/120540">
+                                <span class="code">120540</span> Hoteles y restaurantes</a>
+                        </li>
+                                            <li>
+                            <a href="/120545">
+                                <span class="code">120545</span> Transporte, almacenamiento y comunicaciones</a>
+                        </li>
+                                            <li>
+                            <a href="/120550">
+                                <span class="code">120550</span> Actividad financiera</a>
+                        </li>
+                                            <li>
+                            <a href="/120555">
+                                <span class="code">120555</span> Actividades inmobiliarias, empresariales y de alquiler</a>
+                        </li>
+                                            <li>
+                            <a href="/120560">
+                                <span class="code">120560</span> Enseñanza</a>
+                        </li>
+                                            <li>
+                            <a href="/120565">
+                                <span class="code">120565</span> Servicios sociales y de salud</a>
+                        </li>
+                                            <li>
+                            <a href="/120570">
+                                <span class="code">120570</span> Otras actividades de servicios comunitarios, sociales y personales</a>
+                        </li>
+                                            <li>
+                            <a href="/120599">
+                                <span class="code">120599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/1210">
+                                <span class="code">1210</span> Cuotas o partes de interés social</a>
+                        </li>
+                                            <li>
+                            <a href="/121005">
+                                <span class="code">121005</span> Agricultura, ganadería, caza y silvicultura</a>
+                        </li>
+                                            <li>
+                            <a href="/121010">
+                                <span class="code">121010</span> Pesca</a>
+                        </li>
+                                            <li>
+                            <a href="/121015">
+                                <span class="code">121015</span> Explotación de minas y canteras</a>
+                        </li>
+                                            <li>
+                            <a href="/121020">
+                                <span class="code">121020</span> Industria manufacturera</a>
+                        </li>
+                                            <li>
+                            <a href="/121025">
+                                <span class="code">121025</span> Suministro de electricidad, gas y agua</a>
+                        </li>
+                                            <li>
+                            <a href="/121030">
+                                <span class="code">121030</span> Construcción</a>
+                        </li>
+                                            <li>
+                            <a href="/121035">
+                                <span class="code">121035</span> Comercio al por mayor y al por menor</a>
+                        </li>
+                                            <li>
+                            <a href="/121040">
+                                <span class="code">121040</span> Hoteles y restaurantes</a>
+                        </li>
+                                            <li>
+                            <a href="/121045">
+                                <span class="code">121045</span> Transporte, almacenamiento y comunicaciones</a>
+                        </li>
+                                            <li>
+                            <a href="/121050">
+                                <span class="code">121050</span> Actividad financiera</a>
+                        </li>
+                                            <li>
+                            <a href="/121055">
+                                <span class="code">121055</span> Actividades inmobiliarias, empresariales y de alquiler</a>
+                        </li>
+                                            <li>
+                            <a href="/121060">
+                                <span class="code">121060</span> Enseñanza</a>
+                        </li>
+                                            <li>
+                            <a href="/121065">
+                                <span class="code">121065</span> Servicios sociales y de salud</a>
+                        </li>
+                                            <li>
+                            <a href="/121070">
+                                <span class="code">121070</span> Otras actividades de servicios comunitarios, sociales y personales</a>
+                        </li>
+                                            <li>
+                            <a href="/121099">
+                                <span class="code">121099</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/1215">
+                                <span class="code">1215</span> Bonos</a>
+                        </li>
+                                            <li>
+                            <a href="/121505">
+                                <span class="code">121505</span> Bonos públicos moneda nacional</a>
+                        </li>
+                                            <li>
+                            <a href="/121510">
+                                <span class="code">121510</span> Bonos públicos moneda extranjera</a>
+                        </li>
+                                            <li>
+                            <a href="/121515">
+                                <span class="code">121515</span> Bonos ordinarios</a>
+                        </li>
+                                            <li>
+                            <a href="/121520">
+                                <span class="code">121520</span> Bonos convertibles en acciones</a>
+                        </li>
+                                            <li>
+                            <a href="/121595">
+                                <span class="code">121595</span> Otros</a>
+                        </li>
+                                            <li>
+                            <a href="/1220">
+                                <span class="code">1220</span> Cédulas</a>
+                        </li>
+                                            <li>
+                            <a href="/122005">
+                                <span class="code">122005</span> Cédulas de capitalización</a>
+                        </li>
+                                            <li>
+                            <a href="/122010">
+                                <span class="code">122010</span> Cédulas hipotecarias</a>
+                        </li>
+                                            <li>
+                            <a href="/122015">
+                                <span class="code">122015</span> Cédulas de inversión</a>
+                        </li>
+                                            <li>
+                            <a href="/122095">
+                                <span class="code">122095</span> Otras</a>
+                        </li>
+                                            <li>
+                            <a href="/1225">
+                                <span class="code">1225</span> Certificados</a>
+                        </li>
+                                            <li>
+                            <a href="/122505">
+                                <span class="code">122505</span> Certificados de depósito a término (CDT)</a>
+                        </li>
+                                            <li>
+                            <a href="/122510">
+                                <span class="code">122510</span> Certificados de depósito de ahorro</a>
+                        </li>
+                                            <li>
+                            <a href="/122515">
+                                <span class="code">122515</span> Certificados de ahorro de valor constante (CAVC)</a>
+                        </li>
+                                            <li>
+                            <a href="/122520">
+                                <span class="code">122520</span> Certificados de cambio</a>
+                        </li>
+                                            <li>
+                            <a href="/122525">
+                                <span class="code">122525</span> Certificados cafeteros valorizables</a>
+                        </li>
+                                            <li>
+                            <a href="/122530">
+                                <span class="code">122530</span> Certificados eléctricos valorizables (CEV)</a>
+                        </li>
+                                            <li>
+                            <a href="/122535">
+                                <span class="code">122535</span> Certificados de reembolso tributario (CERT)</a>
+                        </li>
+                                            <li>
+                            <a href="/122540">
+                                <span class="code">122540</span> Certificados de desarrollo turístico</a>
+                        </li>
+                                            <li>
+                            <a href="/122545">
+                                <span class="code">122545</span> Certificados de inversión forestal (CIF)</a>
+                        </li>
+                                            <li>
+                            <a href="/122595">
+                                <span class="code">122595</span> Otros</a>
+                        </li>
+                                            <li>
+                            <a href="/1230">
+                                <span class="code">1230</span> Papeles comerciales</a>
+                        </li>
+                                            <li>
+                            <a href="/123005">
+                                <span class="code">123005</span> Empresas comerciales</a>
+                        </li>
+                                            <li>
+                            <a href="/123010">
+                                <span class="code">123010</span> Empresas industriales</a>
+                        </li>
+                                            <li>
+                            <a href="/123015">
+                                <span class="code">123015</span> Empresas de servicios</a>
+                        </li>
+                                            <li>
+                            <a href="/1235">
+                                <span class="code">1235</span> Títulos</a>
+                        </li>
+                                            <li>
+                            <a href="/123505">
+                                <span class="code">123505</span> Títulos de desarrollo agropecuario</a>
+                        </li>
+                                            <li>
+                            <a href="/123510">
+                                <span class="code">123510</span> Títulos canjeables por certificados de cambio</a>
+                        </li>
+                                            <li>
+                            <a href="/123515">
+                                <span class="code">123515</span> Títulos de tesorería (TES)</a>
+                        </li>
+                                            <li>
+                            <a href="/123520">
+                                <span class="code">123520</span> Títulos de participación</a>
+                        </li>
+                                            <li>
+                            <a href="/123525">
+                                <span class="code">123525</span> Títulos de crédito de fomento</a>
+                        </li>
+                                            <li>
+                            <a href="/123530">
+                                <span class="code">123530</span> Títulos financieros agroindustriales (TFA)</a>
+                        </li>
+                                            <li>
+                            <a href="/123535">
+                                <span class="code">123535</span> Títulos de ahorro cafetero (TAC)</a>
+                        </li>
+                                            <li>
+                            <a href="/123540">
+                                <span class="code">123540</span> Títulos de ahorro nacional (TAN)</a>
+                        </li>
+                                            <li>
+                            <a href="/123545">
+                                <span class="code">123545</span> Títulos energéticos de rentabilidad creciente (TER)</a>
+                        </li>
+                                            <li>
+                            <a href="/123550">
+                                <span class="code">123550</span> Títulos de ahorro educativo (TAE)</a>
+                        </li>
+                                            <li>
+                            <a href="/123555">
+                                <span class="code">123555</span> Títulos financieros industriales y comerciales</a>
+                        </li>
+                                            <li>
+                            <a href="/123560">
+                                <span class="code">123560</span> Tesoros</a>
+                        </li>
+                                            <li>
+                            <a href="/123565">
+                                <span class="code">123565</span> Títulos de devolución de impuestos nacionales (TIDIS)</a>
+                        </li>
+                                            <li>
+                            <a href="/123570">
+                                <span class="code">123570</span> Títulos inmobiliarios</a>
+                        </li>
+                                            <li>
+                            <a href="/123595">
+                                <span class="code">123595</span> Otros</a>
+                        </li>
+                                            <li>
+                            <a href="/1240">
+                                <span class="code">1240</span> Aceptaciones bancarias o financieras</a>
+                        </li>
+                                            <li>
+                            <a href="/124005">
+                                <span class="code">124005</span> Bancos comerciales</a>
+                        </li>
+                                            <li>
+                            <a href="/124010">
+                                <span class="code">124010</span> Compañías de financiamiento comercial</a>
+                        </li>
+                                            <li>
+                            <a href="/124015">
+                                <span class="code">124015</span> Corporaciones financieras</a>
+                        </li>
+                                            <li>
+                            <a href="/124095">
+                                <span class="code">124095</span> Otras</a>
+                        </li>
+                                            <li>
+                            <a href="/1245">
+                                <span class="code">1245</span> Derechos fiduciarios</a>
+                        </li>
+                                            <li>
+                            <a href="/124505">
+                                <span class="code">124505</span> Fideicomisos de inversión moneda nacional</a>
+                        </li>
+                                            <li>
+                            <a href="/124510">
+                                <span class="code">124510</span> Fideicomisos de inversión moneda extranjera</a>
+                        </li>
+                                            <li>
+                            <a href="/1250">
+                                <span class="code">1250</span> Derechos de recompra de inversiones negociadas (repos)</a>
+                        </li>
+                                            <li>
+                            <a href="/125005">
+                                <span class="code">125005</span> Acciones</a>
+                        </li>
+                                            <li>
+                            <a href="/125010">
+                                <span class="code">125010</span> Cuotas o partes de interés social</a>
+                        </li>
+                                            <li>
+                            <a href="/125015">
+                                <span class="code">125015</span> Bonos</a>
+                        </li>
+                                            <li>
+                            <a href="/125020">
+                                <span class="code">125020</span> Cédulas</a>
+                        </li>
+                                            <li>
+                            <a href="/125025">
+                                <span class="code">125025</span> Certificados</a>
+                        </li>
+                                            <li>
+                            <a href="/125030">
+                                <span class="code">125030</span> Papeles comerciales</a>
+                        </li>
+                                            <li>
+                            <a href="/125035">
+                                <span class="code">125035</span> Títulos</a>
+                        </li>
+                                            <li>
+                            <a href="/125040">
+                                <span class="code">125040</span> Aceptaciones bancarias o financieras</a>
+                        </li>
+                                            <li>
+                            <a href="/125095">
+                                <span class="code">125095</span> Otros</a>
+                        </li>
+                                            <li>
+                            <a href="/125099">
+                                <span class="code">125099</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/1255">
+                                <span class="code">1255</span> Obligatorias</a>
+                        </li>
+                                            <li>
+                            <a href="/125505">
+                                <span class="code">125505</span> Bonos de financiamiento especial</a>
+                        </li>
+                                            <li>
+                            <a href="/125510">
+                                <span class="code">125510</span> Bonos de financiamiento presupuestal</a>
+                        </li>
+                                            <li>
+                            <a href="/125515">
+                                <span class="code">125515</span> Bonos para desarrollo social y seguridad interna (BDSI)</a>
+                        </li>
+                                            <li>
+                            <a href="/125595">
+                                <span class="code">125595</span> Otras</a>
+                        </li>
+                                            <li>
+                            <a href="/1260">
+                                <span class="code">1260</span> Cuentas en participación</a>
+                        </li>
+                                            <li>
+                            <a href="/126099">
+                                <span class="code">126099</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/1295">
+                                <span class="code">1295</span> Otras inversiones</a>
+                        </li>
+                                            <li>
+                            <a href="/129505">
+                                <span class="code">129505</span> Aportes en cooperativas</a>
+                        </li>
+                                            <li>
+                            <a href="/129510">
+                                <span class="code">129510</span> Derechos en clubes sociales</a>
+                        </li>
+                                            <li>
+                            <a href="/129515">
+                                <span class="code">129515</span> Acciones o derechos en clubes deportivos</a>
+                        </li>
+                                            <li>
+                            <a href="/129520">
+                                <span class="code">129520</span> Bonos en colegios</a>
+                        </li>
+                                            <li>
+                            <a href="/129595">
+                                <span class="code">129595</span> Diversas</a>
+                        </li>
+                                            <li>
+                            <a href="/129599">
+                                <span class="code">129599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/1299">
+                                <span class="code">1299</span> Provisiones</a>
+                        </li>
+                                            <li>
+                            <a href="/129905">
+                                <span class="code">129905</span> Acciones</a>
+                        </li>
+                                            <li>
+                            <a href="/129910">
+                                <span class="code">129910</span> Cuotas o partes de interés social</a>
+                        </li>
+                                            <li>
+                            <a href="/129915">
+                                <span class="code">129915</span> Bonos</a>
+                        </li>
+                                            <li>
+                            <a href="/129920">
+                                <span class="code">129920</span> Cédulas</a>
+                        </li>
+                                            <li>
+                            <a href="/129925">
+                                <span class="code">129925</span> Certificados</a>
+                        </li>
+                                            <li>
+                            <a href="/129930">
+                                <span class="code">129930</span> Papeles comerciales</a>
+                        </li>
+                                            <li>
+                            <a href="/129935">
+                                <span class="code">129935</span> Títulos</a>
+                        </li>
+                                            <li>
+                            <a href="/129940">
+                                <span class="code">129940</span> Aceptaciones bancarias o financieras</a>
+                        </li>
+                                            <li>
+                            <a href="/129945">
+                                <span class="code">129945</span> Derechos fiduciarios</a>
+                        </li>
+                                            <li>
+                            <a href="/129950">
+                                <span class="code">129950</span> Derechos de recompra de inversiones negociadas</a>
+                        </li>
+                                            <li>
+                            <a href="/129955">
+                                <span class="code">129955</span> Obligatorias</a>
+                        </li>
+                                            <li>
+                            <a href="/129960">
+                                <span class="code">129960</span> Cuentas en participación</a>
+                        </li>
+                                            <li>
+                            <a href="/129995">
+                                <span class="code">129995</span> Otras inversiones</a>
+                        </li>
+                                            <li>
+                            <a href="/13">
+                                <span class="code">13</span> Deudores</a>
+                        </li>
+                                            <li>
+                            <a href="/1305">
+                                <span class="code">1305</span> Clientes</a>
+                        </li>
+                                            <li>
+                            <a href="/130505">
+                                <span class="code">130505</span> Nacionales</a>
+                        </li>
+                                            <li>
+                            <a href="/130510">
+                                <span class="code">130510</span> Del exterior</a>
+                        </li>
+                                            <li>
+                            <a href="/130515">
+                                <span class="code">130515</span> Deudores del sistema</a>
+                        </li>
+                                            <li>
+                            <a href="/1310">
+                                <span class="code">1310</span> Cuentas corrientes comerciales</a>
+                        </li>
+                                            <li>
+                            <a href="/131005">
+                                <span class="code">131005</span> Casa matriz</a>
+                        </li>
+                                            <li>
+                            <a href="/131010">
+                                <span class="code">131010</span> Compañías vinculadas</a>
+                        </li>
+                                            <li>
+                            <a href="/131015">
+                                <span class="code">131015</span> Accionistas o socios</a>
+                        </li>
+                                            <li>
+                            <a href="/131020">
+                                <span class="code">131020</span> Particulares</a>
+                        </li>
+                                            <li>
+                            <a href="/131095">
+                                <span class="code">131095</span> Otras</a>
+                        </li>
+                                            <li>
+                            <a href="/1315">
+                                <span class="code">1315</span> Cuentas por cobrar a casa matriz</a>
+                        </li>
+                                            <li>
+                            <a href="/131505">
+                                <span class="code">131505</span> Ventas</a>
+                        </li>
+                                            <li>
+                            <a href="/131510">
+                                <span class="code">131510</span> Pagos a nombre de casa matriz</a>
+                        </li>
+                                            <li>
+                            <a href="/131515">
+                                <span class="code">131515</span> Valores recibidos por casa matriz</a>
+                        </li>
+                                            <li>
+                            <a href="/131520">
+                                <span class="code">131520</span> Préstamos</a>
+                        </li>
+                                            <li>
+                            <a href="/1320">
+                                <span class="code">1320</span> Cuentas por cobrar a vinculados económicos</a>
+                        </li>
+                                            <li>
+                            <a href="/132005">
+                                <span class="code">132005</span> Filiales</a>
+                        </li>
+                                            <li>
+                            <a href="/132010">
+                                <span class="code">132010</span> Subsidiarias</a>
+                        </li>
+                                            <li>
+                            <a href="/132015">
+                                <span class="code">132015</span> Sucursales</a>
+                        </li>
+                                            <li>
+                            <a href="/1323">
+                                <span class="code">1323</span> Cuentas por cobrar a directores</a>
+                        </li>
+                                            <li>
+                            <a href="/1325">
+                                <span class="code">1325</span> Cuentas por cobrar a socios y accionistas</a>
+                        </li>
+                                            <li>
+                            <a href="/132505">
+                                <span class="code">132505</span> A socios</a>
+                        </li>
+                                            <li>
+                            <a href="/132510">
+                                <span class="code">132510</span> A accionistas</a>
+                        </li>
+                                            <li>
+                            <a href="/1328">
+                                <span class="code">1328</span> Aportes por cobrar</a>
+                        </li>
+                                            <li>
+                            <a href="/1330">
+                                <span class="code">1330</span> Anticipos y avances</a>
+                        </li>
+                                            <li>
+                            <a href="/133005">
+                                <span class="code">133005</span> A proveedores</a>
+                        </li>
+                                            <li>
+                            <a href="/133010">
+                                <span class="code">133010</span> A contratistas</a>
+                        </li>
+                                            <li>
+                            <a href="/133015">
+                                <span class="code">133015</span> A trabajadores</a>
+                        </li>
+                                            <li>
+                            <a href="/133020">
+                                <span class="code">133020</span> A agentes</a>
+                        </li>
+                                            <li>
+                            <a href="/133025">
+                                <span class="code">133025</span> A concesionarios</a>
+                        </li>
+                                            <li>
+                            <a href="/133030">
+                                <span class="code">133030</span> De adjudicaciones</a>
+                        </li>
+                                            <li>
+                            <a href="/133095">
+                                <span class="code">133095</span> Otros</a>
+                        </li>
+                                            <li>
+                            <a href="/133099">
+                                <span class="code">133099</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/1332">
+                                <span class="code">1332</span> Cuentas de operación conjunta</a>
+                        </li>
+                                            <li>
+                            <a href="/1335">
+                                <span class="code">1335</span> Depósitos</a>
+                        </li>
+                                            <li>
+                            <a href="/133505">
+                                <span class="code">133505</span> Para importaciones</a>
+                        </li>
+                                            <li>
+                            <a href="/133510">
+                                <span class="code">133510</span> Para servicios</a>
+                        </li>
+                                            <li>
+                            <a href="/133515">
+                                <span class="code">133515</span> Para contratos</a>
+                        </li>
+                                            <li>
+                            <a href="/133520">
+                                <span class="code">133520</span> Para responsabilidades</a>
+                        </li>
+                                            <li>
+                            <a href="/133525">
+                                <span class="code">133525</span> Para juicios ejecutivos</a>
+                        </li>
+                                            <li>
+                            <a href="/133530">
+                                <span class="code">133530</span> Para adquisición de acciones, cuotas o derechos sociales</a>
+                        </li>
+                                            <li>
+                            <a href="/133535">
+                                <span class="code">133535</span> En garantía</a>
+                        </li>
+                                            <li>
+                            <a href="/133595">
+                                <span class="code">133595</span> Otros</a>
+                        </li>
+                                            <li>
+                            <a href="/1340">
+                                <span class="code">1340</span> Promesas de compra venta</a>
+                        </li>
+                                            <li>
+                            <a href="/134005">
+                                <span class="code">134005</span> De bienes raíces</a>
+                        </li>
+                                            <li>
+                            <a href="/134010">
+                                <span class="code">134010</span> De maquinaria y equipo</a>
+                        </li>
+                                            <li>
+                            <a href="/134015">
+                                <span class="code">134015</span> De flota y equipo de transporte</a>
+                        </li>
+                                            <li>
+                            <a href="/134020">
+                                <span class="code">134020</span> De flota y equipo aéreo</a>
+                        </li>
+                                            <li>
+                            <a href="/134025">
+                                <span class="code">134025</span> De flota y equipo férreo</a>
+                        </li>
+                                            <li>
+                            <a href="/134030">
+                                <span class="code">134030</span> De flota y equipo  fluvial y/o marítimo</a>
+                        </li>
+                                            <li>
+                            <a href="/134035">
+                                <span class="code">134035</span> De semovientes</a>
+                        </li>
+                                            <li>
+                            <a href="/134095">
+                                <span class="code">134095</span> De otros bienes</a>
+                        </li>
+                                            <li>
+                            <a href="/1345">
+                                <span class="code">1345</span> Ingresos por cobrar</a>
+                        </li>
+                                            <li>
+                            <a href="/134505">
+                                <span class="code">134505</span> Dividendos y/o participaciones</a>
+                        </li>
+                                            <li>
+                            <a href="/134510">
+                                <span class="code">134510</span> Intereses</a>
+                        </li>
+                                            <li>
+                            <a href="/134515">
+                                <span class="code">134515</span> Comisiones</a>
+                        </li>
+                                            <li>
+                            <a href="/134520">
+                                <span class="code">134520</span> Honorarios</a>
+                        </li>
+                                            <li>
+                            <a href="/134525">
+                                <span class="code">134525</span> Servicios</a>
+                        </li>
+                                            <li>
+                            <a href="/134530">
+                                <span class="code">134530</span> Arrendamientos</a>
+                        </li>
+                                            <li>
+                            <a href="/134535">
+                                <span class="code">134535</span> CERT por cobrar</a>
+                        </li>
+                                            <li>
+                            <a href="/134595">
+                                <span class="code">134595</span> Otros</a>
+                        </li>
+                                            <li>
+                            <a href="/1350">
+                                <span class="code">1350</span> Retención sobre contratos</a>
+                        </li>
+                                            <li>
+                            <a href="/135005">
+                                <span class="code">135005</span> De construcción</a>
+                        </li>
+                                            <li>
+                            <a href="/135010">
+                                <span class="code">135010</span> De prestación de servicios</a>
+                        </li>
+                                            <li>
+                            <a href="/135095">
+                                <span class="code">135095</span> Otros</a>
+                        </li>
+                                            <li>
+                            <a href="/1355">
+                                <span class="code">1355</span> Anticipo de impuestos y contribuciones o saldos a favor</a>
+                        </li>
+                                            <li>
+                            <a href="/135505">
+                                <span class="code">135505</span> Anticipo de impuestos de renta y complementarios</a>
+                        </li>
+                                            <li>
+                            <a href="/135510">
+                                <span class="code">135510</span> Anticipo de impuestos de industria y comercio</a>
+                        </li>
+                                            <li>
+                            <a href="/135515">
+                                <span class="code">135515</span> Retención en la fuente</a>
+                        </li>
+                                            <li>
+                            <a href="/135517">
+                                <span class="code">135517</span> Impuesto a las ventas retenido</a>
+                        </li>
+                                            <li>
+                            <a href="/135518">
+                                <span class="code">135518</span> Impuesto de industria y comercio retenido</a>
+                        </li>
+                                            <li>
+                            <a href="/135520">
+                                <span class="code">135520</span> Sobrantes en liquidación privada de impuestos</a>
+                        </li>
+                                            <li>
+                            <a href="/135525">
+                                <span class="code">135525</span> Contribuciones</a>
+                        </li>
+                                            <li>
+                            <a href="/135530">
+                                <span class="code">135530</span> Impuestos descontables</a>
+                        </li>
+                                            <li>
+                            <a href="/135595">
+                                <span class="code">135595</span> Otros</a>
+                        </li>
+                                            <li>
+                            <a href="/1360">
+                                <span class="code">1360</span> Reclamaciones</a>
+                        </li>
+                                            <li>
+                            <a href="/136005">
+                                <span class="code">136005</span> A compañías aseguradoras</a>
+                        </li>
+                                            <li>
+                            <a href="/136010">
+                                <span class="code">136010</span> A transportadores</a>
+                        </li>
+                                            <li>
+                            <a href="/136015">
+                                <span class="code">136015</span> Por tiquetes aéreos</a>
+                        </li>
+                                            <li>
+                            <a href="/136095">
+                                <span class="code">136095</span> Otras</a>
+                        </li>
+                                            <li>
+                            <a href="/1365">
+                                <span class="code">1365</span> Cuentas por cobrar a trabajadores</a>
+                        </li>
+                                            <li>
+                            <a href="/136505">
+                                <span class="code">136505</span> Vivienda</a>
+                        </li>
+                                            <li>
+                            <a href="/136510">
+                                <span class="code">136510</span> Vehículos</a>
+                        </li>
+                                            <li>
+                            <a href="/136515">
+                                <span class="code">136515</span> Educación</a>
+                        </li>
+                                            <li>
+                            <a href="/136520">
+                                <span class="code">136520</span> Médicos, odontológicos y similares</a>
+                        </li>
+                                            <li>
+                            <a href="/136525">
+                                <span class="code">136525</span> Calamidad doméstica</a>
+                        </li>
+                                            <li>
+                            <a href="/136530">
+                                <span class="code">136530</span> Responsabilidades</a>
+                        </li>
+                                            <li>
+                            <a href="/136595">
+                                <span class="code">136595</span> Otros</a>
+                        </li>
+                                            <li>
+                            <a href="/1370">
+                                <span class="code">1370</span> Préstamos a particulares</a>
+                        </li>
+                                            <li>
+                            <a href="/137005">
+                                <span class="code">137005</span> Con garantía real</a>
+                        </li>
+                                            <li>
+                            <a href="/137010">
+                                <span class="code">137010</span> Con garantía personal</a>
+                        </li>
+                                            <li>
+                            <a href="/1380">
+                                <span class="code">1380</span> Deudores varios</a>
+                        </li>
+                                            <li>
+                            <a href="/138005">
+                                <span class="code">138005</span> Depositarios</a>
+                        </li>
+                                            <li>
+                            <a href="/138010">
+                                <span class="code">138010</span> Comisionistas de bolsas</a>
+                        </li>
+                                            <li>
+                            <a href="/138015">
+                                <span class="code">138015</span> Fondo de inversión</a>
+                        </li>
+                                            <li>
+                            <a href="/138020">
+                                <span class="code">138020</span> Cuentas por cobrar de terceros</a>
+                        </li>
+                                            <li>
+                            <a href="/138025">
+                                <span class="code">138025</span> Pagos por cuenta de terceros</a>
+                        </li>
+                                            <li>
+                            <a href="/138030">
+                                <span class="code">138030</span> Fondos de inversión social</a>
+                        </li>
+                                            <li>
+                            <a href="/138095">
+                                <span class="code">138095</span> Otros</a>
+                        </li>
+                                            <li>
+                            <a href="/1385">
+                                <span class="code">1385</span> Derechos de recompra de cartera negociada</a>
+                        </li>
+                                            <li>
+                            <a href="/1390">
+                                <span class="code">1390</span> Deudas de difícil cobro</a>
+                        </li>
+                                            <li>
+                            <a href="/1399">
+                                <span class="code">1399</span> Provisiones</a>
+                        </li>
+                                            <li>
+                            <a href="/139905">
+                                <span class="code">139905</span> Clientes</a>
+                        </li>
+                                            <li>
+                            <a href="/139910">
+                                <span class="code">139910</span> Cuentas corrientes comerciales</a>
+                        </li>
+                                            <li>
+                            <a href="/139915">
+                                <span class="code">139915</span> Cuentas por cobrar a casa matriz</a>
+                        </li>
+                                            <li>
+                            <a href="/139920">
+                                <span class="code">139920</span> Cuentas por cobrar a vinculados económicos</a>
+                        </li>
+                                            <li>
+                            <a href="/139925">
+                                <span class="code">139925</span> Cuentas por cobrar a socios y accionistas</a>
+                        </li>
+                                            <li>
+                            <a href="/139930">
+                                <span class="code">139930</span> Anticipos y avances</a>
+                        </li>
+                                            <li>
+                            <a href="/139932">
+                                <span class="code">139932</span> Cuentas de operación conjunta</a>
+                        </li>
+                                            <li>
+                            <a href="/139935">
+                                <span class="code">139935</span> Depósitos</a>
+                        </li>
+                                            <li>
+                            <a href="/139940">
+                                <span class="code">139940</span> Promesas de compraventa</a>
+                        </li>
+                                            <li>
+                            <a href="/139945">
+                                <span class="code">139945</span> Ingresos por cobrar</a>
+                        </li>
+                                            <li>
+                            <a href="/139950">
+                                <span class="code">139950</span> Retención sobre contratos</a>
+                        </li>
+                                            <li>
+                            <a href="/139955">
+                                <span class="code">139955</span> Reclamaciones</a>
+                        </li>
+                                            <li>
+                            <a href="/139960">
+                                <span class="code">139960</span> Cuentas por cobrar a trabajadores</a>
+                        </li>
+                                            <li>
+                            <a href="/139965">
+                                <span class="code">139965</span> Préstamos a particulares</a>
+                        </li>
+                                            <li>
+                            <a href="/139975">
+                                <span class="code">139975</span> Deudores varios</a>
+                        </li>
+                                            <li>
+                            <a href="/139980">
+                                <span class="code">139980</span> Derechos de recompra de cartera negociada</a>
+                        </li>
+                                            <li>
+                            <a href="/14">
+                                <span class="code">14</span> Inventarios</a>
+                        </li>
+                                            <li>
+                            <a href="/1405">
+                                <span class="code">1405</span> Materias primas</a>
+                        </li>
+                                            <li>
+                            <a href="/140599">
+                                <span class="code">140599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/1410">
+                                <span class="code">1410</span> Productos en proceso</a>
+                        </li>
+                                            <li>
+                            <a href="/141099">
+                                <span class="code">141099</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/1415">
+                                <span class="code">1415</span> Obras de construcción en curso</a>
+                        </li>
+                                            <li>
+                            <a href="/141599">
+                                <span class="code">141599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/1417">
+                                <span class="code">1417</span> Obras de urbanismo</a>
+                        </li>
+                                            <li>
+                            <a href="/141799">
+                                <span class="code">141799</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/1420">
+                                <span class="code">1420</span> Contratos en ejecución</a>
+                        </li>
+                                            <li>
+                            <a href="/142099">
+                                <span class="code">142099</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/1425">
+                                <span class="code">1425</span> Cultivos en desarrollo</a>
+                        </li>
+                                            <li>
+                            <a href="/142599">
+                                <span class="code">142599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/1428">
+                                <span class="code">1428</span> Plantaciones agrícolas</a>
+                        </li>
+                                            <li>
+                            <a href="/142899">
+                                <span class="code">142899</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/1430">
+                                <span class="code">1430</span> Productos terminados</a>
+                        </li>
+                                            <li>
+                            <a href="/143005">
+                                <span class="code">143005</span> Productos manufacturados</a>
+                        </li>
+                                            <li>
+                            <a href="/143010">
+                                <span class="code">143010</span> Productos extraídos y/o procesados</a>
+                        </li>
+                                            <li>
+                            <a href="/143015">
+                                <span class="code">143015</span> Productos agrícolas y forestales</a>
+                        </li>
+                                            <li>
+                            <a href="/143020">
+                                <span class="code">143020</span> Subproductos</a>
+                        </li>
+                                            <li>
+                            <a href="/143025">
+                                <span class="code">143025</span> Productos de pesca</a>
+                        </li>
+                                            <li>
+                            <a href="/143099">
+                                <span class="code">143099</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/1435">
+                                <span class="code">1435</span> Mercancías no fabricadas por la empresa</a>
+                        </li>
+                                            <li>
+                            <a href="/143599">
+                                <span class="code">143599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/1440">
+                                <span class="code">1440</span> Bienes raíces para la venta</a>
+                        </li>
+                                            <li>
+                            <a href="/144099">
+                                <span class="code">144099</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/1445">
+                                <span class="code">1445</span> Semovientes</a>
+                        </li>
+                                            <li>
+                            <a href="/144599">
+                                <span class="code">144599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/1450">
+                                <span class="code">1450</span> Terrenos</a>
+                        </li>
+                                            <li>
+                            <a href="/145005">
+                                <span class="code">145005</span> Por urbanizar</a>
+                        </li>
+                                            <li>
+                            <a href="/145010">
+                                <span class="code">145010</span> Urbanizados por construir</a>
+                        </li>
+                                            <li>
+                            <a href="/145099">
+                                <span class="code">145099</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/1455">
+                                <span class="code">1455</span> Materiales, repuestos y accesorios</a>
+                        </li>
+                                            <li>
+                            <a href="/145599">
+                                <span class="code">145599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/1460">
+                                <span class="code">1460</span> Envases y empaques</a>
+                        </li>
+                                            <li>
+                            <a href="/146099">
+                                <span class="code">146099</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/1465">
+                                <span class="code">1465</span> Inventarios en tránsito</a>
+                        </li>
+                                            <li>
+                            <a href="/146599">
+                                <span class="code">146599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/1499">
+                                <span class="code">1499</span> Provisiones</a>
+                        </li>
+                                            <li>
+                            <a href="/149905">
+                                <span class="code">149905</span> Para obsolescencia</a>
+                        </li>
+                                            <li>
+                            <a href="/149910">
+                                <span class="code">149910</span> Para diferencia de inventario físico</a>
+                        </li>
+                                            <li>
+                            <a href="/149915">
+                                <span class="code">149915</span> Para pérdidas de inventarios</a>
+                        </li>
+                                            <li>
+                            <a href="/149920">
+                                <span class="code">149920</span> Lifo</a>
+                        </li>
+                                            <li>
+                            <a href="/15">
+                                <span class="code">15</span> Propiedades, planta y equipo</a>
+                        </li>
+                                            <li>
+                            <a href="/1504">
+                                <span class="code">1504</span> Terrenos</a>
+                        </li>
+                                            <li>
+                            <a href="/150405">
+                                <span class="code">150405</span> Urbanos</a>
+                        </li>
+                                            <li>
+                            <a href="/150410">
+                                <span class="code">150410</span> Rurales</a>
+                        </li>
+                                            <li>
+                            <a href="/150499">
+                                <span class="code">150499</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/1506">
+                                <span class="code">1506</span> Materiales proyectos petroleros</a>
+                        </li>
+                                            <li>
+                            <a href="/150605">
+                                <span class="code">150605</span> Tuberías y equipo</a>
+                        </li>
+                                            <li>
+                            <a href="/150610">
+                                <span class="code">150610</span> Costos de importación materiales</a>
+                        </li>
+                                            <li>
+                            <a href="/150615">
+                                <span class="code">150615</span> Proyectos de construcción</a>
+                        </li>
+                                            <li>
+                            <a href="/150699">
+                                <span class="code">150699</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/1508">
+                                <span class="code">1508</span> Construcciones en curso</a>
+                        </li>
+                                            <li>
+                            <a href="/150805">
+                                <span class="code">150805</span> Construcciones y edificaciones</a>
+                        </li>
+                                            <li>
+                            <a href="/150810">
+                                <span class="code">150810</span> Acueductos, plantas y redes</a>
+                        </li>
+                                            <li>
+                            <a href="/150815">
+                                <span class="code">150815</span> Vías de comunicación</a>
+                        </li>
+                                            <li>
+                            <a href="/150820">
+                                <span class="code">150820</span> Pozos artesianos</a>
+                        </li>
+                                            <li>
+                            <a href="/150825">
+                                <span class="code">150825</span> Proyectos de exploración</a>
+                        </li>
+                                            <li>
+                            <a href="/150830">
+                                <span class="code">150830</span> Proyectos de desarrollo</a>
+                        </li>
+                                            <li>
+                            <a href="/150899">
+                                <span class="code">150899</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/1512">
+                                <span class="code">1512</span> Maquinaria y equipos en montaje</a>
+                        </li>
+                                            <li>
+                            <a href="/151205">
+                                <span class="code">151205</span> Maquinaria y equipo</a>
+                        </li>
+                                            <li>
+                            <a href="/151210">
+                                <span class="code">151210</span> Equipo de oficina</a>
+                        </li>
+                                            <li>
+                            <a href="/151215">
+                                <span class="code">151215</span> Equipo de computación y comunicación</a>
+                        </li>
+                                            <li>
+                            <a href="/151220">
+                                <span class="code">151220</span> Equipo médico-científico</a>
+                        </li>
+                                            <li>
+                            <a href="/151225">
+                                <span class="code">151225</span> Equipo de hoteles y restaurantes</a>
+                        </li>
+                                            <li>
+                            <a href="/151230">
+                                <span class="code">151230</span> Flota y equipo de transporte</a>
+                        </li>
+                                            <li>
+                            <a href="/151235">
+                                <span class="code">151235</span> Flota y equipo fluvial y/o marítimo</a>
+                        </li>
+                                            <li>
+                            <a href="/151240">
+                                <span class="code">151240</span> Flota y equipo aéreo</a>
+                        </li>
+                                            <li>
+                            <a href="/151245">
+                                <span class="code">151245</span> Flota y equipo férreo</a>
+                        </li>
+                                            <li>
+                            <a href="/151250">
+                                <span class="code">151250</span> Plantas y redes</a>
+                        </li>
+                                            <li>
+                            <a href="/151299">
+                                <span class="code">151299</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/1516">
+                                <span class="code">1516</span> Construcciones y edificaciones</a>
+                        </li>
+                                            <li>
+                            <a href="/151605">
+                                <span class="code">151605</span> Edificios</a>
+                        </li>
+                                            <li>
+                            <a href="/151610">
+                                <span class="code">151610</span> Oficinas</a>
+                        </li>
+                                            <li>
+                            <a href="/151615">
+                                <span class="code">151615</span> Almacenes</a>
+                        </li>
+                                            <li>
+                            <a href="/151620">
+                                <span class="code">151620</span> Fábricas y plantas industriales</a>
+                        </li>
+                                            <li>
+                            <a href="/151625">
+                                <span class="code">151625</span> Salas de exhibición y ventas</a>
+                        </li>
+                                            <li>
+                            <a href="/151630">
+                                <span class="code">151630</span> Cafetería y casinos</a>
+                        </li>
+                                            <li>
+                            <a href="/151635">
+                                <span class="code">151635</span> Silos</a>
+                        </li>
+                                            <li>
+                            <a href="/151640">
+                                <span class="code">151640</span> Invernaderos</a>
+                        </li>
+                                            <li>
+                            <a href="/151645">
+                                <span class="code">151645</span> Casetas y campamentos</a>
+                        </li>
+                                            <li>
+                            <a href="/151650">
+                                <span class="code">151650</span> Instalaciones agropecuarias</a>
+                        </li>
+                                            <li>
+                            <a href="/151655">
+                                <span class="code">151655</span> Viviendas para empleados y obreros</a>
+                        </li>
+                                            <li>
+                            <a href="/151660">
+                                <span class="code">151660</span> Terminal de buses y taxis</a>
+                        </li>
+                                            <li>
+                            <a href="/151663">
+                                <span class="code">151663</span> Terminal marítimo</a>
+                        </li>
+                                            <li>
+                            <a href="/151665">
+                                <span class="code">151665</span> Terminal férreo</a>
+                        </li>
+                                            <li>
+                            <a href="/151670">
+                                <span class="code">151670</span> Parqueaderos, garajes y depósitos</a>
+                        </li>
+                                            <li>
+                            <a href="/151675">
+                                <span class="code">151675</span> Hangares</a>
+                        </li>
+                                            <li>
+                            <a href="/151680">
+                                <span class="code">151680</span> Bodegas</a>
+                        </li>
+                                            <li>
+                            <a href="/151695">
+                                <span class="code">151695</span> Otros</a>
+                        </li>
+                                            <li>
+                            <a href="/151699">
+                                <span class="code">151699</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/1520">
+                                <span class="code">1520</span> Maquinaria y equipo</a>
+                        </li>
+                                            <li>
+                            <a href="/152099">
+                                <span class="code">152099</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/1524">
+                                <span class="code">1524</span> Equipo de oficina</a>
+                        </li>
+                                            <li>
+                            <a href="/152405">
+                                <span class="code">152405</span> Muebles y enseres</a>
+                        </li>
+                                            <li>
+                            <a href="/152410">
+                                <span class="code">152410</span> Equipos</a>
+                        </li>
+                                            <li>
+                            <a href="/152495">
+                                <span class="code">152495</span> Otros</a>
+                        </li>
+                                            <li>
+                            <a href="/152499">
+                                <span class="code">152499</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/1528">
+                                <span class="code">1528</span> Equipo de computación y comunicación</a>
+                        </li>
+                                            <li>
+                            <a href="/152805">
+                                <span class="code">152805</span> Equipos de procesamiento de datos</a>
+                        </li>
+                                            <li>
+                            <a href="/152810">
+                                <span class="code">152810</span> Equipos de telecomunicaciones</a>
+                        </li>
+                                            <li>
+                            <a href="/152815">
+                                <span class="code">152815</span> Equipos de radio</a>
+                        </li>
+                                            <li>
+                            <a href="/152820">
+                                <span class="code">152820</span> Satélites y antenas</a>
+                        </li>
+                                            <li>
+                            <a href="/152825">
+                                <span class="code">152825</span> Líneas telefónicas</a>
+                        </li>
+                                            <li>
+                            <a href="/152895">
+                                <span class="code">152895</span> Otros</a>
+                        </li>
+                                            <li>
+                            <a href="/152899">
+                                <span class="code">152899</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/1532">
+                                <span class="code">1532</span> Equipo médico-científico</a>
+                        </li>
+                                            <li>
+                            <a href="/153205">
+                                <span class="code">153205</span> Médico</a>
+                        </li>
+                                            <li>
+                            <a href="/153210">
+                                <span class="code">153210</span> Odontológico</a>
+                        </li>
+                                            <li>
+                            <a href="/153215">
+                                <span class="code">153215</span> Laboratorio</a>
+                        </li>
+                                            <li>
+                            <a href="/153220">
+                                <span class="code">153220</span> Instrumental</a>
+                        </li>
+                                            <li>
+                            <a href="/153295">
+                                <span class="code">153295</span> Otros</a>
+                        </li>
+                                            <li>
+                            <a href="/153299">
+                                <span class="code">153299</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/1536">
+                                <span class="code">1536</span> Equipo de hoteles y restaurantes</a>
+                        </li>
+                                            <li>
+                            <a href="/153605">
+                                <span class="code">153605</span> De habitaciones</a>
+                        </li>
+                                            <li>
+                            <a href="/153610">
+                                <span class="code">153610</span> De comestibles y bebidas</a>
+                        </li>
+                                            <li>
+                            <a href="/153695">
+                                <span class="code">153695</span> Otros</a>
+                        </li>
+                                            <li>
+                            <a href="/153699">
+                                <span class="code">153699</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/1540">
+                                <span class="code">1540</span> Flota y equipo de transporte</a>
+                        </li>
+                                            <li>
+                            <a href="/154005">
+                                <span class="code">154005</span> Autos, camionetas y camperos</a>
+                        </li>
+                                            <li>
+                            <a href="/154008">
+                                <span class="code">154008</span> Camiones, volquetas y furgones</a>
+                        </li>
+                                            <li>
+                            <a href="/154010">
+                                <span class="code">154010</span> Tractomulas y remolques</a>
+                        </li>
+                                            <li>
+                            <a href="/154015">
+                                <span class="code">154015</span> Buses y busetas</a>
+                        </li>
+                                            <li>
+                            <a href="/154017">
+                                <span class="code">154017</span> Recolectores y contenedores</a>
+                        </li>
+                                            <li>
+                            <a href="/154020">
+                                <span class="code">154020</span> Montacargas</a>
+                        </li>
+                                            <li>
+                            <a href="/154025">
+                                <span class="code">154025</span> Palas y grúas</a>
+                        </li>
+                                            <li>
+                            <a href="/154030">
+                                <span class="code">154030</span> Motocicletas</a>
+                        </li>
+                                            <li>
+                            <a href="/154035">
+                                <span class="code">154035</span> Bicicletas</a>
+                        </li>
+                                            <li>
+                            <a href="/154040">
+                                <span class="code">154040</span> Estibas y carretas</a>
+                        </li>
+                                            <li>
+                            <a href="/154045">
+                                <span class="code">154045</span> Bandas transportadoras</a>
+                        </li>
+                                            <li>
+                            <a href="/154095">
+                                <span class="code">154095</span> Otros</a>
+                        </li>
+                                            <li>
+                            <a href="/154099">
+                                <span class="code">154099</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/1544">
+                                <span class="code">1544</span> Flota y equipo fluvial y/o marítimo</a>
+                        </li>
+                                            <li>
+                            <a href="/154405">
+                                <span class="code">154405</span> Buques</a>
+                        </li>
+                                            <li>
+                            <a href="/154410">
+                                <span class="code">154410</span> Lanchas</a>
+                        </li>
+                                            <li>
+                            <a href="/154415">
+                                <span class="code">154415</span> Remolcadoras</a>
+                        </li>
+                                            <li>
+                            <a href="/154420">
+                                <span class="code">154420</span> Botes</a>
+                        </li>
+                                            <li>
+                            <a href="/154425">
+                                <span class="code">154425</span> Boyas</a>
+                        </li>
+                                            <li>
+                            <a href="/154430">
+                                <span class="code">154430</span> Amarres</a>
+                        </li>
+                                            <li>
+                            <a href="/154435">
+                                <span class="code">154435</span> Contenedores y chasises</a>
+                        </li>
+                                            <li>
+                            <a href="/154440">
+                                <span class="code">154440</span> Gabarras</a>
+                        </li>
+                                            <li>
+                            <a href="/154495">
+                                <span class="code">154495</span> Otros</a>
+                        </li>
+                                            <li>
+                            <a href="/154499">
+                                <span class="code">154499</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/1548">
+                                <span class="code">1548</span> Flota y equipo aéreo</a>
+                        </li>
+                                            <li>
+                            <a href="/154805">
+                                <span class="code">154805</span> Aviones</a>
+                        </li>
+                                            <li>
+                            <a href="/154810">
+                                <span class="code">154810</span> Avionetas</a>
+                        </li>
+                                            <li>
+                            <a href="/154815">
+                                <span class="code">154815</span> Helicópteros</a>
+                        </li>
+                                            <li>
+                            <a href="/154820">
+                                <span class="code">154820</span> Turbinas y motores</a>
+                        </li>
+                                            <li>
+                            <a href="/154825">
+                                <span class="code">154825</span> Manuales de entrenamiento personal técnico</a>
+                        </li>
+                                            <li>
+                            <a href="/154830">
+                                <span class="code">154830</span> Equipos de vuelo</a>
+                        </li>
+                                            <li>
+                            <a href="/154895">
+                                <span class="code">154895</span> Otros</a>
+                        </li>
+                                            <li>
+                            <a href="/154899">
+                                <span class="code">154899</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/1552">
+                                <span class="code">1552</span> Flota y equipo férreo</a>
+                        </li>
+                                            <li>
+                            <a href="/155205">
+                                <span class="code">155205</span> Locomotoras</a>
+                        </li>
+                                            <li>
+                            <a href="/155210">
+                                <span class="code">155210</span> Vagones</a>
+                        </li>
+                                            <li>
+                            <a href="/155215">
+                                <span class="code">155215</span> Redes férreas</a>
+                        </li>
+                                            <li>
+                            <a href="/155295">
+                                <span class="code">155295</span> Otros</a>
+                        </li>
+                                            <li>
+                            <a href="/155299">
+                                <span class="code">155299</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/1556">
+                                <span class="code">1556</span> Acueductos, plantas y redes</a>
+                        </li>
+                                            <li>
+                            <a href="/155605">
+                                <span class="code">155605</span> Instalaciones para agua y energía</a>
+                        </li>
+                                            <li>
+                            <a href="/155610">
+                                <span class="code">155610</span> Acueducto, acequias y canalizaciones</a>
+                        </li>
+                                            <li>
+                            <a href="/155615">
+                                <span class="code">155615</span> Plantas de generación hidráulica</a>
+                        </li>
+                                            <li>
+                            <a href="/155620">
+                                <span class="code">155620</span> Plantas de generación térmica</a>
+                        </li>
+                                            <li>
+                            <a href="/155625">
+                                <span class="code">155625</span> Plantas de generación a gas</a>
+                        </li>
+                                            <li>
+                            <a href="/155628">
+                                <span class="code">155628</span> Plantas de generación diesel, gasolina y petróleo</a>
+                        </li>
+                                            <li>
+                            <a href="/155630">
+                                <span class="code">155630</span> Plantas de distribución</a>
+                        </li>
+                                            <li>
+                            <a href="/155635">
+                                <span class="code">155635</span> Plantas de transmisión y subestaciones</a>
+                        </li>
+                                            <li>
+                            <a href="/155640">
+                                <span class="code">155640</span> Oleoductos</a>
+                        </li>
+                                            <li>
+                            <a href="/155645">
+                                <span class="code">155645</span> Gasoductos</a>
+                        </li>
+                                            <li>
+                            <a href="/155647">
+                                <span class="code">155647</span> Poliductos</a>
+                        </li>
+                                            <li>
+                            <a href="/155650">
+                                <span class="code">155650</span> Redes de distribución</a>
+                        </li>
+                                            <li>
+                            <a href="/155655">
+                                <span class="code">155655</span> Plantas de tratamiento</a>
+                        </li>
+                                            <li>
+                            <a href="/155660">
+                                <span class="code">155660</span> Redes de recolección de aguas negras</a>
+                        </li>
+                                            <li>
+                            <a href="/155665">
+                                <span class="code">155665</span> Instalaciones y equipo de bombeo</a>
+                        </li>
+                                            <li>
+                            <a href="/155670">
+                                <span class="code">155670</span> Redes de distribución de vapor</a>
+                        </li>
+                                            <li>
+                            <a href="/155675">
+                                <span class="code">155675</span> Redes de aire</a>
+                        </li>
+                                            <li>
+                            <a href="/155680">
+                                <span class="code">155680</span> Redes alimentación de gas</a>
+                        </li>
+                                            <li>
+                            <a href="/155682">
+                                <span class="code">155682</span> Redes externas de telefonía</a>
+                        </li>
+                                            <li>
+                            <a href="/155685">
+                                <span class="code">155685</span> Plantas deshidratadoras</a>
+                        </li>
+                                            <li>
+                            <a href="/155695">
+                                <span class="code">155695</span> Otros</a>
+                        </li>
+                                            <li>
+                            <a href="/155699">
+                                <span class="code">155699</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/1560">
+                                <span class="code">1560</span> Armamento de vigilancia</a>
+                        </li>
+                                            <li>
+                            <a href="/156099">
+                                <span class="code">156099</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/1562">
+                                <span class="code">1562</span> Envases y empaques</a>
+                        </li>
+                                            <li>
+                            <a href="/156299">
+                                <span class="code">156299</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/1564">
+                                <span class="code">1564</span> Plantaciones agrícolas y forestales</a>
+                        </li>
+                                            <li>
+                            <a href="/156405">
+                                <span class="code">156405</span> Cultivos en desarrollo</a>
+                        </li>
+                                            <li>
+                            <a href="/156410">
+                                <span class="code">156410</span> Cultivos amortizables</a>
+                        </li>
+                                            <li>
+                            <a href="/156499">
+                                <span class="code">156499</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/1568">
+                                <span class="code">1568</span> Vías de comunicación</a>
+                        </li>
+                                            <li>
+                            <a href="/156805">
+                                <span class="code">156805</span> Pavimentación y patios</a>
+                        </li>
+                                            <li>
+                            <a href="/156810">
+                                <span class="code">156810</span> Vías</a>
+                        </li>
+                                            <li>
+                            <a href="/156815">
+                                <span class="code">156815</span> Puentes</a>
+                        </li>
+                                            <li>
+                            <a href="/156820">
+                                <span class="code">156820</span> Calles</a>
+                        </li>
+                                            <li>
+                            <a href="/156825">
+                                <span class="code">156825</span> Aeródromos</a>
+                        </li>
+                                            <li>
+                            <a href="/156895">
+                                <span class="code">156895</span> Otros</a>
+                        </li>
+                                            <li>
+                            <a href="/156899">
+                                <span class="code">156899</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/1572">
+                                <span class="code">1572</span> Minas y canteras</a>
+                        </li>
+                                            <li>
+                            <a href="/157205">
+                                <span class="code">157205</span> Minas</a>
+                        </li>
+                                            <li>
+                            <a href="/157210">
+                                <span class="code">157210</span> Canteras</a>
+                        </li>
+                                            <li>
+                            <a href="/157299">
+                                <span class="code">157299</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/1576">
+                                <span class="code">1576</span> Pozos artesianos</a>
+                        </li>
+                                            <li>
+                            <a href="/157699">
+                                <span class="code">157699</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/1580">
+                                <span class="code">1580</span> Yacimientos</a>
+                        </li>
+                                            <li>
+                            <a href="/158099">
+                                <span class="code">158099</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/1584">
+                                <span class="code">1584</span> Semovientes</a>
+                        </li>
+                                            <li>
+                            <a href="/158499">
+                                <span class="code">158499</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/1588">
+                                <span class="code">1588</span> Propiedades, planta y equipo en tránsito</a>
+                        </li>
+                                            <li>
+                            <a href="/158805">
+                                <span class="code">158805</span> Maquinaria y equipo</a>
+                        </li>
+                                            <li>
+                            <a href="/158810">
+                                <span class="code">158810</span> Equipo de oficina</a>
+                        </li>
+                                            <li>
+                            <a href="/158815">
+                                <span class="code">158815</span> Equipo de computación y comunicación</a>
+                        </li>
+                                            <li>
+                            <a href="/158820">
+                                <span class="code">158820</span> Equipo médico-científico</a>
+                        </li>
+                                            <li>
+                            <a href="/158825">
+                                <span class="code">158825</span> Equipo de hoteles y restaurantes</a>
+                        </li>
+                                            <li>
+                            <a href="/158830">
+                                <span class="code">158830</span> Flota y equipo de transporte</a>
+                        </li>
+                                            <li>
+                            <a href="/158835">
+                                <span class="code">158835</span> Flota y equipo fluvial y/o marítimo</a>
+                        </li>
+                                            <li>
+                            <a href="/158840">
+                                <span class="code">158840</span> Flota y equipo aéreo</a>
+                        </li>
+                                            <li>
+                            <a href="/158845">
+                                <span class="code">158845</span> Flota y equipo férreo</a>
+                        </li>
+                                            <li>
+                            <a href="/158850">
+                                <span class="code">158850</span> Plantas y redes</a>
+                        </li>
+                                            <li>
+                            <a href="/158855">
+                                <span class="code">158855</span> Armamento de vigilancia</a>
+                        </li>
+                                            <li>
+                            <a href="/158860">
+                                <span class="code">158860</span> Semovientes</a>
+                        </li>
+                                            <li>
+                            <a href="/158865">
+                                <span class="code">158865</span> Envases y empaques</a>
+                        </li>
+                                            <li>
+                            <a href="/158899">
+                                <span class="code">158899</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/1592">
+                                <span class="code">1592</span> Depreciación acumulada</a>
+                        </li>
+                                            <li>
+                            <a href="/159205">
+                                <span class="code">159205</span> Construcciones y edificaciones</a>
+                        </li>
+                                            <li>
+                            <a href="/159210">
+                                <span class="code">159210</span> Maquinaria y equipo</a>
+                        </li>
+                                            <li>
+                            <a href="/159215">
+                                <span class="code">159215</span> Equipo de oficina</a>
+                        </li>
+                                            <li>
+                            <a href="/159220">
+                                <span class="code">159220</span> Equipo de computación y comunicación</a>
+                        </li>
+                                            <li>
+                            <a href="/159225">
+                                <span class="code">159225</span> Equipo médico-científico</a>
+                        </li>
+                                            <li>
+                            <a href="/159230">
+                                <span class="code">159230</span> Equipo de hoteles y restaurantes</a>
+                        </li>
+                                            <li>
+                            <a href="/159235">
+                                <span class="code">159235</span> Flota y equipo de transporte</a>
+                        </li>
+                                            <li>
+                            <a href="/159240">
+                                <span class="code">159240</span> Flota y equipo fluvial y/o marítimo</a>
+                        </li>
+                                            <li>
+                            <a href="/159245">
+                                <span class="code">159245</span> Flota y equipo aéreo</a>
+                        </li>
+                                            <li>
+                            <a href="/159250">
+                                <span class="code">159250</span> Flota y equipo férreo</a>
+                        </li>
+                                            <li>
+                            <a href="/159255">
+                                <span class="code">159255</span> Acueductos, plantas y redes</a>
+                        </li>
+                                            <li>
+                            <a href="/159260">
+                                <span class="code">159260</span> Armamento de vigilancia</a>
+                        </li>
+                                            <li>
+                            <a href="/159265">
+                                <span class="code">159265</span> Envases y empaques</a>
+                        </li>
+                                            <li>
+                            <a href="/159299">
+                                <span class="code">159299</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/1596">
+                                <span class="code">1596</span> Depreciación diferida</a>
+                        </li>
+                                            <li>
+                            <a href="/159605">
+                                <span class="code">159605</span> Exceso fiscal sobre la contable</a>
+                        </li>
+                                            <li>
+                            <a href="/159610">
+                                <span class="code">159610</span> Defecto fiscal sobre la contable (CR)</a>
+                        </li>
+                                            <li>
+                            <a href="/159699">
+                                <span class="code">159699</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/1597">
+                                <span class="code">1597</span> Amortización acumulada</a>
+                        </li>
+                                            <li>
+                            <a href="/159705">
+                                <span class="code">159705</span> Plantaciones agrícolas y forestales</a>
+                        </li>
+                                            <li>
+                            <a href="/159710">
+                                <span class="code">159710</span> Vías de comunicación</a>
+                        </li>
+                                            <li>
+                            <a href="/159715">
+                                <span class="code">159715</span> Semovientes</a>
+                        </li>
+                                            <li>
+                            <a href="/159799">
+                                <span class="code">159799</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/1598">
+                                <span class="code">1598</span> Agotamiento acumulado</a>
+                        </li>
+                                            <li>
+                            <a href="/159805">
+                                <span class="code">159805</span> Minas y canteras</a>
+                        </li>
+                                            <li>
+                            <a href="/159815">
+                                <span class="code">159815</span> Pozos artesianos</a>
+                        </li>
+                                            <li>
+                            <a href="/159820">
+                                <span class="code">159820</span> Yacimientos</a>
+                        </li>
+                                            <li>
+                            <a href="/159899">
+                                <span class="code">159899</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/1599">
+                                <span class="code">1599</span> Provisiones</a>
+                        </li>
+                                            <li>
+                            <a href="/159904">
+                                <span class="code">159904</span> Terrenos</a>
+                        </li>
+                                            <li>
+                            <a href="/159906">
+                                <span class="code">159906</span> Materiales proyectos petroleros</a>
+                        </li>
+                                            <li>
+                            <a href="/159908">
+                                <span class="code">159908</span> Construcciones en curso</a>
+                        </li>
+                                            <li>
+                            <a href="/159912">
+                                <span class="code">159912</span> Maquinaria en montaje</a>
+                        </li>
+                                            <li>
+                            <a href="/159916">
+                                <span class="code">159916</span> Construcciones y edificaciones</a>
+                        </li>
+                                            <li>
+                            <a href="/159920">
+                                <span class="code">159920</span> Maquinaria y equipo</a>
+                        </li>
+                                            <li>
+                            <a href="/159924">
+                                <span class="code">159924</span> Equipo de oficina</a>
+                        </li>
+                                            <li>
+                            <a href="/159928">
+                                <span class="code">159928</span> Equipo de computación y comunicación</a>
+                        </li>
+                                            <li>
+                            <a href="/159932">
+                                <span class="code">159932</span> Equipo médico-científico</a>
+                        </li>
+                                            <li>
+                            <a href="/159936">
+                                <span class="code">159936</span> Equipo de hoteles y restaurantes</a>
+                        </li>
+                                            <li>
+                            <a href="/159940">
+                                <span class="code">159940</span> Flota y equipo de transporte</a>
+                        </li>
+                                            <li>
+                            <a href="/159944">
+                                <span class="code">159944</span> Flota y equipo fluvial y/o marítimo</a>
+                        </li>
+                                            <li>
+                            <a href="/159948">
+                                <span class="code">159948</span> Flota y equipo aéreo</a>
+                        </li>
+                                            <li>
+                            <a href="/159952">
+                                <span class="code">159952</span> Flota y equipo férreo</a>
+                        </li>
+                                            <li>
+                            <a href="/159956">
+                                <span class="code">159956</span> Acueductos, plantas y redes</a>
+                        </li>
+                                            <li>
+                            <a href="/159960">
+                                <span class="code">159960</span> Armamento de vigilancia</a>
+                        </li>
+                                            <li>
+                            <a href="/159962">
+                                <span class="code">159962</span> Envases y empaques</a>
+                        </li>
+                                            <li>
+                            <a href="/159964">
+                                <span class="code">159964</span> Plantaciones agrícolas y forestales</a>
+                        </li>
+                                            <li>
+                            <a href="/159968">
+                                <span class="code">159968</span> Vías de comunicación</a>
+                        </li>
+                                            <li>
+                            <a href="/159972">
+                                <span class="code">159972</span> Minas y canteras</a>
+                        </li>
+                                            <li>
+                            <a href="/159980">
+                                <span class="code">159980</span> Pozos artesianos</a>
+                        </li>
+                                            <li>
+                            <a href="/159984">
+                                <span class="code">159984</span> Yacimientos</a>
+                        </li>
+                                            <li>
+                            <a href="/159988">
+                                <span class="code">159988</span> Semovientes</a>
+                        </li>
+                                            <li>
+                            <a href="/159992">
+                                <span class="code">159992</span> Propiedades, planta y equipo en tránsito</a>
+                        </li>
+                                            <li>
+                            <a href="/16">
+                                <span class="code">16</span> Intangibles</a>
+                        </li>
+                                            <li>
+                            <a href="/1605">
+                                <span class="code">1605</span> Crédito mercantil</a>
+                        </li>
+                                            <li>
+                            <a href="/160505">
+                                <span class="code">160505</span> Formado o estimado</a>
+                        </li>
+                                            <li>
+                            <a href="/160510">
+                                <span class="code">160510</span> Adquirido o comprado</a>
+                        </li>
+                                            <li>
+                            <a href="/160599">
+                                <span class="code">160599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/1610">
+                                <span class="code">1610</span> Marcas</a>
+                        </li>
+                                            <li>
+                            <a href="/161005">
+                                <span class="code">161005</span> Adquiridas</a>
+                        </li>
+                                            <li>
+                            <a href="/161010">
+                                <span class="code">161010</span> Formadas</a>
+                        </li>
+                                            <li>
+                            <a href="/161099">
+                                <span class="code">161099</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/1615">
+                                <span class="code">1615</span> Patentes</a>
+                        </li>
+                                            <li>
+                            <a href="/161505">
+                                <span class="code">161505</span> Adquiridas</a>
+                        </li>
+                                            <li>
+                            <a href="/161510">
+                                <span class="code">161510</span> Formadas</a>
+                        </li>
+                                            <li>
+                            <a href="/161599">
+                                <span class="code">161599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/1620">
+                                <span class="code">1620</span> Concesiones y franquicias</a>
+                        </li>
+                                            <li>
+                            <a href="/162005">
+                                <span class="code">162005</span> Concesiones</a>
+                        </li>
+                                            <li>
+                            <a href="/162010">
+                                <span class="code">162010</span> Franquicias</a>
+                        </li>
+                                            <li>
+                            <a href="/162099">
+                                <span class="code">162099</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/1625">
+                                <span class="code">1625</span> Derechos</a>
+                        </li>
+                                            <li>
+                            <a href="/162505">
+                                <span class="code">162505</span> Derechos de autor</a>
+                        </li>
+                                            <li>
+                            <a href="/162510">
+                                <span class="code">162510</span> Puesto de bolsa</a>
+                        </li>
+                                            <li>
+                            <a href="/162515">
+                                <span class="code">162515</span> En fideicomisos inmobiliarios</a>
+                        </li>
+                                            <li>
+                            <a href="/162520">
+                                <span class="code">162520</span> En fideicomisos de garantía</a>
+                        </li>
+                                            <li>
+                            <a href="/162525">
+                                <span class="code">162525</span> En fideicomisos de administración</a>
+                        </li>
+                                            <li>
+                            <a href="/162530">
+                                <span class="code">162530</span> De exhibición - películas</a>
+                        </li>
+                                            <li>
+                            <a href="/162535">
+                                <span class="code">162535</span> En bienes recibidos en arrendamiento financiero (leasing)</a>
+                        </li>
+                                            <li>
+                            <a href="/162595">
+                                <span class="code">162595</span> Otros</a>
+                        </li>
+                                            <li>
+                            <a href="/162599">
+                                <span class="code">162599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/1630">
+                                <span class="code">1630</span> Know how</a>
+                        </li>
+                                            <li>
+                            <a href="/163099">
+                                <span class="code">163099</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/1635">
+                                <span class="code">1635</span> Licencias</a>
+                        </li>
+                                            <li>
+                            <a href="/163599">
+                                <span class="code">163599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/1698">
+                                <span class="code">1698</span> Depreciación y/o amortización acumulada</a>
+                        </li>
+                                            <li>
+                            <a href="/169805">
+                                <span class="code">169805</span> Crédito mercantil</a>
+                        </li>
+                                            <li>
+                            <a href="/169810">
+                                <span class="code">169810</span> Marcas</a>
+                        </li>
+                                            <li>
+                            <a href="/169815">
+                                <span class="code">169815</span> Patentes</a>
+                        </li>
+                                            <li>
+                            <a href="/169820">
+                                <span class="code">169820</span> Concesiones y franquicias</a>
+                        </li>
+                                            <li>
+                            <a href="/169830">
+                                <span class="code">169830</span> Derechos</a>
+                        </li>
+                                            <li>
+                            <a href="/169835">
+                                <span class="code">169835</span> Know how</a>
+                        </li>
+                                            <li>
+                            <a href="/169840">
+                                <span class="code">169840</span> Licencias</a>
+                        </li>
+                                            <li>
+                            <a href="/169899">
+                                <span class="code">169899</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/1699">
+                                <span class="code">1699</span> Provisiones</a>
+                        </li>
+                                            <li>
+                            <a href="/17">
+                                <span class="code">17</span> Diferidos</a>
+                        </li>
+                                            <li>
+                            <a href="/1705">
+                                <span class="code">1705</span> Gastos pagados por anticipado</a>
+                        </li>
+                                            <li>
+                            <a href="/170505">
+                                <span class="code">170505</span> Intereses</a>
+                        </li>
+                                            <li>
+                            <a href="/170510">
+                                <span class="code">170510</span> Honorarios</a>
+                        </li>
+                                            <li>
+                            <a href="/170515">
+                                <span class="code">170515</span> Comisiones</a>
+                        </li>
+                                            <li>
+                            <a href="/170520">
+                                <span class="code">170520</span> Seguros y fianzas</a>
+                        </li>
+                                            <li>
+                            <a href="/170525">
+                                <span class="code">170525</span> Arrendamientos</a>
+                        </li>
+                                            <li>
+                            <a href="/170530">
+                                <span class="code">170530</span> Bodegajes</a>
+                        </li>
+                                            <li>
+                            <a href="/170535">
+                                <span class="code">170535</span> Mantenimiento equipos</a>
+                        </li>
+                                            <li>
+                            <a href="/170540">
+                                <span class="code">170540</span> Servicios</a>
+                        </li>
+                                            <li>
+                            <a href="/170545">
+                                <span class="code">170545</span> Suscripciones</a>
+                        </li>
+                                            <li>
+                            <a href="/170595">
+                                <span class="code">170595</span> Otros</a>
+                        </li>
+                                            <li>
+                            <a href="/1710">
+                                <span class="code">1710</span> Cargos diferidos</a>
+                        </li>
+                                            <li>
+                            <a href="/171004">
+                                <span class="code">171004</span> Organización y preoperativos</a>
+                        </li>
+                                            <li>
+                            <a href="/171008">
+                                <span class="code">171008</span> Remodelaciones</a>
+                        </li>
+                                            <li>
+                            <a href="/171012">
+                                <span class="code">171012</span> Estudios, investigaciones y proyectos</a>
+                        </li>
+                                            <li>
+                            <a href="/171016">
+                                <span class="code">171016</span> Programas para computador (software)</a>
+                        </li>
+                                            <li>
+                            <a href="/171020">
+                                <span class="code">171020</span> Útiles y papelería</a>
+                        </li>
+                                            <li>
+                            <a href="/171024">
+                                <span class="code">171024</span> Mejoras a propiedades ajenas</a>
+                        </li>
+                                            <li>
+                            <a href="/171028">
+                                <span class="code">171028</span> Contribuciones y afiliaciones</a>
+                        </li>
+                                            <li>
+                            <a href="/171032">
+                                <span class="code">171032</span> Entrenamiento de personal</a>
+                        </li>
+                                            <li>
+                            <a href="/171036">
+                                <span class="code">171036</span> Ferias y exposiciones</a>
+                        </li>
+                                            <li>
+                            <a href="/171040">
+                                <span class="code">171040</span> Licencias</a>
+                        </li>
+                                            <li>
+                            <a href="/171044">
+                                <span class="code">171044</span> Publicidad, propaganda y promoción</a>
+                        </li>
+                                            <li>
+                            <a href="/171048">
+                                <span class="code">171048</span> Elementos de aseo y cafetería</a>
+                        </li>
+                                            <li>
+                            <a href="/171052">
+                                <span class="code">171052</span> Moldes y troqueles</a>
+                        </li>
+                                            <li>
+                            <a href="/171056">
+                                <span class="code">171056</span> Instrumental quirúrgico</a>
+                        </li>
+                                            <li>
+                            <a href="/171060">
+                                <span class="code">171060</span> Dotación y suministro a trabajadores</a>
+                        </li>
+                                            <li>
+                            <a href="/171064">
+                                <span class="code">171064</span> Elementos de ropería y lencería</a>
+                        </li>
+                                            <li>
+                            <a href="/171068">
+                                <span class="code">171068</span> Loza y cristalería</a>
+                        </li>
+                                            <li>
+                            <a href="/171069">
+                                <span class="code">171069</span> Platería</a>
+                        </li>
+                                            <li>
+                            <a href="/171070">
+                                <span class="code">171070</span> Cubiertería</a>
+                        </li>
+                                            <li>
+                            <a href="/171076">
+                                <span class="code">171076</span> Impuesto de renta diferido ?débitos? por diferencias temporales</a>
+                        </li>
+                                            <li>
+                            <a href="/171080">
+                                <span class="code">171080</span> Concursos y licitaciones</a>
+                        </li>
+                                            <li>
+                            <a href="/171095">
+                                <span class="code">171095</span> Otros</a>
+                        </li>
+                                            <li>
+                            <a href="/171099">
+                                <span class="code">171099</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/1715">
+                                <span class="code">1715</span> Costos de exploración por amortizar</a>
+                        </li>
+                                            <li>
+                            <a href="/171505">
+                                <span class="code">171505</span> Pozos secos</a>
+                        </li>
+                                            <li>
+                            <a href="/171510">
+                                <span class="code">171510</span> Pozos no comerciales</a>
+                        </li>
+                                            <li>
+                            <a href="/171515">
+                                <span class="code">171515</span> Otros costos de exploración</a>
+                        </li>
+                                            <li>
+                            <a href="/171599">
+                                <span class="code">171599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/1720">
+                                <span class="code">1720</span> Costos de explotación y desarrollo</a>
+                        </li>
+                                            <li>
+                            <a href="/172005">
+                                <span class="code">172005</span> Perforación y explotación</a>
+                        </li>
+                                            <li>
+                            <a href="/172010">
+                                <span class="code">172010</span> Perforaciones campos en desarrollo</a>
+                        </li>
+                                            <li>
+                            <a href="/172015">
+                                <span class="code">172015</span> Facilidades de producción</a>
+                        </li>
+                                            <li>
+                            <a href="/172020">
+                                <span class="code">172020</span> Servicio a pozos</a>
+                        </li>
+                                            <li>
+                            <a href="/172099">
+                                <span class="code">172099</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/1730">
+                                <span class="code">1730</span> Cargos por corrección monetaria diferida</a>
+                        </li>
+                                            <li>
+                            <a href="/1798">
+                                <span class="code">1798</span> Amortización acumulada</a>
+                        </li>
+                                            <li>
+                            <a href="/179805">
+                                <span class="code">179805</span> Costos de exploración por amortizar</a>
+                        </li>
+                                            <li>
+                            <a href="/179810">
+                                <span class="code">179810</span> Costos de explotación y desarrollo</a>
+                        </li>
+                                            <li>
+                            <a href="/179899">
+                                <span class="code">179899</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/18">
+                                <span class="code">18</span> Otros activos</a>
+                        </li>
+                                            <li>
+                            <a href="/1805">
+                                <span class="code">1805</span> Bienes de arte y cultura</a>
+                        </li>
+                                            <li>
+                            <a href="/180505">
+                                <span class="code">180505</span> Obras de arte</a>
+                        </li>
+                                            <li>
+                            <a href="/180510">
+                                <span class="code">180510</span> Bibliotecas</a>
+                        </li>
+                                            <li>
+                            <a href="/180595">
+                                <span class="code">180595</span> Otros</a>
+                        </li>
+                                            <li>
+                            <a href="/180599">
+                                <span class="code">180599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/1895">
+                                <span class="code">1895</span> Diversos</a>
+                        </li>
+                                            <li>
+                            <a href="/189505">
+                                <span class="code">189505</span> Máquinas porteadoras</a>
+                        </li>
+                                            <li>
+                            <a href="/189510">
+                                <span class="code">189510</span> Bienes entregados en comodato</a>
+                        </li>
+                                            <li>
+                            <a href="/189515">
+                                <span class="code">189515</span> Amortización acumulada de bienes entregados en comodato (CR)</a>
+                        </li>
+                                            <li>
+                            <a href="/189520">
+                                <span class="code">189520</span> Bienes recibidos en pago</a>
+                        </li>
+                                            <li>
+                            <a href="/189525">
+                                <span class="code">189525</span> Derechos sucesorales</a>
+                        </li>
+                                            <li>
+                            <a href="/189530">
+                                <span class="code">189530</span> Estampillas</a>
+                        </li>
+                                            <li>
+                            <a href="/189595">
+                                <span class="code">189595</span> Otros</a>
+                        </li>
+                                            <li>
+                            <a href="/189599">
+                                <span class="code">189599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/1899">
+                                <span class="code">1899</span> Provisiones</a>
+                        </li>
+                                            <li>
+                            <a href="/189905">
+                                <span class="code">189905</span> Bienes de arte y cultura</a>
+                        </li>
+                                            <li>
+                            <a href="/189995">
+                                <span class="code">189995</span> Diversos</a>
+                        </li>
+                                            <li>
+                            <a href="/19">
+                                <span class="code">19</span> Valorizaciones</a>
+                        </li>
+                                            <li>
+                            <a href="/1905">
+                                <span class="code">1905</span> De inversiones</a>
+                        </li>
+                                            <li>
+                            <a href="/190505">
+                                <span class="code">190505</span> Acciones</a>
+                        </li>
+                                            <li>
+                            <a href="/190510">
+                                <span class="code">190510</span> Cuotas o partes de interés social</a>
+                        </li>
+                                            <li>
+                            <a href="/190515">
+                                <span class="code">190515</span> Derechos fiduciarios</a>
+                        </li>
+                                            <li>
+                            <a href="/1910">
+                                <span class="code">1910</span> De propiedades, planta y equipo</a>
+                        </li>
+                                            <li>
+                            <a href="/191004">
+                                <span class="code">191004</span> Terrenos</a>
+                        </li>
+                                            <li>
+                            <a href="/191006">
+                                <span class="code">191006</span> Materiales proyectos petroleros</a>
+                        </li>
+                                            <li>
+                            <a href="/191008">
+                                <span class="code">191008</span> Construcciones y edificaciones</a>
+                        </li>
+                                            <li>
+                            <a href="/191012">
+                                <span class="code">191012</span> Maquinaria y equipo</a>
+                        </li>
+                                            <li>
+                            <a href="/191016">
+                                <span class="code">191016</span> Equipo de oficina</a>
+                        </li>
+                                            <li>
+                            <a href="/191020">
+                                <span class="code">191020</span> Equipo de computación y comunicación</a>
+                        </li>
+                                            <li>
+                            <a href="/191024">
+                                <span class="code">191024</span> Equipo médico-científico</a>
+                        </li>
+                                            <li>
+                            <a href="/191028">
+                                <span class="code">191028</span> Equipo de hoteles y restaurantes</a>
+                        </li>
+                                            <li>
+                            <a href="/191032">
+                                <span class="code">191032</span> Flota y equipo de transporte</a>
+                        </li>
+                                            <li>
+                            <a href="/191036">
+                                <span class="code">191036</span> Flota y equipo fluvial y/o marítimo</a>
+                        </li>
+                                            <li>
+                            <a href="/191040">
+                                <span class="code">191040</span> Flota y equipo aéreo</a>
+                        </li>
+                                            <li>
+                            <a href="/191044">
+                                <span class="code">191044</span> Flota y equipo férreo</a>
+                        </li>
+                                            <li>
+                            <a href="/191048">
+                                <span class="code">191048</span> Acueductos, plantas y redes</a>
+                        </li>
+                                            <li>
+                            <a href="/191052">
+                                <span class="code">191052</span> Armamento de vigilancia</a>
+                        </li>
+                                            <li>
+                            <a href="/191056">
+                                <span class="code">191056</span> Envases y empaques</a>
+                        </li>
+                                            <li>
+                            <a href="/191060">
+                                <span class="code">191060</span> Plantaciones agrícolas y forestales</a>
+                        </li>
+                                            <li>
+                            <a href="/191064">
+                                <span class="code">191064</span> Vías de comunicación</a>
+                        </li>
+                                            <li>
+                            <a href="/191068">
+                                <span class="code">191068</span> Minas y canteras</a>
+                        </li>
+                                            <li>
+                            <a href="/191072">
+                                <span class="code">191072</span> Pozos artesianos</a>
+                        </li>
+                                            <li>
+                            <a href="/191076">
+                                <span class="code">191076</span> Yacimientos</a>
+                        </li>
+                                            <li>
+                            <a href="/191080">
+                                <span class="code">191080</span> Semovientes</a>
+                        </li>
+                                            <li>
+                            <a href="/1995">
+                                <span class="code">1995</span> De otros activos</a>
+                        </li>
+                                            <li>
+                            <a href="/199505">
+                                <span class="code">199505</span> Bienes de arte y cultura</a>
+                        </li>
+                                            <li>
+                            <a href="/199510">
+                                <span class="code">199510</span> Bienes entregados en comodato</a>
+                        </li>
+                                            <li>
+                            <a href="/199515">
+                                <span class="code">199515</span> Bienes recibidos en pago</a>
+                        </li>
+                                            <li>
+                            <a href="/199520">
+                                <span class="code">199520</span> Inventario de semovientes</a>
+                        </li>
+                                        </ul>

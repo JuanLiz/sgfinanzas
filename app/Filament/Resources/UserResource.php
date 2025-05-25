@@ -3,6 +3,8 @@
 namespace App\Filament\Resources;
 
 use App\Filament\Resources\UserResource\Pages;
+use App\Filament\Resources\UserResource\Pages\RestoreUser;
+use App\Filament\Resources\UserResource\Pages\ForceDeleteUser;
 use App\Filament\Resources\UserResource\RelationManagers;
 use App\Models\User;
 use App\Models\Role;
@@ -13,6 +15,10 @@ use Filament\Forms\Form;
 use Filament\Resources\Resource;
 use Filament\Tables;
 use Filament\Tables\Table;
+use Filament\Tables\Actions\DeleteAction;
+use Filament\Tables\Actions\RestoreAction;
+use Filament\Tables\Actions\ForceDeleteAction;
+use Filament\Tables\Filters\TrashedFilter;
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Database\Eloquent\SoftDeletingScope;
 
@@ -24,6 +30,7 @@ class UserResource extends Resource
     protected static ?string $modelLabel = 'Usuario';
     protected static ?string $pluralModelLabel = 'Usuarios';
     protected static ?string $navigationGroup = 'Administración de acceso';
+    protected static ?int $navigationSort = 20;
 
     public static function form(Form $form): Form
     {
@@ -71,7 +78,9 @@ class UserResource extends Resource
                         'Activo' => 'Activo',
                         'Inactivo' => 'Inactivo',
                     ])
-                    ->required(),
+                    ->default('Activo')
+                    ->required()
+                    ->visible(fn (string $operation): bool => $operation === 'edit'),
                 Forms\Components\DateTimePicker::make('email_verified_at')
                     ->label('Email Verificado en')
                     ->disabled()
@@ -95,25 +104,30 @@ class UserResource extends Resource
                 Tables\Columns\TextColumn::make('municipio.muni_nombre')->label('Municipio')->searchable()->sortable(),
                 Tables\Columns\TextColumn::make('estado')->label('Estado')
                     ->badge()
-                    ->color(fn (string $state): string => match ($state) {
-                        'Activo' => 'success',
-                        'Inactivo' => 'danger',
-                        default => 'gray',
-                    })
+                    ->color(fn ($record): string => 
+                        $record->trashed()
+                            ? 'danger'
+                            : (($record->estado === 'Activo') ? 'success' : 'warning')
+                    )
+                    ->formatStateUsing(fn ($record) => $record->trashed() ? 'Eliminado' : $record->estado)
                     ->searchable(),
                 Tables\Columns\TextColumn::make('email_verified_at')->label('Email Verificado')->dateTime()->sortable()->toggleable(isToggledHiddenByDefault: true),
                 Tables\Columns\TextColumn::make('fecha_registro')->label('Fecha Registro')->dateTime()->sortable()->toggleable(isToggledHiddenByDefault: true),
             ])
             ->filters([
-                //
+                Tables\Filters\TrashedFilter::make(),
             ])
             ->actions([
                 Tables\Actions\EditAction::make(),
                 Tables\Actions\DeleteAction::make(),
+                Tables\Actions\RestoreAction::make(),
+                Tables\Actions\ForceDeleteAction::make(),
             ])
             ->bulkActions([
                 Tables\Actions\BulkActionGroup::make([
                     Tables\Actions\DeleteBulkAction::make(),
+                    Tables\Actions\RestoreBulkAction::make(),
+                    Tables\Actions\ForceDeleteBulkAction::make(),
                 ]),
             ]);
     }
@@ -132,5 +146,14 @@ class UserResource extends Resource
             'create' => Pages\CreateUser::route('/create'),
             'edit' => Pages\EditUser::route('/{record}/edit'),
         ];
+    }
+
+    public static function getEloquentQuery(): Builder
+    {
+        return parent::getEloquentQuery()
+            ->withoutGlobalScopes([
+                // Removemos el SoftDeletingScope para que se muestren todos los registros (incluyendo los eliminados)
+                // y luego usaremos el filtro TrashedFilter para filtrarlos
+            ]);
     }
 }

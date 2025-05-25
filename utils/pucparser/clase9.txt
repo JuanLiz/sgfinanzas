@@ -1,0 +1,206 @@
+<ul class="account-list">
+                                            <li>
+                            <a href="/9">
+                                <span class="code">9</span> Cuentas de orden acreedoras</a>
+                        </li>
+                                            <li>
+                            <a href="/91">
+                                <span class="code">91</span> Responsabilidades contingentes</a>
+                        </li>
+                                            <li>
+                            <a href="/9105">
+                                <span class="code">9105</span> Bienes y valores recibidos en custodia</a>
+                        </li>
+                                            <li>
+                            <a href="/910505">
+                                <span class="code">910505</span> Valores mobiliarios</a>
+                        </li>
+                                            <li>
+                            <a href="/910510">
+                                <span class="code">910510</span> Bienes muebles</a>
+                        </li>
+                                            <li>
+                            <a href="/910599">
+                                <span class="code">910599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/9110">
+                                <span class="code">9110</span> Bienes y valores recibidos en garantía</a>
+                        </li>
+                                            <li>
+                            <a href="/911005">
+                                <span class="code">911005</span> Valores mobiliarios</a>
+                        </li>
+                                            <li>
+                            <a href="/911010">
+                                <span class="code">911010</span> Bienes muebles</a>
+                        </li>
+                                            <li>
+                            <a href="/911015">
+                                <span class="code">911015</span> Bienes inmuebles</a>
+                        </li>
+                                            <li>
+                            <a href="/911020">
+                                <span class="code">911020</span> Contratos de ganado en participación</a>
+                        </li>
+                                            <li>
+                            <a href="/911099">
+                                <span class="code">911099</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/9115">
+                                <span class="code">9115</span> Bienes y valores recibidos de terceros</a>
+                        </li>
+                                            <li>
+                            <a href="/911505">
+                                <span class="code">911505</span> En arrendamiento</a>
+                        </li>
+                                            <li>
+                            <a href="/911510">
+                                <span class="code">911510</span> En préstamo</a>
+                        </li>
+                                            <li>
+                            <a href="/911515">
+                                <span class="code">911515</span> En depósito</a>
+                        </li>
+                                            <li>
+                            <a href="/911520">
+                                <span class="code">911520</span> En consignación</a>
+                        </li>
+                                            <li>
+                            <a href="/911525">
+                                <span class="code">911525</span> En comodato</a>
+                        </li>
+                                            <li>
+                            <a href="/911599">
+                                <span class="code">911599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/9120">
+                                <span class="code">9120</span> Litigios y/o demandas</a>
+                        </li>
+                                            <li>
+                            <a href="/912005">
+                                <span class="code">912005</span> Laborales</a>
+                        </li>
+                                            <li>
+                            <a href="/912010">
+                                <span class="code">912010</span> Civiles</a>
+                        </li>
+                                            <li>
+                            <a href="/912015">
+                                <span class="code">912015</span> Administrativos o arbitrales</a>
+                        </li>
+                                            <li>
+                            <a href="/912020">
+                                <span class="code">912020</span> Tributarios</a>
+                        </li>
+                                            <li>
+                            <a href="/9125">
+                                <span class="code">9125</span> Promesas de compraventa</a>
+                        </li>
+                                            <li>
+                            <a href="/9130">
+                                <span class="code">9130</span> Contratos de administración delegada</a>
+                        </li>
+                                            <li>
+                            <a href="/9135">
+                                <span class="code">9135</span> Cuentas en participación</a>
+                        </li>
+                                            <li>
+                            <a href="/9195">
+                                <span class="code">9195</span> Otras responsabilidades contingentes</a>
+                        </li>
+                                            <li>
+                            <a href="/92">
+                                <span class="code">92</span> Acreedoras fiscales</a>
+                        </li>
+                                            <li>
+                            <a href="/93">
+                                <span class="code">93</span> Acreedoras de control</a>
+                        </li>
+                                            <li>
+                            <a href="/9305">
+                                <span class="code">9305</span> Contratos de arrendamiento financiero</a>
+                        </li>
+                                            <li>
+                            <a href="/930505">
+                                <span class="code">930505</span> Bienes muebles</a>
+                        </li>
+                                            <li>
+                            <a href="/930510">
+                                <span class="code">930510</span> Bienes inmuebles</a>
+                        </li>
+                                            <li>
+                            <a href="/9395">
+                                <span class="code">9395</span> Otras cuentas de orden acreedoras de control</a>
+                        </li>
+                                            <li>
+                            <a href="/939505">
+                                <span class="code">939505</span> Documentos por cobrar descontados</a>
+                        </li>
+                                            <li>
+                            <a href="/939510">
+                                <span class="code">939510</span> Convenios de pago</a>
+                        </li>
+                                            <li>
+                            <a href="/939515">
+                                <span class="code">939515</span> Contratos de construcciones e instalaciones por ejecutar</a>
+                        </li>
+                                            <li>
+                            <a href="/939525">
+                                <span class="code">939525</span> Adjudicaciones pendientes de legalizar</a>
+                        </li>
+                                            <li>
+                            <a href="/939530">
+                                <span class="code">939530</span> Reserva artículo 3º Ley 4ª de 1980</a>
+                        </li>
+                                            <li>
+                            <a href="/939535">
+                                <span class="code">939535</span> Reserva costo reposición semovientes</a>
+                        </li>
+                                            <li>
+                            <a href="/939595">
+                                <span class="code">939595</span> Diversas</a>
+                        </li>
+                                            <li>
+                            <a href="/939599">
+                                <span class="code">939599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/9399">
+                                <span class="code">9399</span> Ajustes por inflación patrimonio</a>
+                        </li>
+                                            <li>
+                            <a href="/939905">
+                                <span class="code">939905</span> Capital social</a>
+                        </li>
+                                            <li>
+                            <a href="/939910">
+                                <span class="code">939910</span> Superávit de capital</a>
+                        </li>
+                                            <li>
+                            <a href="/939915">
+                                <span class="code">939915</span> Reservas</a>
+                        </li>
+                                            <li>
+                            <a href="/939925">
+                                <span class="code">939925</span> Dividendos o participaciones decretadas en acciones, cuotas o partes de interés social</a>
+                        </li>
+                                            <li>
+                            <a href="/939930">
+                                <span class="code">939930</span> Resultados de ejercicios anteriores</a>
+                        </li>
+                                            <li>
+                            <a href="/94">
+                                <span class="code">94</span> Responsabilidades contingentes por contra (DB)</a>
+                        </li>
+                                            <li>
+                            <a href="/95">
+                                <span class="code">95</span> Acreedoras fiscales por contra (DB)</a>
+                        </li>
+                                            <li>
+                            <a href="/96">
+                                <span class="code">96</span> Acreedoras de control por contra (DB)</a>
+                        </li>
+                                        </ul>

@@ -1,0 +1,1114 @@
+<ul class="account-list">
+                                            <li>
+                            <a href="/6">
+                                <span class="code">6</span> Costos de ventas</a>
+                        </li>
+                                            <li>
+                            <a href="/61">
+                                <span class="code">61</span> Costo de ventas y de prestación de servicios</a>
+                        </li>
+                                            <li>
+                            <a href="/6105">
+                                <span class="code">6105</span> Agricultura, ganadería, caza y silvicultura</a>
+                        </li>
+                                            <li>
+                            <a href="/610505">
+                                <span class="code">610505</span> Cultivo de cereales</a>
+                        </li>
+                                            <li>
+                            <a href="/610510">
+                                <span class="code">610510</span> Cultivos de hortalizas, legumbres y plantas ornamentales</a>
+                        </li>
+                                            <li>
+                            <a href="/610515">
+                                <span class="code">610515</span> Cultivos de frutas, nueces y plantas aromáticas</a>
+                        </li>
+                                            <li>
+                            <a href="/610520">
+                                <span class="code">610520</span> Cultivo de café</a>
+                        </li>
+                                            <li>
+                            <a href="/610525">
+                                <span class="code">610525</span> Cultivo de flores</a>
+                        </li>
+                                            <li>
+                            <a href="/610530">
+                                <span class="code">610530</span> Cultivo de caña de azúcar</a>
+                        </li>
+                                            <li>
+                            <a href="/610535">
+                                <span class="code">610535</span> Cultivo de algodón y plantas para material textil</a>
+                        </li>
+                                            <li>
+                            <a href="/610540">
+                                <span class="code">610540</span> Cultivo de banano</a>
+                        </li>
+                                            <li>
+                            <a href="/610545">
+                                <span class="code">610545</span> Otros cultivos agrícolas</a>
+                        </li>
+                                            <li>
+                            <a href="/610550">
+                                <span class="code">610550</span> Cría de ovejas, cabras, asnos, mulas y burdéganos</a>
+                        </li>
+                                            <li>
+                            <a href="/610555">
+                                <span class="code">610555</span> Cría de ganado caballar y vacuno</a>
+                        </li>
+                                            <li>
+                            <a href="/610560">
+                                <span class="code">610560</span> Producción avícola</a>
+                        </li>
+                                            <li>
+                            <a href="/610565">
+                                <span class="code">610565</span> Cría de otros animales</a>
+                        </li>
+                                            <li>
+                            <a href="/610570">
+                                <span class="code">610570</span> Servicios agrícolas y ganaderos</a>
+                        </li>
+                                            <li>
+                            <a href="/610575">
+                                <span class="code">610575</span> Actividad de caza</a>
+                        </li>
+                                            <li>
+                            <a href="/610580">
+                                <span class="code">610580</span> Actividad de silvicultura</a>
+                        </li>
+                                            <li>
+                            <a href="/610595">
+                                <span class="code">610595</span> Actividades conexas</a>
+                        </li>
+                                            <li>
+                            <a href="/610599">
+                                <span class="code">610599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/6110">
+                                <span class="code">6110</span> Pesca</a>
+                        </li>
+                                            <li>
+                            <a href="/611005">
+                                <span class="code">611005</span> Actividad de pesca</a>
+                        </li>
+                                            <li>
+                            <a href="/611010">
+                                <span class="code">611010</span> Explotación de criaderos de peces</a>
+                        </li>
+                                            <li>
+                            <a href="/611095">
+                                <span class="code">611095</span> Actividades conexas</a>
+                        </li>
+                                            <li>
+                            <a href="/611099">
+                                <span class="code">611099</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/6115">
+                                <span class="code">6115</span> Explotación de minas y canteras</a>
+                        </li>
+                                            <li>
+                            <a href="/611505">
+                                <span class="code">611505</span> Carbón</a>
+                        </li>
+                                            <li>
+                            <a href="/611510">
+                                <span class="code">611510</span> Petróleo crudo</a>
+                        </li>
+                                            <li>
+                            <a href="/611512">
+                                <span class="code">611512</span> Gas natural</a>
+                        </li>
+                                            <li>
+                            <a href="/611514">
+                                <span class="code">611514</span> Servicios relacionados con extracción de petróleo y gas</a>
+                        </li>
+                                            <li>
+                            <a href="/611515">
+                                <span class="code">611515</span> Minerales de hierro</a>
+                        </li>
+                                            <li>
+                            <a href="/611520">
+                                <span class="code">611520</span> Minerales metalíferos no ferrosos</a>
+                        </li>
+                                            <li>
+                            <a href="/611525">
+                                <span class="code">611525</span> Piedra, arena y arcilla</a>
+                        </li>
+                                            <li>
+                            <a href="/611527">
+                                <span class="code">611527</span> Piedras preciosas</a>
+                        </li>
+                                            <li>
+                            <a href="/611528">
+                                <span class="code">611528</span> Oro</a>
+                        </li>
+                                            <li>
+                            <a href="/611530">
+                                <span class="code">611530</span> Otras minas y canteras</a>
+                        </li>
+                                            <li>
+                            <a href="/611532">
+                                <span class="code">611532</span> Prestación de servicios sector minero</a>
+                        </li>
+                                            <li>
+                            <a href="/611595">
+                                <span class="code">611595</span> Actividades conexas</a>
+                        </li>
+                                            <li>
+                            <a href="/611599">
+                                <span class="code">611599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/6120">
+                                <span class="code">6120</span> Industrias manufactureras</a>
+                        </li>
+                                            <li>
+                            <a href="/612001">
+                                <span class="code">612001</span> Producción y procesamiento de carnes y productos cárnicos</a>
+                        </li>
+                                            <li>
+                            <a href="/612002">
+                                <span class="code">612002</span> Productos de pescado</a>
+                        </li>
+                                            <li>
+                            <a href="/612003">
+                                <span class="code">612003</span> Productos de frutas, legumbres y hortalizas</a>
+                        </li>
+                                            <li>
+                            <a href="/612004">
+                                <span class="code">612004</span> Elaboración de aceites y grasas</a>
+                        </li>
+                                            <li>
+                            <a href="/612005">
+                                <span class="code">612005</span> Elaboración  de productos lácteos</a>
+                        </li>
+                                            <li>
+                            <a href="/612006">
+                                <span class="code">612006</span> Elaboración de productos de molinería</a>
+                        </li>
+                                            <li>
+                            <a href="/612007">
+                                <span class="code">612007</span> Elaboración de almidones y derivados</a>
+                        </li>
+                                            <li>
+                            <a href="/612008">
+                                <span class="code">612008</span> Elaboración de alimentos para animales</a>
+                        </li>
+                                            <li>
+                            <a href="/612009">
+                                <span class="code">612009</span> Elaboración de productos para panadería</a>
+                        </li>
+                                            <li>
+                            <a href="/612010">
+                                <span class="code">612010</span> Elaboración de azúcar y melazas</a>
+                        </li>
+                                            <li>
+                            <a href="/612011">
+                                <span class="code">612011</span> Elaboración de cacao, chocolate y confitería</a>
+                        </li>
+                                            <li>
+                            <a href="/612012">
+                                <span class="code">612012</span> Elaboración  de pastas y productos farináceos</a>
+                        </li>
+                                            <li>
+                            <a href="/612013">
+                                <span class="code">612013</span> Elaboración de productos de café</a>
+                        </li>
+                                            <li>
+                            <a href="/612014">
+                                <span class="code">612014</span> Elaboración de otros productos alimenticios</a>
+                        </li>
+                                            <li>
+                            <a href="/612015">
+                                <span class="code">612015</span> Elaboración de bebidas alcohólicas y alcohol etílico</a>
+                        </li>
+                                            <li>
+                            <a href="/612016">
+                                <span class="code">612016</span> Elaboración de vinos</a>
+                        </li>
+                                            <li>
+                            <a href="/612017">
+                                <span class="code">612017</span> Elaboración de bebidas malteadas y de malta</a>
+                        </li>
+                                            <li>
+                            <a href="/612018">
+                                <span class="code">612018</span> Elaboración de bebidas no alcohólicas</a>
+                        </li>
+                                            <li>
+                            <a href="/612019">
+                                <span class="code">612019</span> Elaboración de productos de tabaco</a>
+                        </li>
+                                            <li>
+                            <a href="/612020">
+                                <span class="code">612020</span> Preparación e hilatura de fibras textiles y tejeduría</a>
+                        </li>
+                                            <li>
+                            <a href="/612021">
+                                <span class="code">612021</span> Acabado de productos textiles</a>
+                        </li>
+                                            <li>
+                            <a href="/612022">
+                                <span class="code">612022</span> Elaboración de artículos de materiales textiles</a>
+                        </li>
+                                            <li>
+                            <a href="/612023">
+                                <span class="code">612023</span> Elaboración de tapices y alfombras</a>
+                        </li>
+                                            <li>
+                            <a href="/612024">
+                                <span class="code">612024</span> Elaboración de cuerdas, cordeles, bramantes y redes</a>
+                        </li>
+                                            <li>
+                            <a href="/612025">
+                                <span class="code">612025</span> Elaboración de otros productos textiles</a>
+                        </li>
+                                            <li>
+                            <a href="/612026">
+                                <span class="code">612026</span> Elaboración de tejidos</a>
+                        </li>
+                                            <li>
+                            <a href="/612027">
+                                <span class="code">612027</span> Elaboración de prendas de vestir</a>
+                        </li>
+                                            <li>
+                            <a href="/612028">
+                                <span class="code">612028</span> Preparación, adobo y teñido de pieles</a>
+                        </li>
+                                            <li>
+                            <a href="/612029">
+                                <span class="code">612029</span> Curtido, adobo o preparación de cuero</a>
+                        </li>
+                                            <li>
+                            <a href="/612030">
+                                <span class="code">612030</span> Elaboración de maletas, bolsos y similares</a>
+                        </li>
+                                            <li>
+                            <a href="/612031">
+                                <span class="code">612031</span> Elaboración de calzado</a>
+                        </li>
+                                            <li>
+                            <a href="/612032">
+                                <span class="code">612032</span> Producción de madera, artículos de madera y corcho</a>
+                        </li>
+                                            <li>
+                            <a href="/612033">
+                                <span class="code">612033</span> Elaboración de pasta y productos de madera, papel y cartón</a>
+                        </li>
+                                            <li>
+                            <a href="/612034">
+                                <span class="code">612034</span> Ediciones y publicaciones</a>
+                        </li>
+                                            <li>
+                            <a href="/612035">
+                                <span class="code">612035</span> Impresión</a>
+                        </li>
+                                            <li>
+                            <a href="/612036">
+                                <span class="code">612036</span> Servicios relacionados con la edición y la impresión</a>
+                        </li>
+                                            <li>
+                            <a href="/612037">
+                                <span class="code">612037</span> Reproducción de grabaciones</a>
+                        </li>
+                                            <li>
+                            <a href="/612038">
+                                <span class="code">612038</span> Elaboración de productos de horno de coque</a>
+                        </li>
+                                            <li>
+                            <a href="/612039">
+                                <span class="code">612039</span> Elaboración de productos de la refinación de petróleo</a>
+                        </li>
+                                            <li>
+                            <a href="/612040">
+                                <span class="code">612040</span> Elaboración de sustancias químicas básicas</a>
+                        </li>
+                                            <li>
+                            <a href="/612041">
+                                <span class="code">612041</span> Elaboración de abonos y compuestos de nitrógeno</a>
+                        </li>
+                                            <li>
+                            <a href="/612042">
+                                <span class="code">612042</span> Elaboración de plástico y caucho sintético</a>
+                        </li>
+                                            <li>
+                            <a href="/612043">
+                                <span class="code">612043</span> Elaboración de productos químicos de uso agropecuario</a>
+                        </li>
+                                            <li>
+                            <a href="/612044">
+                                <span class="code">612044</span> Elaboración de pinturas, tintas y masillas</a>
+                        </li>
+                                            <li>
+                            <a href="/612045">
+                                <span class="code">612045</span> Elaboración de productos farmacéuticos y botánicos</a>
+                        </li>
+                                            <li>
+                            <a href="/612046">
+                                <span class="code">612046</span> Elaboración de jabones, detergentes y preparados de tocador</a>
+                        </li>
+                                            <li>
+                            <a href="/612047">
+                                <span class="code">612047</span> Elaboración de otros productos químicos</a>
+                        </li>
+                                            <li>
+                            <a href="/612048">
+                                <span class="code">612048</span> Elaboración de fibras</a>
+                        </li>
+                                            <li>
+                            <a href="/612049">
+                                <span class="code">612049</span> Elaboración de otros productos de caucho</a>
+                        </li>
+                                            <li>
+                            <a href="/612050">
+                                <span class="code">612050</span> Elaboración de productos de plástico</a>
+                        </li>
+                                            <li>
+                            <a href="/612051">
+                                <span class="code">612051</span> Elaboración de vidrio y productos de vidrio</a>
+                        </li>
+                                            <li>
+                            <a href="/612052">
+                                <span class="code">612052</span> Elaboración de productos de cerámica, loza, piedra, arcilla y porcelana</a>
+                        </li>
+                                            <li>
+                            <a href="/612053">
+                                <span class="code">612053</span> Elaboración de cemento, cal y yeso</a>
+                        </li>
+                                            <li>
+                            <a href="/612054">
+                                <span class="code">612054</span> Elaboración de artículos de hormigón, cemento y yeso</a>
+                        </li>
+                                            <li>
+                            <a href="/612055">
+                                <span class="code">612055</span> Corte, tallado y acabado de la piedra</a>
+                        </li>
+                                            <li>
+                            <a href="/612056">
+                                <span class="code">612056</span> Elaboración de otros productos minerales no metálicos</a>
+                        </li>
+                                            <li>
+                            <a href="/612057">
+                                <span class="code">612057</span> Industrias básicas y fundición de hierro y acero</a>
+                        </li>
+                                            <li>
+                            <a href="/612058">
+                                <span class="code">612058</span> Productos primarios de metales preciosos y de metales no ferrosos</a>
+                        </li>
+                                            <li>
+                            <a href="/612059">
+                                <span class="code">612059</span> Fundición de metales no ferrosos</a>
+                        </li>
+                                            <li>
+                            <a href="/612060">
+                                <span class="code">612060</span> Fabricación de productos metálicos para uso estructural</a>
+                        </li>
+                                            <li>
+                            <a href="/612061">
+                                <span class="code">612061</span> Forja, prensado, estampado, laminado de metal y pulvimetalurgia</a>
+                        </li>
+                                            <li>
+                            <a href="/612062">
+                                <span class="code">612062</span> Revestimiento de metales y obras de ingeniería mecánica</a>
+                        </li>
+                                            <li>
+                            <a href="/612063">
+                                <span class="code">612063</span> Fabricación de artículos de ferretería</a>
+                        </li>
+                                            <li>
+                            <a href="/612064">
+                                <span class="code">612064</span> Elaboración de otros productos de metal</a>
+                        </li>
+                                            <li>
+                            <a href="/612065">
+                                <span class="code">612065</span> Fabricación de maquinaria y equipo</a>
+                        </li>
+                                            <li>
+                            <a href="/612066">
+                                <span class="code">612066</span> Fabricación de equipos de elevación y manipulación</a>
+                        </li>
+                                            <li>
+                            <a href="/612067">
+                                <span class="code">612067</span> Elaboración de aparatos de uso doméstico</a>
+                        </li>
+                                            <li>
+                            <a href="/612068">
+                                <span class="code">612068</span> Elaboración de equipo de oficina</a>
+                        </li>
+                                            <li>
+                            <a href="/612069">
+                                <span class="code">612069</span> Elaboración de pilas y baterías primarias</a>
+                        </li>
+                                            <li>
+                            <a href="/612070">
+                                <span class="code">612070</span> Elaboración de equipo de iluminación</a>
+                        </li>
+                                            <li>
+                            <a href="/612071">
+                                <span class="code">612071</span> Elaboración de otros tipos de equipo eléctrico</a>
+                        </li>
+                                            <li>
+                            <a href="/612072">
+                                <span class="code">612072</span> Fabricación de equipos de radio, televisión y comunicaciones</a>
+                        </li>
+                                            <li>
+                            <a href="/612073">
+                                <span class="code">612073</span> Fabricación de aparatos e instrumentos médicos</a>
+                        </li>
+                                            <li>
+                            <a href="/612074">
+                                <span class="code">612074</span> Fabricación de instrumentos de medición y control</a>
+                        </li>
+                                            <li>
+                            <a href="/612075">
+                                <span class="code">612075</span> Fabricación de instrumentos de óptica y equipo fotográfico</a>
+                        </li>
+                                            <li>
+                            <a href="/612076">
+                                <span class="code">612076</span> Fabricación de relojes</a>
+                        </li>
+                                            <li>
+                            <a href="/612077">
+                                <span class="code">612077</span> Fabricación de vehículos automotores</a>
+                        </li>
+                                            <li>
+                            <a href="/612078">
+                                <span class="code">612078</span> Fabricación de carrocerías para automotores</a>
+                        </li>
+                                            <li>
+                            <a href="/612079">
+                                <span class="code">612079</span> Fabricación de partes, piezas y accesorios para automotores</a>
+                        </li>
+                                            <li>
+                            <a href="/612080">
+                                <span class="code">612080</span> Fabricación y reparación de buques y otras embarcaciones</a>
+                        </li>
+                                            <li>
+                            <a href="/612081">
+                                <span class="code">612081</span> Fabricación de locomotoras y material rodante para ferrocarriles</a>
+                        </li>
+                                            <li>
+                            <a href="/612082">
+                                <span class="code">612082</span> Fabricación de aeronaves</a>
+                        </li>
+                                            <li>
+                            <a href="/612083">
+                                <span class="code">612083</span> Fabricación de motocicletas</a>
+                        </li>
+                                            <li>
+                            <a href="/612084">
+                                <span class="code">612084</span> Fabricación de bicicletas y sillas de ruedas</a>
+                        </li>
+                                            <li>
+                            <a href="/612085">
+                                <span class="code">612085</span> Fabricación de otros tipos de transporte</a>
+                        </li>
+                                            <li>
+                            <a href="/612086">
+                                <span class="code">612086</span> Fabricación de muebles</a>
+                        </li>
+                                            <li>
+                            <a href="/612087">
+                                <span class="code">612087</span> Fabricación de joyas y artículos conexos</a>
+                        </li>
+                                            <li>
+                            <a href="/612088">
+                                <span class="code">612088</span> Fabricación de instrumentos de música</a>
+                        </li>
+                                            <li>
+                            <a href="/612089">
+                                <span class="code">612089</span> Fabricación de artículos y equipo para deporte</a>
+                        </li>
+                                            <li>
+                            <a href="/612090">
+                                <span class="code">612090</span> Fabricación de juegos y juguetes</a>
+                        </li>
+                                            <li>
+                            <a href="/612091">
+                                <span class="code">612091</span> Reciclamiento de desperdicios</a>
+                        </li>
+                                            <li>
+                            <a href="/612095">
+                                <span class="code">612095</span> Productos de otras industrias manufactureras</a>
+                        </li>
+                                            <li>
+                            <a href="/612099">
+                                <span class="code">612099</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/6125">
+                                <span class="code">6125</span> Suministro de electricidad, gas y agua</a>
+                        </li>
+                                            <li>
+                            <a href="/612505">
+                                <span class="code">612505</span> Generación, captación y distribución de energía eléctrica</a>
+                        </li>
+                                            <li>
+                            <a href="/612510">
+                                <span class="code">612510</span> Fabricación de gas y distribución de combustibles gaseosos</a>
+                        </li>
+                                            <li>
+                            <a href="/612515">
+                                <span class="code">612515</span> Captación, depuración y distribución de agua</a>
+                        </li>
+                                            <li>
+                            <a href="/612595">
+                                <span class="code">612595</span> Actividades conexas</a>
+                        </li>
+                                            <li>
+                            <a href="/612599">
+                                <span class="code">612599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/6130">
+                                <span class="code">6130</span> Construcción</a>
+                        </li>
+                                            <li>
+                            <a href="/613005">
+                                <span class="code">613005</span> Preparación de terrenos</a>
+                        </li>
+                                            <li>
+                            <a href="/613010">
+                                <span class="code">613010</span> Construcción de edificios y obras de ingeniería civil</a>
+                        </li>
+                                            <li>
+                            <a href="/613015">
+                                <span class="code">613015</span> Acondicionamiento de edificios</a>
+                        </li>
+                                            <li>
+                            <a href="/613020">
+                                <span class="code">613020</span> Terminación de edificaciones</a>
+                        </li>
+                                            <li>
+                            <a href="/613025">
+                                <span class="code">613025</span> Alquiler de equipo con operario</a>
+                        </li>
+                                            <li>
+                            <a href="/613095">
+                                <span class="code">613095</span> Actividades conexas</a>
+                        </li>
+                                            <li>
+                            <a href="/613099">
+                                <span class="code">613099</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/6135">
+                                <span class="code">6135</span> Comercio al por mayor y al por menor</a>
+                        </li>
+                                            <li>
+                            <a href="/613502">
+                                <span class="code">613502</span> Venta de vehículos automotores</a>
+                        </li>
+                                            <li>
+                            <a href="/613504">
+                                <span class="code">613504</span> Mantenimiento, reparación y lavado de vehículos automotores</a>
+                        </li>
+                                            <li>
+                            <a href="/613506">
+                                <span class="code">613506</span> Venta de partes, piezas y accesorios de vehículos automotores</a>
+                        </li>
+                                            <li>
+                            <a href="/613508">
+                                <span class="code">613508</span> Venta  de combustibles sólidos, líquidos, gaseosos</a>
+                        </li>
+                                            <li>
+                            <a href="/613510">
+                                <span class="code">613510</span> Venta de lubricantes, aditivos, llantas y lujos para automotores</a>
+                        </li>
+                                            <li>
+                            <a href="/613512">
+                                <span class="code">613512</span> Venta a cambio de retribución o por contrata</a>
+                        </li>
+                                            <li>
+                            <a href="/613514">
+                                <span class="code">613514</span> Venta de insumos, materias primas agropecuarias y flores</a>
+                        </li>
+                                            <li>
+                            <a href="/613516">
+                                <span class="code">613516</span> Venta de otros insumos y materias primas no agropecuarias</a>
+                        </li>
+                                            <li>
+                            <a href="/613518">
+                                <span class="code">613518</span> Venta de animales vivos y cueros</a>
+                        </li>
+                                            <li>
+                            <a href="/613520">
+                                <span class="code">613520</span> Venta de productos en almacenes no especializados</a>
+                        </li>
+                                            <li>
+                            <a href="/613522">
+                                <span class="code">613522</span> Venta de productos agropecuarios</a>
+                        </li>
+                                            <li>
+                            <a href="/613524">
+                                <span class="code">613524</span> Venta de productos textiles, de vestir, de cuero y calzado</a>
+                        </li>
+                                            <li>
+                            <a href="/613526">
+                                <span class="code">613526</span> Venta de papel y cartón</a>
+                        </li>
+                                            <li>
+                            <a href="/613528">
+                                <span class="code">613528</span> Venta de libros, revistas, elementos de papelería, útiles y textos escolares</a>
+                        </li>
+                                            <li>
+                            <a href="/613530">
+                                <span class="code">613530</span> Venta de juegos, juguetes y artículos deportivos</a>
+                        </li>
+                                            <li>
+                            <a href="/613532">
+                                <span class="code">613532</span> Venta de instrumentos quirúrgicos y ortopédicos</a>
+                        </li>
+                                            <li>
+                            <a href="/613534">
+                                <span class="code">613534</span> Venta de artículos en relojerías y joyerías</a>
+                        </li>
+                                            <li>
+                            <a href="/613536">
+                                <span class="code">613536</span> Venta de electrodomésticos y muebles</a>
+                        </li>
+                                            <li>
+                            <a href="/613538">
+                                <span class="code">613538</span> Venta de productos de aseo, farmacéuticos,  medicinales y artículos de tocador</a>
+                        </li>
+                                            <li>
+                            <a href="/613540">
+                                <span class="code">613540</span> Venta de cubiertos, vajillas, cristalería, porcelanas, cerámicas y otros artículos de uso doméstico</a>
+                        </li>
+                                            <li>
+                            <a href="/613542">
+                                <span class="code">613542</span> Venta de materiales de construcción, fontanería y calefacción</a>
+                        </li>
+                                            <li>
+                            <a href="/613544">
+                                <span class="code">613544</span> Venta de pinturas y lacas</a>
+                        </li>
+                                            <li>
+                            <a href="/613546">
+                                <span class="code">613546</span> Venta de productos de vidrios y marquetería</a>
+                        </li>
+                                            <li>
+                            <a href="/613548">
+                                <span class="code">613548</span> Venta de herramientas y artículos de ferretería</a>
+                        </li>
+                                            <li>
+                            <a href="/613550">
+                                <span class="code">613550</span> Venta de químicos</a>
+                        </li>
+                                            <li>
+                            <a href="/613552">
+                                <span class="code">613552</span> Venta de productos intermedios, desperdicios y desechos</a>
+                        </li>
+                                            <li>
+                            <a href="/613554">
+                                <span class="code">613554</span> Venta de maquinaria, equipo de oficina y programas de computador</a>
+                        </li>
+                                            <li>
+                            <a href="/613556">
+                                <span class="code">613556</span> Venta de artículos en cacharrerías y misceláneas</a>
+                        </li>
+                                            <li>
+                            <a href="/613558">
+                                <span class="code">613558</span> Venta de instrumentos musicales</a>
+                        </li>
+                                            <li>
+                            <a href="/613560">
+                                <span class="code">613560</span> Venta de artículos en casas de empeño y prenderías</a>
+                        </li>
+                                            <li>
+                            <a href="/613562">
+                                <span class="code">613562</span> Venta de equipo fotográfico</a>
+                        </li>
+                                            <li>
+                            <a href="/613564">
+                                <span class="code">613564</span> Venta de equipo óptico y de precisión</a>
+                        </li>
+                                            <li>
+                            <a href="/613566">
+                                <span class="code">613566</span> Venta de empaques</a>
+                        </li>
+                                            <li>
+                            <a href="/613568">
+                                <span class="code">613568</span> Venta de equipo profesional y científico</a>
+                        </li>
+                                            <li>
+                            <a href="/613570">
+                                <span class="code">613570</span> Venta de loterías, rifas, chance, apuestas y similares</a>
+                        </li>
+                                            <li>
+                            <a href="/613572">
+                                <span class="code">613572</span> Reparación de efectos personales y electrodomésticos</a>
+                        </li>
+                                            <li>
+                            <a href="/613595">
+                                <span class="code">613595</span> Venta de otros productos</a>
+                        </li>
+                                            <li>
+                            <a href="/613599">
+                                <span class="code">613599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/6140">
+                                <span class="code">6140</span> Hoteles y restaurantes</a>
+                        </li>
+                                            <li>
+                            <a href="/614005">
+                                <span class="code">614005</span> Hotelería</a>
+                        </li>
+                                            <li>
+                            <a href="/614010">
+                                <span class="code">614010</span> Campamento y otros tipos de hospedaje</a>
+                        </li>
+                                            <li>
+                            <a href="/614015">
+                                <span class="code">614015</span> Restaurantes</a>
+                        </li>
+                                            <li>
+                            <a href="/614020">
+                                <span class="code">614020</span> Bares y cantinas</a>
+                        </li>
+                                            <li>
+                            <a href="/614095">
+                                <span class="code">614095</span> Actividades conexas</a>
+                        </li>
+                                            <li>
+                            <a href="/614099">
+                                <span class="code">614099</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/6145">
+                                <span class="code">6145</span> Transporte, almacenamiento y comunicaciones</a>
+                        </li>
+                                            <li>
+                            <a href="/614505">
+                                <span class="code">614505</span> Servicio de transporte por carretera</a>
+                        </li>
+                                            <li>
+                            <a href="/614510">
+                                <span class="code">614510</span> Servicio de transporte por vía férrea</a>
+                        </li>
+                                            <li>
+                            <a href="/614515">
+                                <span class="code">614515</span> Servicio de transporte por vía acuática</a>
+                        </li>
+                                            <li>
+                            <a href="/614520">
+                                <span class="code">614520</span> Servicio de transporte por vía aérea</a>
+                        </li>
+                                            <li>
+                            <a href="/614525">
+                                <span class="code">614525</span> Servicio de transporte por tuberías</a>
+                        </li>
+                                            <li>
+                            <a href="/614530">
+                                <span class="code">614530</span> Manipulación de carga</a>
+                        </li>
+                                            <li>
+                            <a href="/614535">
+                                <span class="code">614535</span> Almacenamiento y depósito</a>
+                        </li>
+                                            <li>
+                            <a href="/614540">
+                                <span class="code">614540</span> Servicios complementarios para el transporte</a>
+                        </li>
+                                            <li>
+                            <a href="/614545">
+                                <span class="code">614545</span> Agencias de viaje</a>
+                        </li>
+                                            <li>
+                            <a href="/614550">
+                                <span class="code">614550</span> Otras agencias de transporte</a>
+                        </li>
+                                            <li>
+                            <a href="/614555">
+                                <span class="code">614555</span> Servicio postal y de correo</a>
+                        </li>
+                                            <li>
+                            <a href="/614560">
+                                <span class="code">614560</span> Servicio telefónico</a>
+                        </li>
+                                            <li>
+                            <a href="/614565">
+                                <span class="code">614565</span> Servicio de telégrafo</a>
+                        </li>
+                                            <li>
+                            <a href="/614570">
+                                <span class="code">614570</span> Servicio de transmisión de datos</a>
+                        </li>
+                                            <li>
+                            <a href="/614575">
+                                <span class="code">614575</span> Servicio de radio y televisión por cable</a>
+                        </li>
+                                            <li>
+                            <a href="/614580">
+                                <span class="code">614580</span> Transmisión de sonido e imágenes por contrato</a>
+                        </li>
+                                            <li>
+                            <a href="/614595">
+                                <span class="code">614595</span> Actividades conexas</a>
+                        </li>
+                                            <li>
+                            <a href="/614599">
+                                <span class="code">614599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/6150">
+                                <span class="code">6150</span> Actividad financiera</a>
+                        </li>
+                                            <li>
+                            <a href="/615005">
+                                <span class="code">615005</span> De inversiones</a>
+                        </li>
+                                            <li>
+                            <a href="/615010">
+                                <span class="code">615010</span> De servicio de bolsa</a>
+                        </li>
+                                            <li>
+                            <a href="/615099">
+                                <span class="code">615099</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/6155">
+                                <span class="code">6155</span> Actividades inmobiliarias, empresariales y de alquiler</a>
+                        </li>
+                                            <li>
+                            <a href="/615505">
+                                <span class="code">615505</span> Arrendamientos de bienes inmuebles</a>
+                        </li>
+                                            <li>
+                            <a href="/615510">
+                                <span class="code">615510</span> Inmobiliarias por retribución o contrata</a>
+                        </li>
+                                            <li>
+                            <a href="/615515">
+                                <span class="code">615515</span> Alquiler equipo de transporte</a>
+                        </li>
+                                            <li>
+                            <a href="/615520">
+                                <span class="code">615520</span> Alquiler maquinaria y equipo</a>
+                        </li>
+                                            <li>
+                            <a href="/615525">
+                                <span class="code">615525</span> Alquiler de efectos personales y enseres domésticos</a>
+                        </li>
+                                            <li>
+                            <a href="/615530">
+                                <span class="code">615530</span> Consultoría en equipo y programas de informática</a>
+                        </li>
+                                            <li>
+                            <a href="/615535">
+                                <span class="code">615535</span> Procesamiento de datos</a>
+                        </li>
+                                            <li>
+                            <a href="/615540">
+                                <span class="code">615540</span> Mantenimiento y reparación de maquinaria de oficina</a>
+                        </li>
+                                            <li>
+                            <a href="/615545">
+                                <span class="code">615545</span> Investigaciones científicas y de desarrollo</a>
+                        </li>
+                                            <li>
+                            <a href="/615550">
+                                <span class="code">615550</span> Actividades empresariales de consultoría</a>
+                        </li>
+                                            <li>
+                            <a href="/615555">
+                                <span class="code">615555</span> Publicidad</a>
+                        </li>
+                                            <li>
+                            <a href="/615560">
+                                <span class="code">615560</span> Dotación de personal</a>
+                        </li>
+                                            <li>
+                            <a href="/615565">
+                                <span class="code">615565</span> Investigación y seguridad</a>
+                        </li>
+                                            <li>
+                            <a href="/615570">
+                                <span class="code">615570</span> Limpieza de inmuebles</a>
+                        </li>
+                                            <li>
+                            <a href="/615575">
+                                <span class="code">615575</span> Fotografía</a>
+                        </li>
+                                            <li>
+                            <a href="/615580">
+                                <span class="code">615580</span> Envase y empaque</a>
+                        </li>
+                                            <li>
+                            <a href="/615585">
+                                <span class="code">615585</span> Fotocopiado</a>
+                        </li>
+                                            <li>
+                            <a href="/615590">
+                                <span class="code">615590</span> Mantenimiento y reparación de maquinaria y  equipo</a>
+                        </li>
+                                            <li>
+                            <a href="/615595">
+                                <span class="code">615595</span> Actividades conexas</a>
+                        </li>
+                                            <li>
+                            <a href="/615599">
+                                <span class="code">615599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/6160">
+                                <span class="code">6160</span> Enseñanza</a>
+                        </li>
+                                            <li>
+                            <a href="/616005">
+                                <span class="code">616005</span> Actividades relacionadas con la educación</a>
+                        </li>
+                                            <li>
+                            <a href="/616095">
+                                <span class="code">616095</span> Actividades conexas</a>
+                        </li>
+                                            <li>
+                            <a href="/616099">
+                                <span class="code">616099</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/6165">
+                                <span class="code">6165</span> Servicios sociales y de salud</a>
+                        </li>
+                                            <li>
+                            <a href="/616505">
+                                <span class="code">616505</span> Servicio hospitalario</a>
+                        </li>
+                                            <li>
+                            <a href="/616510">
+                                <span class="code">616510</span> Servicio médico</a>
+                        </li>
+                                            <li>
+                            <a href="/616515">
+                                <span class="code">616515</span> Servicio odontológico</a>
+                        </li>
+                                            <li>
+                            <a href="/616520">
+                                <span class="code">616520</span> Servicio de laboratorio</a>
+                        </li>
+                                            <li>
+                            <a href="/616525">
+                                <span class="code">616525</span> Actividades veterinarias</a>
+                        </li>
+                                            <li>
+                            <a href="/616530">
+                                <span class="code">616530</span> Actividades de servicios sociales</a>
+                        </li>
+                                            <li>
+                            <a href="/616595">
+                                <span class="code">616595</span> Actividades conexas</a>
+                        </li>
+                                            <li>
+                            <a href="/616599">
+                                <span class="code">616599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/6170">
+                                <span class="code">6170</span> Otras actividades de servicios comunitarios, sociales y personales</a>
+                        </li>
+                                            <li>
+                            <a href="/617005">
+                                <span class="code">617005</span> Eliminación de desperdicios y aguas residuales</a>
+                        </li>
+                                            <li>
+                            <a href="/617010">
+                                <span class="code">617010</span> Actividades de asociación</a>
+                        </li>
+                                            <li>
+                            <a href="/617015">
+                                <span class="code">617015</span> Producción y distribución de filmes y videocintas</a>
+                        </li>
+                                            <li>
+                            <a href="/617020">
+                                <span class="code">617020</span> Exhibición de filmes y videocintas</a>
+                        </li>
+                                            <li>
+                            <a href="/617025">
+                                <span class="code">617025</span> Actividad de radio y televisión</a>
+                        </li>
+                                            <li>
+                            <a href="/617030">
+                                <span class="code">617030</span> Actividad teatral, musical y artística</a>
+                        </li>
+                                            <li>
+                            <a href="/617035">
+                                <span class="code">617035</span> Grabación y producción de discos</a>
+                        </li>
+                                            <li>
+                            <a href="/617040">
+                                <span class="code">617040</span> Entretenimiento y esparcimiento</a>
+                        </li>
+                                            <li>
+                            <a href="/617045">
+                                <span class="code">617045</span> Agencias de noticias</a>
+                        </li>
+                                            <li>
+                            <a href="/617050">
+                                <span class="code">617050</span> Lavanderías y similares</a>
+                        </li>
+                                            <li>
+                            <a href="/617055">
+                                <span class="code">617055</span> Peluquerías y similares</a>
+                        </li>
+                                            <li>
+                            <a href="/617060">
+                                <span class="code">617060</span> Servicios funerarios</a>
+                        </li>
+                                            <li>
+                            <a href="/617065">
+                                <span class="code">617065</span> Zonas francas</a>
+                        </li>
+                                            <li>
+                            <a href="/617095">
+                                <span class="code">617095</span> Actividades conexas</a>
+                        </li>
+                                            <li>
+                            <a href="/617099">
+                                <span class="code">617099</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/62">
+                                <span class="code">62</span> Compras</a>
+                        </li>
+                                            <li>
+                            <a href="/6205">
+                                <span class="code">6205</span> De mercancías</a>
+                        </li>
+                                            <li>
+                            <a href="/620599">
+                                <span class="code">620599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/6210">
+                                <span class="code">6210</span> De materias primas</a>
+                        </li>
+                                            <li>
+                            <a href="/621099">
+                                <span class="code">621099</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/6215">
+                                <span class="code">6215</span> De materiales indirectos</a>
+                        </li>
+                                            <li>
+                            <a href="/621599">
+                                <span class="code">621599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/6220">
+                                <span class="code">6220</span> Compra de energía</a>
+                        </li>
+                                            <li>
+                            <a href="/622099">
+                                <span class="code">622099</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/6225">
+                                <span class="code">6225</span> Devoluciones en compras (CR)</a>
+                        </li>
+                                            <li>
+                            <a href="/622599">
+                                <span class="code">622599</span> Ajustes por inflación</a>
+                        </li>
+                                        </ul>

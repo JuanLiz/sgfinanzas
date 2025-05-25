@@ -1,0 +1,2018 @@
+<ul class="account-list">
+                                            <li>
+                            <a href="/4">
+                                <span class="code">4</span> Ingresos</a>
+                        </li>
+                                            <li>
+                            <a href="/41">
+                                <span class="code">41</span> Operacionales</a>
+                        </li>
+                                            <li>
+                            <a href="/4105">
+                                <span class="code">4105</span> Agricultura, ganadería, caza y silvicultura</a>
+                        </li>
+                                            <li>
+                            <a href="/410505">
+                                <span class="code">410505</span> Cultivo de cereales</a>
+                        </li>
+                                            <li>
+                            <a href="/410510">
+                                <span class="code">410510</span> Cultivos de hortalizas, legumbres y plantas ornamentales</a>
+                        </li>
+                                            <li>
+                            <a href="/410515">
+                                <span class="code">410515</span> Cultivos de frutas, nueces y plantas aromáticas</a>
+                        </li>
+                                            <li>
+                            <a href="/410520">
+                                <span class="code">410520</span> Cultivo de café</a>
+                        </li>
+                                            <li>
+                            <a href="/410525">
+                                <span class="code">410525</span> Cultivo de flores</a>
+                        </li>
+                                            <li>
+                            <a href="/410530">
+                                <span class="code">410530</span> Cultivo de caña de azúcar</a>
+                        </li>
+                                            <li>
+                            <a href="/410535">
+                                <span class="code">410535</span> Cultivo de algodón y plantas para material textil</a>
+                        </li>
+                                            <li>
+                            <a href="/410540">
+                                <span class="code">410540</span> Cultivo de banano</a>
+                        </li>
+                                            <li>
+                            <a href="/410545">
+                                <span class="code">410545</span> Otros cultivos agrícolas</a>
+                        </li>
+                                            <li>
+                            <a href="/410550">
+                                <span class="code">410550</span> Cría de ovejas, cabras, asnos, mulas y burdéganos</a>
+                        </li>
+                                            <li>
+                            <a href="/410555">
+                                <span class="code">410555</span> Cría de ganado caballar y vacuno</a>
+                        </li>
+                                            <li>
+                            <a href="/410560">
+                                <span class="code">410560</span> Producción avícola</a>
+                        </li>
+                                            <li>
+                            <a href="/410565">
+                                <span class="code">410565</span> Cría de otros animales</a>
+                        </li>
+                                            <li>
+                            <a href="/410570">
+                                <span class="code">410570</span> Servicios agrícolas y ganaderos</a>
+                        </li>
+                                            <li>
+                            <a href="/410575">
+                                <span class="code">410575</span> Actividad de caza</a>
+                        </li>
+                                            <li>
+                            <a href="/410580">
+                                <span class="code">410580</span> Actividad de silvicultura</a>
+                        </li>
+                                            <li>
+                            <a href="/410595">
+                                <span class="code">410595</span> Actividades conexas</a>
+                        </li>
+                                            <li>
+                            <a href="/410599">
+                                <span class="code">410599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/4110">
+                                <span class="code">4110</span> Pesca</a>
+                        </li>
+                                            <li>
+                            <a href="/411005">
+                                <span class="code">411005</span> Actividad de pesca</a>
+                        </li>
+                                            <li>
+                            <a href="/411010">
+                                <span class="code">411010</span> Explotación de criaderos de peces</a>
+                        </li>
+                                            <li>
+                            <a href="/411095">
+                                <span class="code">411095</span> Actividades conexas</a>
+                        </li>
+                                            <li>
+                            <a href="/411099">
+                                <span class="code">411099</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/4115">
+                                <span class="code">4115</span> Explotación de minas y canteras</a>
+                        </li>
+                                            <li>
+                            <a href="/411505">
+                                <span class="code">411505</span> Carbón</a>
+                        </li>
+                                            <li>
+                            <a href="/411510">
+                                <span class="code">411510</span> Petróleo crudo</a>
+                        </li>
+                                            <li>
+                            <a href="/411512">
+                                <span class="code">411512</span> Gas natural</a>
+                        </li>
+                                            <li>
+                            <a href="/411514">
+                                <span class="code">411514</span> Servicios relacionados con extracción de petróleo y gas</a>
+                        </li>
+                                            <li>
+                            <a href="/411515">
+                                <span class="code">411515</span> Minerales de hierro</a>
+                        </li>
+                                            <li>
+                            <a href="/411520">
+                                <span class="code">411520</span> Minerales metalíferos no ferrosos</a>
+                        </li>
+                                            <li>
+                            <a href="/411525">
+                                <span class="code">411525</span> Piedra, arena y arcilla</a>
+                        </li>
+                                            <li>
+                            <a href="/411527">
+                                <span class="code">411527</span> Piedras preciosas</a>
+                        </li>
+                                            <li>
+                            <a href="/411528">
+                                <span class="code">411528</span> Oro</a>
+                        </li>
+                                            <li>
+                            <a href="/411530">
+                                <span class="code">411530</span> Otras minas y canteras</a>
+                        </li>
+                                            <li>
+                            <a href="/411532">
+                                <span class="code">411532</span> Prestación de servicios sector minero</a>
+                        </li>
+                                            <li>
+                            <a href="/411595">
+                                <span class="code">411595</span> Actividades conexas</a>
+                        </li>
+                                            <li>
+                            <a href="/411599">
+                                <span class="code">411599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/4120">
+                                <span class="code">4120</span> Industrias manufactureras</a>
+                        </li>
+                                            <li>
+                            <a href="/412001">
+                                <span class="code">412001</span> Producción y procesamiento de carnes y productos cárnicos</a>
+                        </li>
+                                            <li>
+                            <a href="/412002">
+                                <span class="code">412002</span> Productos de pescado</a>
+                        </li>
+                                            <li>
+                            <a href="/412003">
+                                <span class="code">412003</span> Productos de frutas, legumbres y hortalizas</a>
+                        </li>
+                                            <li>
+                            <a href="/412004">
+                                <span class="code">412004</span> Elaboración de aceites y grasas</a>
+                        </li>
+                                            <li>
+                            <a href="/412005">
+                                <span class="code">412005</span> Elaboración de productos lácteos</a>
+                        </li>
+                                            <li>
+                            <a href="/412006">
+                                <span class="code">412006</span> Elaboración de productos de molinería</a>
+                        </li>
+                                            <li>
+                            <a href="/412007">
+                                <span class="code">412007</span> Elaboración de almidones y derivados</a>
+                        </li>
+                                            <li>
+                            <a href="/412008">
+                                <span class="code">412008</span> Elaboración de alimentos para animales</a>
+                        </li>
+                                            <li>
+                            <a href="/412009">
+                                <span class="code">412009</span> Elaboración de productos para panadería</a>
+                        </li>
+                                            <li>
+                            <a href="/412010">
+                                <span class="code">412010</span> Elaboración de azúcar y melazas</a>
+                        </li>
+                                            <li>
+                            <a href="/412011">
+                                <span class="code">412011</span> Elaboración de cacao, chocolate y confitería</a>
+                        </li>
+                                            <li>
+                            <a href="/412012">
+                                <span class="code">412012</span> Elaboración de pastas y productos farináceos</a>
+                        </li>
+                                            <li>
+                            <a href="/412013">
+                                <span class="code">412013</span> Elaboración de productos de café</a>
+                        </li>
+                                            <li>
+                            <a href="/412014">
+                                <span class="code">412014</span> Elaboración de otros productos alimenticios</a>
+                        </li>
+                                            <li>
+                            <a href="/412015">
+                                <span class="code">412015</span> Elaboración de bebidas alcohólicas y alcohol etílico</a>
+                        </li>
+                                            <li>
+                            <a href="/412016">
+                                <span class="code">412016</span> Elaboración de vinos</a>
+                        </li>
+                                            <li>
+                            <a href="/412017">
+                                <span class="code">412017</span> Elaboración de bebidas malteadas y de malta</a>
+                        </li>
+                                            <li>
+                            <a href="/412018">
+                                <span class="code">412018</span> Elaboración de bebidas no alcohólicas</a>
+                        </li>
+                                            <li>
+                            <a href="/412019">
+                                <span class="code">412019</span> Elaboración de productos de tabaco</a>
+                        </li>
+                                            <li>
+                            <a href="/412020">
+                                <span class="code">412020</span> Preparación e hilatura de fibras textiles y tejeduría</a>
+                        </li>
+                                            <li>
+                            <a href="/412021">
+                                <span class="code">412021</span> Acabado de productos textiles</a>
+                        </li>
+                                            <li>
+                            <a href="/412022">
+                                <span class="code">412022</span> Elaboración de artículos de materiales textiles</a>
+                        </li>
+                                            <li>
+                            <a href="/412023">
+                                <span class="code">412023</span> Elaboración de tapices y alfombras</a>
+                        </li>
+                                            <li>
+                            <a href="/412024">
+                                <span class="code">412024</span> Elaboración de cuerdas, cordeles, bramantes y redes</a>
+                        </li>
+                                            <li>
+                            <a href="/412025">
+                                <span class="code">412025</span> Elaboración de otros productos textiles</a>
+                        </li>
+                                            <li>
+                            <a href="/412026">
+                                <span class="code">412026</span> Elaboración de tejidos</a>
+                        </li>
+                                            <li>
+                            <a href="/412027">
+                                <span class="code">412027</span> Elaboración de prendas de vestir</a>
+                        </li>
+                                            <li>
+                            <a href="/412028">
+                                <span class="code">412028</span> Preparación, adobo y teñido de pieles</a>
+                        </li>
+                                            <li>
+                            <a href="/412029">
+                                <span class="code">412029</span> Curtido, adobo o preparación de cuero</a>
+                        </li>
+                                            <li>
+                            <a href="/412030">
+                                <span class="code">412030</span> Elaboración de maletas, bolsos y similares</a>
+                        </li>
+                                            <li>
+                            <a href="/412031">
+                                <span class="code">412031</span> Elaboración de calzado</a>
+                        </li>
+                                            <li>
+                            <a href="/412032">
+                                <span class="code">412032</span> Producción de madera, artículos de madera y corcho</a>
+                        </li>
+                                            <li>
+                            <a href="/412033">
+                                <span class="code">412033</span> Elaboración de pasta y productos de madera, papel y cartón</a>
+                        </li>
+                                            <li>
+                            <a href="/412034">
+                                <span class="code">412034</span> Ediciones y publicaciones</a>
+                        </li>
+                                            <li>
+                            <a href="/412035">
+                                <span class="code">412035</span> Impresión</a>
+                        </li>
+                                            <li>
+                            <a href="/412036">
+                                <span class="code">412036</span> Servicios relacionados con la edición y la impresión</a>
+                        </li>
+                                            <li>
+                            <a href="/412037">
+                                <span class="code">412037</span> Reproducción de grabaciones</a>
+                        </li>
+                                            <li>
+                            <a href="/412038">
+                                <span class="code">412038</span> Elaboración de productos de horno de coque</a>
+                        </li>
+                                            <li>
+                            <a href="/412039">
+                                <span class="code">412039</span> Elaboración de productos de la refinación de petróleo</a>
+                        </li>
+                                            <li>
+                            <a href="/412040">
+                                <span class="code">412040</span> Elaboración de sustancias químicas básicas</a>
+                        </li>
+                                            <li>
+                            <a href="/412041">
+                                <span class="code">412041</span> Elaboración de abonos y compuestos de nitrógeno</a>
+                        </li>
+                                            <li>
+                            <a href="/412042">
+                                <span class="code">412042</span> Elaboración de plástico y caucho sintético</a>
+                        </li>
+                                            <li>
+                            <a href="/412043">
+                                <span class="code">412043</span> Elaboración de productos químicos de uso agropecuario</a>
+                        </li>
+                                            <li>
+                            <a href="/412044">
+                                <span class="code">412044</span> Elaboración de pinturas, tintas y masillas</a>
+                        </li>
+                                            <li>
+                            <a href="/412045">
+                                <span class="code">412045</span> Elaboración de productos farmacéuticos y botánicos</a>
+                        </li>
+                                            <li>
+                            <a href="/412046">
+                                <span class="code">412046</span> Elaboración de jabones, detergentes y preparados de tocador</a>
+                        </li>
+                                            <li>
+                            <a href="/412047">
+                                <span class="code">412047</span> Elaboración de otros productos químicos</a>
+                        </li>
+                                            <li>
+                            <a href="/412048">
+                                <span class="code">412048</span> Elaboración de fibras</a>
+                        </li>
+                                            <li>
+                            <a href="/412049">
+                                <span class="code">412049</span> Elaboración  de otros productos de caucho</a>
+                        </li>
+                                            <li>
+                            <a href="/412050">
+                                <span class="code">412050</span> Elaboración  de productos de plástico</a>
+                        </li>
+                                            <li>
+                            <a href="/412051">
+                                <span class="code">412051</span> Elaboración  de vidrio y productos de vidrio</a>
+                        </li>
+                                            <li>
+                            <a href="/412052">
+                                <span class="code">412052</span> Elaboración  de productos de cerámica, loza, piedra, arcilla y porcelana</a>
+                        </li>
+                                            <li>
+                            <a href="/412053">
+                                <span class="code">412053</span> Elaboración  de cemento, cal y yeso</a>
+                        </li>
+                                            <li>
+                            <a href="/412054">
+                                <span class="code">412054</span> Elaboración  de artículos de hormigón, cemento y yeso</a>
+                        </li>
+                                            <li>
+                            <a href="/412055">
+                                <span class="code">412055</span> Corte, tallado y acabado de la piedra</a>
+                        </li>
+                                            <li>
+                            <a href="/412056">
+                                <span class="code">412056</span> Elaboración de otros productos minerales no metálicos</a>
+                        </li>
+                                            <li>
+                            <a href="/412057">
+                                <span class="code">412057</span> Industrias básicas y fundición de hierro y acero</a>
+                        </li>
+                                            <li>
+                            <a href="/412058">
+                                <span class="code">412058</span> Productos primarios de metales preciosos y de metales no ferrosos</a>
+                        </li>
+                                            <li>
+                            <a href="/412059">
+                                <span class="code">412059</span> Fundición de metales no ferrosos</a>
+                        </li>
+                                            <li>
+                            <a href="/412060">
+                                <span class="code">412060</span> Fabricación de productos metálicos para uso estructural</a>
+                        </li>
+                                            <li>
+                            <a href="/412061">
+                                <span class="code">412061</span> Forja, prensado, estampado, laminado de metal y pulvimetalurgia</a>
+                        </li>
+                                            <li>
+                            <a href="/412062">
+                                <span class="code">412062</span> Revestimiento de metales y obras de ingeniería mecánica</a>
+                        </li>
+                                            <li>
+                            <a href="/412063">
+                                <span class="code">412063</span> Fabricación de artículos de ferretería</a>
+                        </li>
+                                            <li>
+                            <a href="/412064">
+                                <span class="code">412064</span> Elaboración de otros productos de metal</a>
+                        </li>
+                                            <li>
+                            <a href="/412065">
+                                <span class="code">412065</span> Fabricación de maquinaria y equipo</a>
+                        </li>
+                                            <li>
+                            <a href="/412066">
+                                <span class="code">412066</span> Fabricación de equipos de elevación y manipulación</a>
+                        </li>
+                                            <li>
+                            <a href="/412067">
+                                <span class="code">412067</span> Elaboración de aparatos de uso doméstico</a>
+                        </li>
+                                            <li>
+                            <a href="/412068">
+                                <span class="code">412068</span> Elaboración de equipo de oficina</a>
+                        </li>
+                                            <li>
+                            <a href="/412069">
+                                <span class="code">412069</span> Elaboración de pilas y baterías primarias</a>
+                        </li>
+                                            <li>
+                            <a href="/412070">
+                                <span class="code">412070</span> Elaboración de equipo de iluminación</a>
+                        </li>
+                                            <li>
+                            <a href="/412071">
+                                <span class="code">412071</span> Elaboración de otros tipos de equipo eléctrico</a>
+                        </li>
+                                            <li>
+                            <a href="/412072">
+                                <span class="code">412072</span> Fabricación de equipos de radio, televisión y comunicaciones</a>
+                        </li>
+                                            <li>
+                            <a href="/412073">
+                                <span class="code">412073</span> Fabricación de aparatos e instrumentos médicos</a>
+                        </li>
+                                            <li>
+                            <a href="/412074">
+                                <span class="code">412074</span> Fabricación de instrumentos de medición y control</a>
+                        </li>
+                                            <li>
+                            <a href="/412075">
+                                <span class="code">412075</span> Fabricación de instrumentos de óptica y equipo fotográfico</a>
+                        </li>
+                                            <li>
+                            <a href="/412076">
+                                <span class="code">412076</span> Fabricación de relojes</a>
+                        </li>
+                                            <li>
+                            <a href="/412077">
+                                <span class="code">412077</span> Fabricación de vehículos automotores</a>
+                        </li>
+                                            <li>
+                            <a href="/412078">
+                                <span class="code">412078</span> Fabricación de carrocerías para automotores</a>
+                        </li>
+                                            <li>
+                            <a href="/412079">
+                                <span class="code">412079</span> Fabricación de partes piezas y accesorios para automotores</a>
+                        </li>
+                                            <li>
+                            <a href="/412080">
+                                <span class="code">412080</span> Fabricación y reparación de buques y otras embarcaciones</a>
+                        </li>
+                                            <li>
+                            <a href="/412081">
+                                <span class="code">412081</span> Fabricación de locomotoras y material rodante para ferrocarriles</a>
+                        </li>
+                                            <li>
+                            <a href="/412082">
+                                <span class="code">412082</span> Fabricación de aeronaves</a>
+                        </li>
+                                            <li>
+                            <a href="/412083">
+                                <span class="code">412083</span> Fabricación de motocicletas</a>
+                        </li>
+                                            <li>
+                            <a href="/412084">
+                                <span class="code">412084</span> Fabricación de bicicletas y sillas de ruedas</a>
+                        </li>
+                                            <li>
+                            <a href="/412085">
+                                <span class="code">412085</span> Fabricación de otros tipos de transporte</a>
+                        </li>
+                                            <li>
+                            <a href="/412086">
+                                <span class="code">412086</span> Fabricación de muebles</a>
+                        </li>
+                                            <li>
+                            <a href="/412087">
+                                <span class="code">412087</span> Fabricación de joyas y artículos conexos</a>
+                        </li>
+                                            <li>
+                            <a href="/412088">
+                                <span class="code">412088</span> Fabricación de instrumentos de música</a>
+                        </li>
+                                            <li>
+                            <a href="/412089">
+                                <span class="code">412089</span> Fabricación de artículos y equipo para deporte</a>
+                        </li>
+                                            <li>
+                            <a href="/412090">
+                                <span class="code">412090</span> Fabricación de juegos y juguetes</a>
+                        </li>
+                                            <li>
+                            <a href="/412091">
+                                <span class="code">412091</span> Reciclamiento de desperdicios</a>
+                        </li>
+                                            <li>
+                            <a href="/412095">
+                                <span class="code">412095</span> Productos de otras industrias manufactureras</a>
+                        </li>
+                                            <li>
+                            <a href="/412099">
+                                <span class="code">412099</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/4125">
+                                <span class="code">4125</span> Suministro de electricidad, gas y agua</a>
+                        </li>
+                                            <li>
+                            <a href="/412505">
+                                <span class="code">412505</span> Generación, captación y distribución de energía eléctrica</a>
+                        </li>
+                                            <li>
+                            <a href="/412510">
+                                <span class="code">412510</span> Fabricación de gas y distribución de combustibles gaseosos</a>
+                        </li>
+                                            <li>
+                            <a href="/412515">
+                                <span class="code">412515</span> Captación, depuración y distribución de agua</a>
+                        </li>
+                                            <li>
+                            <a href="/412595">
+                                <span class="code">412595</span> Actividades conexas</a>
+                        </li>
+                                            <li>
+                            <a href="/412599">
+                                <span class="code">412599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/4130">
+                                <span class="code">4130</span> Construcción</a>
+                        </li>
+                                            <li>
+                            <a href="/413005">
+                                <span class="code">413005</span> Preparación de terrenos</a>
+                        </li>
+                                            <li>
+                            <a href="/413010">
+                                <span class="code">413010</span> Construcción de edificios y obras de ingeniería civil</a>
+                        </li>
+                                            <li>
+                            <a href="/413015">
+                                <span class="code">413015</span> Acondicionamiento de edificios</a>
+                        </li>
+                                            <li>
+                            <a href="/413020">
+                                <span class="code">413020</span> Terminación de edificaciones</a>
+                        </li>
+                                            <li>
+                            <a href="/413025">
+                                <span class="code">413025</span> Alquiler de equipo con operarios</a>
+                        </li>
+                                            <li>
+                            <a href="/413095">
+                                <span class="code">413095</span> Actividades conexas</a>
+                        </li>
+                                            <li>
+                            <a href="/413099">
+                                <span class="code">413099</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/4135">
+                                <span class="code">4135</span> Comercio al por mayor y al por menor</a>
+                        </li>
+                                            <li>
+                            <a href="/413502">
+                                <span class="code">413502</span> Venta de vehículos automotores</a>
+                        </li>
+                                            <li>
+                            <a href="/413504">
+                                <span class="code">413504</span> Mantenimiento, reparación y lavado de vehículos automotores</a>
+                        </li>
+                                            <li>
+                            <a href="/413506">
+                                <span class="code">413506</span> Venta de partes, piezas y accesorios de vehículos automotores</a>
+                        </li>
+                                            <li>
+                            <a href="/413508">
+                                <span class="code">413508</span> Venta de combustibles sólidos, líquidos, gaseosos</a>
+                        </li>
+                                            <li>
+                            <a href="/413510">
+                                <span class="code">413510</span> Venta de lubricantes, aditivos, llantas y lujos para automotores</a>
+                        </li>
+                                            <li>
+                            <a href="/413512">
+                                <span class="code">413512</span> Venta a cambio de retribución o por contrata</a>
+                        </li>
+                                            <li>
+                            <a href="/413514">
+                                <span class="code">413514</span> Venta de insumos, materias primas agropecuarias y flores</a>
+                        </li>
+                                            <li>
+                            <a href="/413516">
+                                <span class="code">413516</span> Venta de otros insumos y materias primas no agropecuarias</a>
+                        </li>
+                                            <li>
+                            <a href="/413518">
+                                <span class="code">413518</span> Venta de animales vivos y cueros</a>
+                        </li>
+                                            <li>
+                            <a href="/413520">
+                                <span class="code">413520</span> Venta de productos en almacenes no especializados</a>
+                        </li>
+                                            <li>
+                            <a href="/413522">
+                                <span class="code">413522</span> Venta de productos agropecuarios</a>
+                        </li>
+                                            <li>
+                            <a href="/413524">
+                                <span class="code">413524</span> Venta de productos textiles, de vestir, de cuero y calzado</a>
+                        </li>
+                                            <li>
+                            <a href="/413526">
+                                <span class="code">413526</span> Venta de papel y cartón</a>
+                        </li>
+                                            <li>
+                            <a href="/413528">
+                                <span class="code">413528</span> Venta de libros, revistas, elementos de papelería, útiles y textos escolares</a>
+                        </li>
+                                            <li>
+                            <a href="/413530">
+                                <span class="code">413530</span> Venta de juegos, juguetes y artículos deportivos</a>
+                        </li>
+                                            <li>
+                            <a href="/413532">
+                                <span class="code">413532</span> Venta de instrumentos quirúrgicos y ortopédicos</a>
+                        </li>
+                                            <li>
+                            <a href="/413534">
+                                <span class="code">413534</span> Venta de artículos en relojerías y joyerías</a>
+                        </li>
+                                            <li>
+                            <a href="/413536">
+                                <span class="code">413536</span> Venta de electrodomésticos y muebles</a>
+                        </li>
+                                            <li>
+                            <a href="/413538">
+                                <span class="code">413538</span> Venta de productos de aseo, farmacéuticos, medicinales, y artículos de tocador</a>
+                        </li>
+                                            <li>
+                            <a href="/413540">
+                                <span class="code">413540</span> Venta de cubiertos, vajillas, cristalería, porcelanas, cerámicas y otros artículos de uso doméstico</a>
+                        </li>
+                                            <li>
+                            <a href="/413542">
+                                <span class="code">413542</span> Venta de materiales de construcción, fontanería y calefacción</a>
+                        </li>
+                                            <li>
+                            <a href="/413544">
+                                <span class="code">413544</span> Venta de pinturas y lacas</a>
+                        </li>
+                                            <li>
+                            <a href="/413546">
+                                <span class="code">413546</span> Venta de productos de vidrios y marquetería</a>
+                        </li>
+                                            <li>
+                            <a href="/413548">
+                                <span class="code">413548</span> Venta de herramientas y artículos de ferretería</a>
+                        </li>
+                                            <li>
+                            <a href="/413550">
+                                <span class="code">413550</span> Venta de químicos</a>
+                        </li>
+                                            <li>
+                            <a href="/413552">
+                                <span class="code">413552</span> Venta de productos intermedios, desperdicios y desechos</a>
+                        </li>
+                                            <li>
+                            <a href="/413554">
+                                <span class="code">413554</span> Venta de maquinaria, equipo de oficina y programas de computador</a>
+                        </li>
+                                            <li>
+                            <a href="/413556">
+                                <span class="code">413556</span> Venta de artículos en cacharrerías y misceláneas</a>
+                        </li>
+                                            <li>
+                            <a href="/413558">
+                                <span class="code">413558</span> Venta de instrumentos musicales</a>
+                        </li>
+                                            <li>
+                            <a href="/413560">
+                                <span class="code">413560</span> Venta de artículos en casas de empeño y prenderías</a>
+                        </li>
+                                            <li>
+                            <a href="/413562">
+                                <span class="code">413562</span> Venta de equipo fotográfico</a>
+                        </li>
+                                            <li>
+                            <a href="/413564">
+                                <span class="code">413564</span> Venta de equipo óptico y de precisión</a>
+                        </li>
+                                            <li>
+                            <a href="/413566">
+                                <span class="code">413566</span> Venta de empaques</a>
+                        </li>
+                                            <li>
+                            <a href="/413568">
+                                <span class="code">413568</span> Venta de equipo profesional y científico</a>
+                        </li>
+                                            <li>
+                            <a href="/413570">
+                                <span class="code">413570</span> Venta de loterías, rifas, chance, apuestas y similares</a>
+                        </li>
+                                            <li>
+                            <a href="/413572">
+                                <span class="code">413572</span> Reparación de efectos personales y electrodomésticos</a>
+                        </li>
+                                            <li>
+                            <a href="/413595">
+                                <span class="code">413595</span> Venta de otros productos</a>
+                        </li>
+                                            <li>
+                            <a href="/413599">
+                                <span class="code">413599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/4140">
+                                <span class="code">4140</span> Hoteles y restaurantes</a>
+                        </li>
+                                            <li>
+                            <a href="/414005">
+                                <span class="code">414005</span> Hotelería</a>
+                        </li>
+                                            <li>
+                            <a href="/414010">
+                                <span class="code">414010</span> Campamento y otros tipos de hospedaje</a>
+                        </li>
+                                            <li>
+                            <a href="/414015">
+                                <span class="code">414015</span> Restaurantes</a>
+                        </li>
+                                            <li>
+                            <a href="/414020">
+                                <span class="code">414020</span> Bares y cantinas</a>
+                        </li>
+                                            <li>
+                            <a href="/414095">
+                                <span class="code">414095</span> Actividades conexas</a>
+                        </li>
+                                            <li>
+                            <a href="/414099">
+                                <span class="code">414099</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/4145">
+                                <span class="code">4145</span> Transporte, almacenamiento y comunicaciones</a>
+                        </li>
+                                            <li>
+                            <a href="/414505">
+                                <span class="code">414505</span> Servicio de transporte por carretera</a>
+                        </li>
+                                            <li>
+                            <a href="/414510">
+                                <span class="code">414510</span> Servicio de transporte por vía férrea</a>
+                        </li>
+                                            <li>
+                            <a href="/414515">
+                                <span class="code">414515</span> Servicio de transporte por vía acuática</a>
+                        </li>
+                                            <li>
+                            <a href="/414520">
+                                <span class="code">414520</span> Servicio de transporte por vía aérea</a>
+                        </li>
+                                            <li>
+                            <a href="/414525">
+                                <span class="code">414525</span> Servicio de transporte por tuberías</a>
+                        </li>
+                                            <li>
+                            <a href="/414530">
+                                <span class="code">414530</span> Manipulación de carga</a>
+                        </li>
+                                            <li>
+                            <a href="/414535">
+                                <span class="code">414535</span> Almacenamiento y depósito</a>
+                        </li>
+                                            <li>
+                            <a href="/414540">
+                                <span class="code">414540</span> Servicios complementarios para el transporte</a>
+                        </li>
+                                            <li>
+                            <a href="/414545">
+                                <span class="code">414545</span> Agencias de viaje</a>
+                        </li>
+                                            <li>
+                            <a href="/414550">
+                                <span class="code">414550</span> Otras agencias de transporte</a>
+                        </li>
+                                            <li>
+                            <a href="/414555">
+                                <span class="code">414555</span> Servicio postal y de correo</a>
+                        </li>
+                                            <li>
+                            <a href="/414560">
+                                <span class="code">414560</span> Servicio telefónico</a>
+                        </li>
+                                            <li>
+                            <a href="/414565">
+                                <span class="code">414565</span> Servicio de telégrafo</a>
+                        </li>
+                                            <li>
+                            <a href="/414570">
+                                <span class="code">414570</span> Servicio de transmisión de datos</a>
+                        </li>
+                                            <li>
+                            <a href="/414575">
+                                <span class="code">414575</span> Servicio de radio y televisión por cable</a>
+                        </li>
+                                            <li>
+                            <a href="/414580">
+                                <span class="code">414580</span> Transmisión de sonido e imágenes por contrato</a>
+                        </li>
+                                            <li>
+                            <a href="/414595">
+                                <span class="code">414595</span> Actividades conexas</a>
+                        </li>
+                                            <li>
+                            <a href="/414599">
+                                <span class="code">414599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/4150">
+                                <span class="code">4150</span> Actividad financiera</a>
+                        </li>
+                                            <li>
+                            <a href="/415005">
+                                <span class="code">415005</span> Venta de inversiones</a>
+                        </li>
+                                            <li>
+                            <a href="/415010">
+                                <span class="code">415010</span> Dividendos de sociedades anónimas y/o asimiladas</a>
+                        </li>
+                                            <li>
+                            <a href="/415015">
+                                <span class="code">415015</span> Participaciones de sociedades limitadas y/o asimiladas</a>
+                        </li>
+                                            <li>
+                            <a href="/415020">
+                                <span class="code">415020</span> Intereses</a>
+                        </li>
+                                            <li>
+                            <a href="/415025">
+                                <span class="code">415025</span> Reajuste monetario-UPAC (hoy UVR)</a>
+                        </li>
+                                            <li>
+                            <a href="/415030">
+                                <span class="code">415030</span> Comisiones</a>
+                        </li>
+                                            <li>
+                            <a href="/415035">
+                                <span class="code">415035</span> Operaciones de descuento</a>
+                        </li>
+                                            <li>
+                            <a href="/415040">
+                                <span class="code">415040</span> Cuotas de inscripción-consorcios</a>
+                        </li>
+                                            <li>
+                            <a href="/415045">
+                                <span class="code">415045</span> Cuotas de administración-consorcios</a>
+                        </li>
+                                            <li>
+                            <a href="/415050">
+                                <span class="code">415050</span> Reajuste del sistema-consorcios</a>
+                        </li>
+                                            <li>
+                            <a href="/415055">
+                                <span class="code">415055</span> Eliminación de suscriptores-consorcios</a>
+                        </li>
+                                            <li>
+                            <a href="/415060">
+                                <span class="code">415060</span> Cuotas de ingreso o retiro-sociedad administradora</a>
+                        </li>
+                                            <li>
+                            <a href="/415065">
+                                <span class="code">415065</span> Servicios a comisionistas</a>
+                        </li>
+                                            <li>
+                            <a href="/415070">
+                                <span class="code">415070</span> Inscripciones y cuotas</a>
+                        </li>
+                                            <li>
+                            <a href="/415075">
+                                <span class="code">415075</span> Recuperación de garantías</a>
+                        </li>
+                                            <li>
+                            <a href="/415080">
+                                <span class="code">415080</span> Ingresos método de participación</a>
+                        </li>
+                                            <li>
+                            <a href="/415095">
+                                <span class="code">415095</span> Actividades conexas</a>
+                        </li>
+                                            <li>
+                            <a href="/415099">
+                                <span class="code">415099</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/4155">
+                                <span class="code">4155</span> Actividades inmobiliarias, empresariales y de alquiler</a>
+                        </li>
+                                            <li>
+                            <a href="/415505">
+                                <span class="code">415505</span> Arrendamientos de bienes inmuebles</a>
+                        </li>
+                                            <li>
+                            <a href="/415510">
+                                <span class="code">415510</span> Inmobiliarias por retribución o contrata</a>
+                        </li>
+                                            <li>
+                            <a href="/415515">
+                                <span class="code">415515</span> Alquiler equipo de transporte</a>
+                        </li>
+                                            <li>
+                            <a href="/415520">
+                                <span class="code">415520</span> Alquiler maquinaria y equipo</a>
+                        </li>
+                                            <li>
+                            <a href="/415525">
+                                <span class="code">415525</span> Alquiler de efectos personales y enseres domésticos</a>
+                        </li>
+                                            <li>
+                            <a href="/415530">
+                                <span class="code">415530</span> Consultoría en equipo y programas de informática</a>
+                        </li>
+                                            <li>
+                            <a href="/415535">
+                                <span class="code">415535</span> Procesamiento de datos</a>
+                        </li>
+                                            <li>
+                            <a href="/415540">
+                                <span class="code">415540</span> Mantenimiento y reparación de maquinaria de oficina</a>
+                        </li>
+                                            <li>
+                            <a href="/415545">
+                                <span class="code">415545</span> Investigaciones científicas y de desarrollo</a>
+                        </li>
+                                            <li>
+                            <a href="/415550">
+                                <span class="code">415550</span> Actividades empresariales de consultoría</a>
+                        </li>
+                                            <li>
+                            <a href="/415555">
+                                <span class="code">415555</span> Publicidad</a>
+                        </li>
+                                            <li>
+                            <a href="/415560">
+                                <span class="code">415560</span> Dotación de personal</a>
+                        </li>
+                                            <li>
+                            <a href="/415565">
+                                <span class="code">415565</span> Investigación y seguridad</a>
+                        </li>
+                                            <li>
+                            <a href="/415570">
+                                <span class="code">415570</span> Limpieza de inmuebles</a>
+                        </li>
+                                            <li>
+                            <a href="/415575">
+                                <span class="code">415575</span> Fotografía</a>
+                        </li>
+                                            <li>
+                            <a href="/415580">
+                                <span class="code">415580</span> Envase y empaque</a>
+                        </li>
+                                            <li>
+                            <a href="/415585">
+                                <span class="code">415585</span> Fotocopiado</a>
+                        </li>
+                                            <li>
+                            <a href="/415590">
+                                <span class="code">415590</span> Mantenimiento y reparación de maquinaria y equipo</a>
+                        </li>
+                                            <li>
+                            <a href="/415595">
+                                <span class="code">415595</span> Actividades conexas</a>
+                        </li>
+                                            <li>
+                            <a href="/415599">
+                                <span class="code">415599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/4160">
+                                <span class="code">4160</span> Enseñanza</a>
+                        </li>
+                                            <li>
+                            <a href="/416005">
+                                <span class="code">416005</span> Actividades relacionadas con la educación</a>
+                        </li>
+                                            <li>
+                            <a href="/416095">
+                                <span class="code">416095</span> Actividades conexas</a>
+                        </li>
+                                            <li>
+                            <a href="/416099">
+                                <span class="code">416099</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/4165">
+                                <span class="code">4165</span> Servicios sociales y de salud</a>
+                        </li>
+                                            <li>
+                            <a href="/416505">
+                                <span class="code">416505</span> Servicio hospitalario</a>
+                        </li>
+                                            <li>
+                            <a href="/416510">
+                                <span class="code">416510</span> Servicio médico</a>
+                        </li>
+                                            <li>
+                            <a href="/416515">
+                                <span class="code">416515</span> Servicio odontológico</a>
+                        </li>
+                                            <li>
+                            <a href="/416520">
+                                <span class="code">416520</span> Servicio de laboratorio</a>
+                        </li>
+                                            <li>
+                            <a href="/416525">
+                                <span class="code">416525</span> Actividades veterinarias</a>
+                        </li>
+                                            <li>
+                            <a href="/416530">
+                                <span class="code">416530</span> Actividades de servicios sociales</a>
+                        </li>
+                                            <li>
+                            <a href="/416595">
+                                <span class="code">416595</span> Actividades conexas</a>
+                        </li>
+                                            <li>
+                            <a href="/416599">
+                                <span class="code">416599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/4170">
+                                <span class="code">4170</span> Otras actividades de servicios comunitarios, sociales y personales</a>
+                        </li>
+                                            <li>
+                            <a href="/417005">
+                                <span class="code">417005</span> Eliminación de desperdicios y aguas residuales</a>
+                        </li>
+                                            <li>
+                            <a href="/417010">
+                                <span class="code">417010</span> Actividades de asociación</a>
+                        </li>
+                                            <li>
+                            <a href="/417015">
+                                <span class="code">417015</span> Producción y distribución de filmes y videocintas</a>
+                        </li>
+                                            <li>
+                            <a href="/417020">
+                                <span class="code">417020</span> Exhibición de filmes y videocintas</a>
+                        </li>
+                                            <li>
+                            <a href="/417025">
+                                <span class="code">417025</span> Actividad de radio y televisión</a>
+                        </li>
+                                            <li>
+                            <a href="/417030">
+                                <span class="code">417030</span> Actividad teatral, musical y artística</a>
+                        </li>
+                                            <li>
+                            <a href="/417035">
+                                <span class="code">417035</span> Grabación y producción de discos</a>
+                        </li>
+                                            <li>
+                            <a href="/417040">
+                                <span class="code">417040</span> Entretenimiento y esparcimiento</a>
+                        </li>
+                                            <li>
+                            <a href="/417045">
+                                <span class="code">417045</span> Agencias de noticias</a>
+                        </li>
+                                            <li>
+                            <a href="/417050">
+                                <span class="code">417050</span> Lavanderías y similares</a>
+                        </li>
+                                            <li>
+                            <a href="/417055">
+                                <span class="code">417055</span> Peluquerías y similares</a>
+                        </li>
+                                            <li>
+                            <a href="/417060">
+                                <span class="code">417060</span> Servicios funerarios</a>
+                        </li>
+                                            <li>
+                            <a href="/417065">
+                                <span class="code">417065</span> Zonas francas</a>
+                        </li>
+                                            <li>
+                            <a href="/417095">
+                                <span class="code">417095</span> Actividades conexas</a>
+                        </li>
+                                            <li>
+                            <a href="/417099">
+                                <span class="code">417099</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/4175">
+                                <span class="code">4175</span> Devoluciones  en ventas (DB)</a>
+                        </li>
+                                            <li>
+                            <a href="/417599">
+                                <span class="code">417599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/42">
+                                <span class="code">42</span> No operacionales</a>
+                        </li>
+                                            <li>
+                            <a href="/4205">
+                                <span class="code">4205</span> Otras ventas</a>
+                        </li>
+                                            <li>
+                            <a href="/420505">
+                                <span class="code">420505</span> Materia prima</a>
+                        </li>
+                                            <li>
+                            <a href="/420510">
+                                <span class="code">420510</span> Material de desecho</a>
+                        </li>
+                                            <li>
+                            <a href="/420515">
+                                <span class="code">420515</span> Materiales varios</a>
+                        </li>
+                                            <li>
+                            <a href="/420520">
+                                <span class="code">420520</span> Productos de diversificación</a>
+                        </li>
+                                            <li>
+                            <a href="/420525">
+                                <span class="code">420525</span> Excedentes de exportación</a>
+                        </li>
+                                            <li>
+                            <a href="/420530">
+                                <span class="code">420530</span> Envases y empaques</a>
+                        </li>
+                                            <li>
+                            <a href="/420535">
+                                <span class="code">420535</span> Productos agrícolas</a>
+                        </li>
+                                            <li>
+                            <a href="/420540">
+                                <span class="code">420540</span> De propaganda</a>
+                        </li>
+                                            <li>
+                            <a href="/420545">
+                                <span class="code">420545</span> Productos en remate</a>
+                        </li>
+                                            <li>
+                            <a href="/420550">
+                                <span class="code">420550</span> Combustibles y lubricantes</a>
+                        </li>
+                                            <li>
+                            <a href="/420599">
+                                <span class="code">420599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/4210">
+                                <span class="code">4210</span> Financieros</a>
+                        </li>
+                                            <li>
+                            <a href="/421005">
+                                <span class="code">421005</span> Intereses</a>
+                        </li>
+                                            <li>
+                            <a href="/421010">
+                                <span class="code">421010</span> Reajuste monetario-UPAC (hoy UVR)</a>
+                        </li>
+                                            <li>
+                            <a href="/421015">
+                                <span class="code">421015</span> Descuentos amortizados</a>
+                        </li>
+                                            <li>
+                            <a href="/421020">
+                                <span class="code">421020</span> Diferencia en cambio</a>
+                        </li>
+                                            <li>
+                            <a href="/421025">
+                                <span class="code">421025</span> Financiación vehículos</a>
+                        </li>
+                                            <li>
+                            <a href="/421030">
+                                <span class="code">421030</span> Financiación sistemas de viajes</a>
+                        </li>
+                                            <li>
+                            <a href="/421035">
+                                <span class="code">421035</span> Aceptaciones bancarias</a>
+                        </li>
+                                            <li>
+                            <a href="/421040">
+                                <span class="code">421040</span> Descuentos comerciales condicionados</a>
+                        </li>
+                                            <li>
+                            <a href="/421045">
+                                <span class="code">421045</span> Descuentos bancarios</a>
+                        </li>
+                                            <li>
+                            <a href="/421050">
+                                <span class="code">421050</span> Comisiones cheques de otras plazas</a>
+                        </li>
+                                            <li>
+                            <a href="/421055">
+                                <span class="code">421055</span> Multas y recargos</a>
+                        </li>
+                                            <li>
+                            <a href="/421060">
+                                <span class="code">421060</span> Sanciones cheques devueltos</a>
+                        </li>
+                                            <li>
+                            <a href="/421095">
+                                <span class="code">421095</span> Otros</a>
+                        </li>
+                                            <li>
+                            <a href="/421099">
+                                <span class="code">421099</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/4215">
+                                <span class="code">4215</span> Dividendos y participaciones</a>
+                        </li>
+                                            <li>
+                            <a href="/421505">
+                                <span class="code">421505</span> De sociedades anónimas y/o asimiladas</a>
+                        </li>
+                                            <li>
+                            <a href="/421510">
+                                <span class="code">421510</span> De sociedades limitadas y/o asimiladas</a>
+                        </li>
+                                            <li>
+                            <a href="/421599">
+                                <span class="code">421599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/4218">
+                                <span class="code">4218</span> Ingresos método de participación</a>
+                        </li>
+                                            <li>
+                            <a href="/421805">
+                                <span class="code">421805</span> De sociedades anónimas y/o asimiladas</a>
+                        </li>
+                                            <li>
+                            <a href="/421810">
+                                <span class="code">421810</span> De sociedades limitadas y/o asimiladas</a>
+                        </li>
+                                            <li>
+                            <a href="/4220">
+                                <span class="code">4220</span> Arrendamientos</a>
+                        </li>
+                                            <li>
+                            <a href="/422005">
+                                <span class="code">422005</span> Terrenos</a>
+                        </li>
+                                            <li>
+                            <a href="/422010">
+                                <span class="code">422010</span> Construcciones y edificios</a>
+                        </li>
+                                            <li>
+                            <a href="/422015">
+                                <span class="code">422015</span> Maquinaria y equipo</a>
+                        </li>
+                                            <li>
+                            <a href="/422020">
+                                <span class="code">422020</span> Equipo de oficina</a>
+                        </li>
+                                            <li>
+                            <a href="/422025">
+                                <span class="code">422025</span> Equipo de computación y comunicación</a>
+                        </li>
+                                            <li>
+                            <a href="/422030">
+                                <span class="code">422030</span> Equipo médico-científico</a>
+                        </li>
+                                            <li>
+                            <a href="/422035">
+                                <span class="code">422035</span> Equipo de hoteles y restaurantes</a>
+                        </li>
+                                            <li>
+                            <a href="/422040">
+                                <span class="code">422040</span> Flota y equipo de transporte</a>
+                        </li>
+                                            <li>
+                            <a href="/422045">
+                                <span class="code">422045</span> Flota y equipo fluvial y/o marítimo</a>
+                        </li>
+                                            <li>
+                            <a href="/422050">
+                                <span class="code">422050</span> Flota y equipo aéreo</a>
+                        </li>
+                                            <li>
+                            <a href="/422055">
+                                <span class="code">422055</span> Flota y equipo férreo</a>
+                        </li>
+                                            <li>
+                            <a href="/422060">
+                                <span class="code">422060</span> Acueductos, plantas y redes</a>
+                        </li>
+                                            <li>
+                            <a href="/422062">
+                                <span class="code">422062</span> Envases y empaques</a>
+                        </li>
+                                            <li>
+                            <a href="/422065">
+                                <span class="code">422065</span> Plantaciones agrícolas y forestales</a>
+                        </li>
+                                            <li>
+                            <a href="/422070">
+                                <span class="code">422070</span> Aeródromos</a>
+                        </li>
+                                            <li>
+                            <a href="/422075">
+                                <span class="code">422075</span> Semovientes</a>
+                        </li>
+                                            <li>
+                            <a href="/422099">
+                                <span class="code">422099</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/4225">
+                                <span class="code">4225</span> Comisiones</a>
+                        </li>
+                                            <li>
+                            <a href="/422505">
+                                <span class="code">422505</span> Sobre inversiones</a>
+                        </li>
+                                            <li>
+                            <a href="/422510">
+                                <span class="code">422510</span> De concesionarios</a>
+                        </li>
+                                            <li>
+                            <a href="/422515">
+                                <span class="code">422515</span> De actividades financieras</a>
+                        </li>
+                                            <li>
+                            <a href="/422520">
+                                <span class="code">422520</span> Por venta de servicios de taller</a>
+                        </li>
+                                            <li>
+                            <a href="/422525">
+                                <span class="code">422525</span> Por venta de seguros</a>
+                        </li>
+                                            <li>
+                            <a href="/422530">
+                                <span class="code">422530</span> Por ingresos para terceros</a>
+                        </li>
+                                            <li>
+                            <a href="/422535">
+                                <span class="code">422535</span> Por distribución de películas</a>
+                        </li>
+                                            <li>
+                            <a href="/422540">
+                                <span class="code">422540</span> Derechos de autor</a>
+                        </li>
+                                            <li>
+                            <a href="/422545">
+                                <span class="code">422545</span> Derechos de programación</a>
+                        </li>
+                                            <li>
+                            <a href="/422599">
+                                <span class="code">422599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/4230">
+                                <span class="code">4230</span> Honorarios</a>
+                        </li>
+                                            <li>
+                            <a href="/423005">
+                                <span class="code">423005</span> Asesorías</a>
+                        </li>
+                                            <li>
+                            <a href="/423010">
+                                <span class="code">423010</span> Asistencia técnica</a>
+                        </li>
+                                            <li>
+                            <a href="/423015">
+                                <span class="code">423015</span> Administración de vinculadas</a>
+                        </li>
+                                            <li>
+                            <a href="/423099">
+                                <span class="code">423099</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/4235">
+                                <span class="code">4235</span> Servicios</a>
+                        </li>
+                                            <li>
+                            <a href="/423505">
+                                <span class="code">423505</span> De báscula</a>
+                        </li>
+                                            <li>
+                            <a href="/423510">
+                                <span class="code">423510</span> De transporte</a>
+                        </li>
+                                            <li>
+                            <a href="/423515">
+                                <span class="code">423515</span> De prensa</a>
+                        </li>
+                                            <li>
+                            <a href="/423520">
+                                <span class="code">423520</span> Administrativos</a>
+                        </li>
+                                            <li>
+                            <a href="/423525">
+                                <span class="code">423525</span> Técnicos</a>
+                        </li>
+                                            <li>
+                            <a href="/423530">
+                                <span class="code">423530</span> De computación</a>
+                        </li>
+                                            <li>
+                            <a href="/423535">
+                                <span class="code">423535</span> De telefax</a>
+                        </li>
+                                            <li>
+                            <a href="/423540">
+                                <span class="code">423540</span> Taller de vehículos</a>
+                        </li>
+                                            <li>
+                            <a href="/423545">
+                                <span class="code">423545</span> De recepción de aeronaves</a>
+                        </li>
+                                            <li>
+                            <a href="/423550">
+                                <span class="code">423550</span> De transporte programa gas natural</a>
+                        </li>
+                                            <li>
+                            <a href="/423555">
+                                <span class="code">423555</span> Por contratos</a>
+                        </li>
+                                            <li>
+                            <a href="/423560">
+                                <span class="code">423560</span> De trilla</a>
+                        </li>
+                                            <li>
+                            <a href="/423565">
+                                <span class="code">423565</span> De mantenimiento</a>
+                        </li>
+                                            <li>
+                            <a href="/423570">
+                                <span class="code">423570</span> Al personal</a>
+                        </li>
+                                            <li>
+                            <a href="/423575">
+                                <span class="code">423575</span> De casino</a>
+                        </li>
+                                            <li>
+                            <a href="/423580">
+                                <span class="code">423580</span> Fletes</a>
+                        </li>
+                                            <li>
+                            <a href="/423585">
+                                <span class="code">423585</span> Entre compañías</a>
+                        </li>
+                                            <li>
+                            <a href="/423595">
+                                <span class="code">423595</span> Otros</a>
+                        </li>
+                                            <li>
+                            <a href="/423599">
+                                <span class="code">423599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/4240">
+                                <span class="code">4240</span> Utilidad en venta de inversiones</a>
+                        </li>
+                                            <li>
+                            <a href="/424005">
+                                <span class="code">424005</span> Acciones</a>
+                        </li>
+                                            <li>
+                            <a href="/424010">
+                                <span class="code">424010</span> Cuotas o partes de interés social</a>
+                        </li>
+                                            <li>
+                            <a href="/424015">
+                                <span class="code">424015</span> Bonos</a>
+                        </li>
+                                            <li>
+                            <a href="/424020">
+                                <span class="code">424020</span> Cédulas</a>
+                        </li>
+                                            <li>
+                            <a href="/424025">
+                                <span class="code">424025</span> Certificados</a>
+                        </li>
+                                            <li>
+                            <a href="/424030">
+                                <span class="code">424030</span> Papeles comerciales</a>
+                        </li>
+                                            <li>
+                            <a href="/424035">
+                                <span class="code">424035</span> Títulos</a>
+                        </li>
+                                            <li>
+                            <a href="/424045">
+                                <span class="code">424045</span> Derechos fiduciarios</a>
+                        </li>
+                                            <li>
+                            <a href="/424050">
+                                <span class="code">424050</span> Obligatorias</a>
+                        </li>
+                                            <li>
+                            <a href="/424095">
+                                <span class="code">424095</span> Otras</a>
+                        </li>
+                                            <li>
+                            <a href="/424099">
+                                <span class="code">424099</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/4245">
+                                <span class="code">4245</span> Utilidad en venta de propiedades, planta y equipo</a>
+                        </li>
+                                            <li>
+                            <a href="/424504">
+                                <span class="code">424504</span> Terrenos</a>
+                        </li>
+                                            <li>
+                            <a href="/424506">
+                                <span class="code">424506</span> Materiales industria petrolera</a>
+                        </li>
+                                            <li>
+                            <a href="/424508">
+                                <span class="code">424508</span> Construcciones en curso</a>
+                        </li>
+                                            <li>
+                            <a href="/424512">
+                                <span class="code">424512</span> Maquinaria en montaje</a>
+                        </li>
+                                            <li>
+                            <a href="/424516">
+                                <span class="code">424516</span> Construcciones y edificaciones</a>
+                        </li>
+                                            <li>
+                            <a href="/424520">
+                                <span class="code">424520</span> Maquinaria y equipo</a>
+                        </li>
+                                            <li>
+                            <a href="/424524">
+                                <span class="code">424524</span> Equipo de oficina</a>
+                        </li>
+                                            <li>
+                            <a href="/424528">
+                                <span class="code">424528</span> Equipo de computación y comunicación</a>
+                        </li>
+                                            <li>
+                            <a href="/424532">
+                                <span class="code">424532</span> Equipo médico-científico</a>
+                        </li>
+                                            <li>
+                            <a href="/424536">
+                                <span class="code">424536</span> Equipo de hoteles y restaurantes</a>
+                        </li>
+                                            <li>
+                            <a href="/424540">
+                                <span class="code">424540</span> Flota y equipo de transporte</a>
+                        </li>
+                                            <li>
+                            <a href="/424544">
+                                <span class="code">424544</span> Flota y equipo fluvial y/o marítimo</a>
+                        </li>
+                                            <li>
+                            <a href="/424548">
+                                <span class="code">424548</span> Flota y equipo aéreo</a>
+                        </li>
+                                            <li>
+                            <a href="/424552">
+                                <span class="code">424552</span> Flota y equipo férreo</a>
+                        </li>
+                                            <li>
+                            <a href="/424556">
+                                <span class="code">424556</span> Acueductos, plantas y redes</a>
+                        </li>
+                                            <li>
+                            <a href="/424560">
+                                <span class="code">424560</span> Armamento de vigilancia</a>
+                        </li>
+                                            <li>
+                            <a href="/424562">
+                                <span class="code">424562</span> Envases y empaques</a>
+                        </li>
+                                            <li>
+                            <a href="/424564">
+                                <span class="code">424564</span> Plantaciones agrícolas y forestales</a>
+                        </li>
+                                            <li>
+                            <a href="/424568">
+                                <span class="code">424568</span> Vías de comunicación</a>
+                        </li>
+                                            <li>
+                            <a href="/424572">
+                                <span class="code">424572</span> Minas y Canteras</a>
+                        </li>
+                                            <li>
+                            <a href="/424580">
+                                <span class="code">424580</span> Pozos artesianos</a>
+                        </li>
+                                            <li>
+                            <a href="/424584">
+                                <span class="code">424584</span> Yacimientos</a>
+                        </li>
+                                            <li>
+                            <a href="/424588">
+                                <span class="code">424588</span> Semovientes</a>
+                        </li>
+                                            <li>
+                            <a href="/424599">
+                                <span class="code">424599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/4248">
+                                <span class="code">4248</span> Utilidad en venta de otros bienes</a>
+                        </li>
+                                            <li>
+                            <a href="/424805">
+                                <span class="code">424805</span> Intangibles</a>
+                        </li>
+                                            <li>
+                            <a href="/424810">
+                                <span class="code">424810</span> Otros activos</a>
+                        </li>
+                                            <li>
+                            <a href="/424899">
+                                <span class="code">424899</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/4250">
+                                <span class="code">4250</span> Recuperaciones</a>
+                        </li>
+                                            <li>
+                            <a href="/425005">
+                                <span class="code">425005</span> Deudas malas</a>
+                        </li>
+                                            <li>
+                            <a href="/425010">
+                                <span class="code">425010</span> Seguros</a>
+                        </li>
+                                            <li>
+                            <a href="/425015">
+                                <span class="code">425015</span> Reclamos</a>
+                        </li>
+                                            <li>
+                            <a href="/425020">
+                                <span class="code">425020</span> Reintegro por personal en comisión</a>
+                        </li>
+                                            <li>
+                            <a href="/425025">
+                                <span class="code">425025</span> Reintegro garantías</a>
+                        </li>
+                                            <li>
+                            <a href="/425030">
+                                <span class="code">425030</span> Descuentos concedidos</a>
+                        </li>
+                                            <li>
+                            <a href="/425035">
+                                <span class="code">425035</span> De  provisiones</a>
+                        </li>
+                                            <li>
+                            <a href="/425040">
+                                <span class="code">425040</span> Gastos bancarios</a>
+                        </li>
+                                            <li>
+                            <a href="/425045">
+                                <span class="code">425045</span> De depreciación</a>
+                        </li>
+                                            <li>
+                            <a href="/425050">
+                                <span class="code">425050</span> Reintegro de otros costos y gastos</a>
+                        </li>
+                                            <li>
+                            <a href="/425099">
+                                <span class="code">425099</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/4255">
+                                <span class="code">4255</span> Indemnizaciones</a>
+                        </li>
+                                            <li>
+                            <a href="/425505">
+                                <span class="code">425505</span> Por siniestro</a>
+                        </li>
+                                            <li>
+                            <a href="/425510">
+                                <span class="code">425510</span> Por suministros</a>
+                        </li>
+                                            <li>
+                            <a href="/425515">
+                                <span class="code">425515</span> Lucro cesante compañías de seguros</a>
+                        </li>
+                                            <li>
+                            <a href="/425520">
+                                <span class="code">425520</span> Daño emergente compañías de seguros</a>
+                        </li>
+                                            <li>
+                            <a href="/425525">
+                                <span class="code">425525</span> Por pérdida de mercancía</a>
+                        </li>
+                                            <li>
+                            <a href="/425530">
+                                <span class="code">425530</span> Por incumplimiento de contratos</a>
+                        </li>
+                                            <li>
+                            <a href="/425535">
+                                <span class="code">425535</span> De terceros</a>
+                        </li>
+                                            <li>
+                            <a href="/425540">
+                                <span class="code">425540</span> Por incapacidades ISS</a>
+                        </li>
+                                            <li>
+                            <a href="/425595">
+                                <span class="code">425595</span> Otras</a>
+                        </li>
+                                            <li>
+                            <a href="/425599">
+                                <span class="code">425599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/4260">
+                                <span class="code">4260</span> Participaciones en concesiones</a>
+                        </li>
+                                            <li>
+                            <a href="/426099">
+                                <span class="code">426099</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/4265">
+                                <span class="code">4265</span> Ingresos de ejercicios anteriores</a>
+                        </li>
+                                            <li>
+                            <a href="/426599">
+                                <span class="code">426599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/4275">
+                                <span class="code">4275</span> Devoluciones en otras ventas (DB)</a>
+                        </li>
+                                            <li>
+                            <a href="/427599">
+                                <span class="code">427599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/4295">
+                                <span class="code">4295</span> Diversos</a>
+                        </li>
+                                            <li>
+                            <a href="/429503">
+                                <span class="code">429503</span> CERT</a>
+                        </li>
+                                            <li>
+                            <a href="/429505">
+                                <span class="code">429505</span> Aprovechamientos</a>
+                        </li>
+                                            <li>
+                            <a href="/429507">
+                                <span class="code">429507</span> Auxilios</a>
+                        </li>
+                                            <li>
+                            <a href="/429509">
+                                <span class="code">429509</span> Subvenciones</a>
+                        </li>
+                                            <li>
+                            <a href="/429511">
+                                <span class="code">429511</span> Ingresos por investigación y desarrollo</a>
+                        </li>
+                                            <li>
+                            <a href="/429513">
+                                <span class="code">429513</span> Por trabajos ejecutados</a>
+                        </li>
+                                            <li>
+                            <a href="/429515">
+                                <span class="code">429515</span> Regalías</a>
+                        </li>
+                                            <li>
+                            <a href="/429517">
+                                <span class="code">429517</span> Derivados de las exportaciones</a>
+                        </li>
+                                            <li>
+                            <a href="/429519">
+                                <span class="code">429519</span> Otros ingresos de explotación</a>
+                        </li>
+                                            <li>
+                            <a href="/429521">
+                                <span class="code">429521</span> De la actividad ganadera</a>
+                        </li>
+                                            <li>
+                            <a href="/429525">
+                                <span class="code">429525</span> Derechos y licitaciones</a>
+                        </li>
+                                            <li>
+                            <a href="/429530">
+                                <span class="code">429530</span> Ingresos por elementos perdidos</a>
+                        </li>
+                                            <li>
+                            <a href="/429533">
+                                <span class="code">429533</span> Multas y recargos</a>
+                        </li>
+                                            <li>
+                            <a href="/429535">
+                                <span class="code">429535</span> Preavisos descontados</a>
+                        </li>
+                                            <li>
+                            <a href="/429537">
+                                <span class="code">429537</span> Reclamos</a>
+                        </li>
+                                            <li>
+                            <a href="/429540">
+                                <span class="code">429540</span> Recobro de daños</a>
+                        </li>
+                                            <li>
+                            <a href="/429543">
+                                <span class="code">429543</span> Premios</a>
+                        </li>
+                                            <li>
+                            <a href="/429545">
+                                <span class="code">429545</span> Bonificaciones</a>
+                        </li>
+                                            <li>
+                            <a href="/429547">
+                                <span class="code">429547</span> Productos descontados</a>
+                        </li>
+                                            <li>
+                            <a href="/429549">
+                                <span class="code">429549</span> Reconocimientos ISS</a>
+                        </li>
+                                            <li>
+                            <a href="/429551">
+                                <span class="code">429551</span> Excedentes</a>
+                        </li>
+                                            <li>
+                            <a href="/429553">
+                                <span class="code">429553</span> Sobrantes de caja</a>
+                        </li>
+                                            <li>
+                            <a href="/429555">
+                                <span class="code">429555</span> Sobrantes en liquidación fletes</a>
+                        </li>
+                                            <li>
+                            <a href="/429557">
+                                <span class="code">429557</span> Subsidios estatales</a>
+                        </li>
+                                            <li>
+                            <a href="/429559">
+                                <span class="code">429559</span> Capacitación distribuidores</a>
+                        </li>
+                                            <li>
+                            <a href="/429561">
+                                <span class="code">429561</span> De escrituración</a>
+                        </li>
+                                            <li>
+                            <a href="/429563">
+                                <span class="code">429563</span> Registro promesas de venta</a>
+                        </li>
+                                            <li>
+                            <a href="/429567">
+                                <span class="code">429567</span> Útiles, papelería y fotocopias</a>
+                        </li>
+                                            <li>
+                            <a href="/429571">
+                                <span class="code">429571</span> Resultados, matrículas y traspasos</a>
+                        </li>
+                                            <li>
+                            <a href="/429573">
+                                <span class="code">429573</span> Decoraciones</a>
+                        </li>
+                                            <li>
+                            <a href="/429575">
+                                <span class="code">429575</span> Manejo de carga</a>
+                        </li>
+                                            <li>
+                            <a href="/429579">
+                                <span class="code">429579</span> Historia clínica</a>
+                        </li>
+                                            <li>
+                            <a href="/429581">
+                                <span class="code">429581</span> Ajuste al peso</a>
+                        </li>
+                                            <li>
+                            <a href="/429583">
+                                <span class="code">429583</span> Llamadas telefónicas</a>
+                        </li>
+                                            <li>
+                            <a href="/429595">
+                                <span class="code">429595</span> Otros</a>
+                        </li>
+                                            <li>
+                            <a href="/429599">
+                                <span class="code">429599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/47">
+                                <span class="code">47</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/4705">
+                                <span class="code">4705</span> Corrección monetaria</a>
+                        </li>
+                                            <li>
+                            <a href="/470505">
+                                <span class="code">470505</span> Inversiones (CR)</a>
+                        </li>
+                                            <li>
+                            <a href="/470510">
+                                <span class="code">470510</span> Inventarios (CR)</a>
+                        </li>
+                                            <li>
+                            <a href="/470515">
+                                <span class="code">470515</span> Propiedades, planta y equipo (CR)</a>
+                        </li>
+                                            <li>
+                            <a href="/470520">
+                                <span class="code">470520</span> Intangibles (CR)</a>
+                        </li>
+                                            <li>
+                            <a href="/470525">
+                                <span class="code">470525</span> Activos diferidos</a>
+                        </li>
+                                            <li>
+                            <a href="/470530">
+                                <span class="code">470530</span> Otros activos (CR)</a>
+                        </li>
+                                            <li>
+                            <a href="/470535">
+                                <span class="code">470535</span> Pasivos sujetos de ajuste</a>
+                        </li>
+                                            <li>
+                            <a href="/470540">
+                                <span class="code">470540</span> Patrimonio</a>
+                        </li>
+                                            <li>
+                            <a href="/470545">
+                                <span class="code">470545</span> Depreciación acumulada (DB)</a>
+                        </li>
+                                            <li>
+                            <a href="/470550">
+                                <span class="code">470550</span> Depreciación diferida (CR)</a>
+                        </li>
+                                            <li>
+                            <a href="/470555">
+                                <span class="code">470555</span> Agotamiento acumulado (DB)</a>
+                        </li>
+                                            <li>
+                            <a href="/470560">
+                                <span class="code">470560</span> Amortización acumulada (DB)</a>
+                        </li>
+                                            <li>
+                            <a href="/470565">
+                                <span class="code">470565</span> Ingresos operacionales  (DB)</a>
+                        </li>
+                                            <li>
+                            <a href="/470568">
+                                <span class="code">470568</span> Devoluciones en ventas (CR)</a>
+                        </li>
+                                            <li>
+                            <a href="/470570">
+                                <span class="code">470570</span> Ingresos no operacionales (DB)</a>
+                        </li>
+                                            <li>
+                            <a href="/470575">
+                                <span class="code">470575</span> Gastos operacionales de administración (CR)</a>
+                        </li>
+                                            <li>
+                            <a href="/470580">
+                                <span class="code">470580</span> Gastos operacionales de ventas (CR)</a>
+                        </li>
+                                            <li>
+                            <a href="/470585">
+                                <span class="code">470585</span> Gastos no operacionales (CR)</a>
+                        </li>
+                                            <li>
+                            <a href="/470590">
+                                <span class="code">470590</span> Compras (CR)</a>
+                        </li>
+                                            <li>
+                            <a href="/470591">
+                                <span class="code">470591</span> Devoluciones en compras (DB)</a>
+                        </li>
+                                            <li>
+                            <a href="/470592">
+                                <span class="code">470592</span> Costo de ventas (CR)</a>
+                        </li>
+                                            <li>
+                            <a href="/470594">
+                                <span class="code">470594</span> Costos de producción o de operación (CR)</a>
+                        </li>
+                                        </ul>
