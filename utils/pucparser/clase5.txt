@@ -1,0 +1,1830 @@
+<ul class="account-list">
+                                            <li>
+                            <a href="/5">
+                                <span class="code">5</span> Gastos</a>
+                        </li>
+                                            <li>
+                            <a href="/51">
+                                <span class="code">51</span> Operacionales de administración</a>
+                        </li>
+                                            <li>
+                            <a href="/5105">
+                                <span class="code">5105</span> Gastos de personal</a>
+                        </li>
+                                            <li>
+                            <a href="/510503">
+                                <span class="code">510503</span> Salario integral</a>
+                        </li>
+                                            <li>
+                            <a href="/510506">
+                                <span class="code">510506</span> Sueldos</a>
+                        </li>
+                                            <li>
+                            <a href="/510512">
+                                <span class="code">510512</span> Jornales</a>
+                        </li>
+                                            <li>
+                            <a href="/510515">
+                                <span class="code">510515</span> Horas extras y recargos</a>
+                        </li>
+                                            <li>
+                            <a href="/510518">
+                                <span class="code">510518</span> Comisiones</a>
+                        </li>
+                                            <li>
+                            <a href="/510521">
+                                <span class="code">510521</span> Viáticos</a>
+                        </li>
+                                            <li>
+                            <a href="/510524">
+                                <span class="code">510524</span> Incapacidades</a>
+                        </li>
+                                            <li>
+                            <a href="/510527">
+                                <span class="code">510527</span> Auxilio de transporte</a>
+                        </li>
+                                            <li>
+                            <a href="/510530">
+                                <span class="code">510530</span> Cesantías</a>
+                        </li>
+                                            <li>
+                            <a href="/510533">
+                                <span class="code">510533</span> Intereses sobre cesantías</a>
+                        </li>
+                                            <li>
+                            <a href="/510536">
+                                <span class="code">510536</span> Prima de servicios</a>
+                        </li>
+                                            <li>
+                            <a href="/510539">
+                                <span class="code">510539</span> Vacaciones</a>
+                        </li>
+                                            <li>
+                            <a href="/510542">
+                                <span class="code">510542</span> Primas extralegales</a>
+                        </li>
+                                            <li>
+                            <a href="/510545">
+                                <span class="code">510545</span> Auxilios</a>
+                        </li>
+                                            <li>
+                            <a href="/510548">
+                                <span class="code">510548</span> Bonificaciones</a>
+                        </li>
+                                            <li>
+                            <a href="/510551">
+                                <span class="code">510551</span> Dotación y suministro a trabajadores</a>
+                        </li>
+                                            <li>
+                            <a href="/510554">
+                                <span class="code">510554</span> Seguros</a>
+                        </li>
+                                            <li>
+                            <a href="/510557">
+                                <span class="code">510557</span> Cuotas partes pensiones de jubilación</a>
+                        </li>
+                                            <li>
+                            <a href="/510558">
+                                <span class="code">510558</span> Amortización cálculo actuarial pensiones de jubilación</a>
+                        </li>
+                                            <li>
+                            <a href="/510559">
+                                <span class="code">510559</span> Pensiones de jubilación</a>
+                        </li>
+                                            <li>
+                            <a href="/510560">
+                                <span class="code">510560</span> Indemnizaciones laborales</a>
+                        </li>
+                                            <li>
+                            <a href="/510561">
+                                <span class="code">510561</span> Amortización bonos pensionales</a>
+                        </li>
+                                            <li>
+                            <a href="/510562">
+                                <span class="code">510562</span> Amortización títulos pensionales</a>
+                        </li>
+                                            <li>
+                            <a href="/510563">
+                                <span class="code">510563</span> Capacitación al personal</a>
+                        </li>
+                                            <li>
+                            <a href="/510566">
+                                <span class="code">510566</span> Gastos deportivos y de recreación</a>
+                        </li>
+                                            <li>
+                            <a href="/510568">
+                                <span class="code">510568</span> Aportes a administradoras de riesgos profesionales, ARP</a>
+                        </li>
+                                            <li>
+                            <a href="/510569">
+                                <span class="code">510569</span> Aportes a entidades promotoras de salud, EPS</a>
+                        </li>
+                                            <li>
+                            <a href="/510570">
+                                <span class="code">510570</span> Aportes a fondos de pensiones y/o cesantías</a>
+                        </li>
+                                            <li>
+                            <a href="/510572">
+                                <span class="code">510572</span> Aportes cajas de compensación familiar</a>
+                        </li>
+                                            <li>
+                            <a href="/510575">
+                                <span class="code">510575</span> Aportes ICBF</a>
+                        </li>
+                                            <li>
+                            <a href="/510578">
+                                <span class="code">510578</span> SENA</a>
+                        </li>
+                                            <li>
+                            <a href="/510581">
+                                <span class="code">510581</span> Aportes sindicales</a>
+                        </li>
+                                            <li>
+                            <a href="/510584">
+                                <span class="code">510584</span> Gastos médicos y drogas</a>
+                        </li>
+                                            <li>
+                            <a href="/510595">
+                                <span class="code">510595</span> Otros</a>
+                        </li>
+                                            <li>
+                            <a href="/510599">
+                                <span class="code">510599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/5110">
+                                <span class="code">5110</span> Honorarios</a>
+                        </li>
+                                            <li>
+                            <a href="/511005">
+                                <span class="code">511005</span> Junta directiva</a>
+                        </li>
+                                            <li>
+                            <a href="/511010">
+                                <span class="code">511010</span> Revisoría fiscal</a>
+                        </li>
+                                            <li>
+                            <a href="/511015">
+                                <span class="code">511015</span> Auditoría externa</a>
+                        </li>
+                                            <li>
+                            <a href="/511020">
+                                <span class="code">511020</span> Avalúos</a>
+                        </li>
+                                            <li>
+                            <a href="/511025">
+                                <span class="code">511025</span> Asesoría jurídica</a>
+                        </li>
+                                            <li>
+                            <a href="/511030">
+                                <span class="code">511030</span> Asesoría financiera</a>
+                        </li>
+                                            <li>
+                            <a href="/511035">
+                                <span class="code">511035</span> Asesoría técnica</a>
+                        </li>
+                                            <li>
+                            <a href="/511095">
+                                <span class="code">511095</span> Otros</a>
+                        </li>
+                                            <li>
+                            <a href="/511099">
+                                <span class="code">511099</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/5115">
+                                <span class="code">5115</span> Impuestos</a>
+                        </li>
+                                            <li>
+                            <a href="/511505">
+                                <span class="code">511505</span> Industria y comercio</a>
+                        </li>
+                                            <li>
+                            <a href="/511510">
+                                <span class="code">511510</span> De timbres</a>
+                        </li>
+                                            <li>
+                            <a href="/511515">
+                                <span class="code">511515</span> A la propiedad raíz</a>
+                        </li>
+                                            <li>
+                            <a href="/511520">
+                                <span class="code">511520</span> Derechos sobre instrumentos públicos</a>
+                        </li>
+                                            <li>
+                            <a href="/511525">
+                                <span class="code">511525</span> De valorización</a>
+                        </li>
+                                            <li>
+                            <a href="/511530">
+                                <span class="code">511530</span> De turismo</a>
+                        </li>
+                                            <li>
+                            <a href="/511535">
+                                <span class="code">511535</span> Tasa por utilización de puertos</a>
+                        </li>
+                                            <li>
+                            <a href="/511540">
+                                <span class="code">511540</span> De vehículos</a>
+                        </li>
+                                            <li>
+                            <a href="/511545">
+                                <span class="code">511545</span> De espectáculos públicos</a>
+                        </li>
+                                            <li>
+                            <a href="/511550">
+                                <span class="code">511550</span> Cuotas de fomento</a>
+                        </li>
+                                            <li>
+                            <a href="/511570">
+                                <span class="code">511570</span> IVA descontable</a>
+                        </li>
+                                            <li>
+                            <a href="/511595">
+                                <span class="code">511595</span> Otros</a>
+                        </li>
+                                            <li>
+                            <a href="/511599">
+                                <span class="code">511599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/5120">
+                                <span class="code">5120</span> Arrendamientos</a>
+                        </li>
+                                            <li>
+                            <a href="/512005">
+                                <span class="code">512005</span> Terrenos</a>
+                        </li>
+                                            <li>
+                            <a href="/512010">
+                                <span class="code">512010</span> Construcciones y edificaciones</a>
+                        </li>
+                                            <li>
+                            <a href="/512015">
+                                <span class="code">512015</span> Maquinaria y equipo</a>
+                        </li>
+                                            <li>
+                            <a href="/512020">
+                                <span class="code">512020</span> Equipo de oficina</a>
+                        </li>
+                                            <li>
+                            <a href="/512025">
+                                <span class="code">512025</span> Equipo de computación y comunicación</a>
+                        </li>
+                                            <li>
+                            <a href="/512030">
+                                <span class="code">512030</span> Equipo médico-científico</a>
+                        </li>
+                                            <li>
+                            <a href="/512035">
+                                <span class="code">512035</span> Equipo de hoteles y restaurantes</a>
+                        </li>
+                                            <li>
+                            <a href="/512040">
+                                <span class="code">512040</span> Flota y equipo de transporte</a>
+                        </li>
+                                            <li>
+                            <a href="/512045">
+                                <span class="code">512045</span> Flota y equipo fluvial y/o marítimo</a>
+                        </li>
+                                            <li>
+                            <a href="/512050">
+                                <span class="code">512050</span> Flota y equipo aéreo</a>
+                        </li>
+                                            <li>
+                            <a href="/512055">
+                                <span class="code">512055</span> Flota y equipo férreo</a>
+                        </li>
+                                            <li>
+                            <a href="/512060">
+                                <span class="code">512060</span> Acueductos, plantas y redes</a>
+                        </li>
+                                            <li>
+                            <a href="/512065">
+                                <span class="code">512065</span> Aeródromos</a>
+                        </li>
+                                            <li>
+                            <a href="/512070">
+                                <span class="code">512070</span> Semovientes</a>
+                        </li>
+                                            <li>
+                            <a href="/512095">
+                                <span class="code">512095</span> Otros</a>
+                        </li>
+                                            <li>
+                            <a href="/512099">
+                                <span class="code">512099</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/5125">
+                                <span class="code">5125</span> Contribuciones y afiliaciones</a>
+                        </li>
+                                            <li>
+                            <a href="/512505">
+                                <span class="code">512505</span> Contribuciones</a>
+                        </li>
+                                            <li>
+                            <a href="/512510">
+                                <span class="code">512510</span> Afiliaciones y sostenimiento</a>
+                        </li>
+                                            <li>
+                            <a href="/512599">
+                                <span class="code">512599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/5130">
+                                <span class="code">5130</span> Seguros</a>
+                        </li>
+                                            <li>
+                            <a href="/513005">
+                                <span class="code">513005</span> Manejo</a>
+                        </li>
+                                            <li>
+                            <a href="/513010">
+                                <span class="code">513010</span> Cumplimiento</a>
+                        </li>
+                                            <li>
+                            <a href="/513015">
+                                <span class="code">513015</span> Corriente débil</a>
+                        </li>
+                                            <li>
+                            <a href="/513020">
+                                <span class="code">513020</span> Vida colectiva</a>
+                        </li>
+                                            <li>
+                            <a href="/513025">
+                                <span class="code">513025</span> Incendio</a>
+                        </li>
+                                            <li>
+                            <a href="/513030">
+                                <span class="code">513030</span> Terremoto</a>
+                        </li>
+                                            <li>
+                            <a href="/513035">
+                                <span class="code">513035</span> Sustracción y hurto</a>
+                        </li>
+                                            <li>
+                            <a href="/513040">
+                                <span class="code">513040</span> Flota y equipo de transporte</a>
+                        </li>
+                                            <li>
+                            <a href="/513045">
+                                <span class="code">513045</span> Flota y equipo fluvial y/o marítimo</a>
+                        </li>
+                                            <li>
+                            <a href="/513050">
+                                <span class="code">513050</span> Flota y equipo aéreo</a>
+                        </li>
+                                            <li>
+                            <a href="/513055">
+                                <span class="code">513055</span> Flota y equipo férreo</a>
+                        </li>
+                                            <li>
+                            <a href="/513060">
+                                <span class="code">513060</span> Responsabilidad civil y extracontractual</a>
+                        </li>
+                                            <li>
+                            <a href="/513065">
+                                <span class="code">513065</span> Vuelo</a>
+                        </li>
+                                            <li>
+                            <a href="/513070">
+                                <span class="code">513070</span> Rotura de maquinaria</a>
+                        </li>
+                                            <li>
+                            <a href="/513075">
+                                <span class="code">513075</span> Obligatorio accidente de tránsito</a>
+                        </li>
+                                            <li>
+                            <a href="/513080">
+                                <span class="code">513080</span> Lucro cesante</a>
+                        </li>
+                                            <li>
+                            <a href="/513085">
+                                <span class="code">513085</span> Transporte de mercancía</a>
+                        </li>
+                                            <li>
+                            <a href="/513095">
+                                <span class="code">513095</span> Otros</a>
+                        </li>
+                                            <li>
+                            <a href="/513099">
+                                <span class="code">513099</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/5135">
+                                <span class="code">5135</span> Servicios</a>
+                        </li>
+                                            <li>
+                            <a href="/513505">
+                                <span class="code">513505</span> Aseo y vigilancia</a>
+                        </li>
+                                            <li>
+                            <a href="/513510">
+                                <span class="code">513510</span> Temporales</a>
+                        </li>
+                                            <li>
+                            <a href="/513515">
+                                <span class="code">513515</span> Asistencia técnica</a>
+                        </li>
+                                            <li>
+                            <a href="/513520">
+                                <span class="code">513520</span> Procesamiento electrónico de datos</a>
+                        </li>
+                                            <li>
+                            <a href="/513525">
+                                <span class="code">513525</span> Acueducto y alcantarillado</a>
+                        </li>
+                                            <li>
+                            <a href="/513530">
+                                <span class="code">513530</span> Energía eléctrica</a>
+                        </li>
+                                            <li>
+                            <a href="/513535">
+                                <span class="code">513535</span> Teléfono</a>
+                        </li>
+                                            <li>
+                            <a href="/513540">
+                                <span class="code">513540</span> Correo, portes y telegramas</a>
+                        </li>
+                                            <li>
+                            <a href="/513545">
+                                <span class="code">513545</span> Fax y télex</a>
+                        </li>
+                                            <li>
+                            <a href="/513550">
+                                <span class="code">513550</span> Transporte, fletes y acarreos</a>
+                        </li>
+                                            <li>
+                            <a href="/513555">
+                                <span class="code">513555</span> Gas</a>
+                        </li>
+                                            <li>
+                            <a href="/513595">
+                                <span class="code">513595</span> Otros</a>
+                        </li>
+                                            <li>
+                            <a href="/513599">
+                                <span class="code">513599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/5140">
+                                <span class="code">5140</span> Gastos legales</a>
+                        </li>
+                                            <li>
+                            <a href="/514005">
+                                <span class="code">514005</span> Notariales</a>
+                        </li>
+                                            <li>
+                            <a href="/514010">
+                                <span class="code">514010</span> Registro mercantil</a>
+                        </li>
+                                            <li>
+                            <a href="/514015">
+                                <span class="code">514015</span> Trámites y licencias</a>
+                        </li>
+                                            <li>
+                            <a href="/514020">
+                                <span class="code">514020</span> Aduaneros</a>
+                        </li>
+                                            <li>
+                            <a href="/514025">
+                                <span class="code">514025</span> Consulares</a>
+                        </li>
+                                            <li>
+                            <a href="/514095">
+                                <span class="code">514095</span> Otros</a>
+                        </li>
+                                            <li>
+                            <a href="/514099">
+                                <span class="code">514099</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/5145">
+                                <span class="code">5145</span> Mantenimiento y reparaciones</a>
+                        </li>
+                                            <li>
+                            <a href="/514505">
+                                <span class="code">514505</span> Terrenos</a>
+                        </li>
+                                            <li>
+                            <a href="/514510">
+                                <span class="code">514510</span> Construcciones y edificaciones</a>
+                        </li>
+                                            <li>
+                            <a href="/514515">
+                                <span class="code">514515</span> Maquinaria y equipo</a>
+                        </li>
+                                            <li>
+                            <a href="/514520">
+                                <span class="code">514520</span> Equipo de oficina</a>
+                        </li>
+                                            <li>
+                            <a href="/514525">
+                                <span class="code">514525</span> Equipo de computación y comunicación</a>
+                        </li>
+                                            <li>
+                            <a href="/514530">
+                                <span class="code">514530</span> Equipo médico-científico</a>
+                        </li>
+                                            <li>
+                            <a href="/514535">
+                                <span class="code">514535</span> Equipo de hoteles y restaurantes</a>
+                        </li>
+                                            <li>
+                            <a href="/514540">
+                                <span class="code">514540</span> Flota y equipo de transporte</a>
+                        </li>
+                                            <li>
+                            <a href="/514545">
+                                <span class="code">514545</span> Flota y equipo fluvial y/o marítimo</a>
+                        </li>
+                                            <li>
+                            <a href="/514550">
+                                <span class="code">514550</span> Flota y equipo aéreo</a>
+                        </li>
+                                            <li>
+                            <a href="/514555">
+                                <span class="code">514555</span> Flota y equipo férreo</a>
+                        </li>
+                                            <li>
+                            <a href="/514560">
+                                <span class="code">514560</span> Acueductos, plantas y redes</a>
+                        </li>
+                                            <li>
+                            <a href="/514565">
+                                <span class="code">514565</span> Armamento de vigilancia</a>
+                        </li>
+                                            <li>
+                            <a href="/514570">
+                                <span class="code">514570</span> Vías de comunicación</a>
+                        </li>
+                                            <li>
+                            <a href="/514599">
+                                <span class="code">514599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/5150">
+                                <span class="code">5150</span> Adecuación e instalación</a>
+                        </li>
+                                            <li>
+                            <a href="/515005">
+                                <span class="code">515005</span> Instalaciones eléctricas</a>
+                        </li>
+                                            <li>
+                            <a href="/515010">
+                                <span class="code">515010</span> Arreglos ornamentales</a>
+                        </li>
+                                            <li>
+                            <a href="/515015">
+                                <span class="code">515015</span> Reparaciones locativas</a>
+                        </li>
+                                            <li>
+                            <a href="/515095">
+                                <span class="code">515095</span> Otros</a>
+                        </li>
+                                            <li>
+                            <a href="/515099">
+                                <span class="code">515099</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/5155">
+                                <span class="code">5155</span> Gastos de viaje</a>
+                        </li>
+                                            <li>
+                            <a href="/515505">
+                                <span class="code">515505</span> Alojamiento y manutención</a>
+                        </li>
+                                            <li>
+                            <a href="/515510">
+                                <span class="code">515510</span> Pasajes fluviales y/o marítimos</a>
+                        </li>
+                                            <li>
+                            <a href="/515515">
+                                <span class="code">515515</span> Pasajes aéreos</a>
+                        </li>
+                                            <li>
+                            <a href="/515520">
+                                <span class="code">515520</span> Pasajes terrestres</a>
+                        </li>
+                                            <li>
+                            <a href="/515525">
+                                <span class="code">515525</span> Pasajes férreos</a>
+                        </li>
+                                            <li>
+                            <a href="/515595">
+                                <span class="code">515595</span> Otros</a>
+                        </li>
+                                            <li>
+                            <a href="/515599">
+                                <span class="code">515599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/5160">
+                                <span class="code">5160</span> Depreciaciones</a>
+                        </li>
+                                            <li>
+                            <a href="/516005">
+                                <span class="code">516005</span> Construcciones y edificaciones</a>
+                        </li>
+                                            <li>
+                            <a href="/516010">
+                                <span class="code">516010</span> Maquinaria y equipo</a>
+                        </li>
+                                            <li>
+                            <a href="/516015">
+                                <span class="code">516015</span> Equipo de oficina</a>
+                        </li>
+                                            <li>
+                            <a href="/516020">
+                                <span class="code">516020</span> Equipo de computación y comunicación</a>
+                        </li>
+                                            <li>
+                            <a href="/516025">
+                                <span class="code">516025</span> Equipo médico-científico</a>
+                        </li>
+                                            <li>
+                            <a href="/516030">
+                                <span class="code">516030</span> Equipo de hoteles y restaurantes</a>
+                        </li>
+                                            <li>
+                            <a href="/516035">
+                                <span class="code">516035</span> Flota y equipo de transporte</a>
+                        </li>
+                                            <li>
+                            <a href="/516040">
+                                <span class="code">516040</span> Flota y equipo fluvial y/o marítimo</a>
+                        </li>
+                                            <li>
+                            <a href="/516045">
+                                <span class="code">516045</span> Flota y equipo aéreo</a>
+                        </li>
+                                            <li>
+                            <a href="/516050">
+                                <span class="code">516050</span> Flota y equipo férreo</a>
+                        </li>
+                                            <li>
+                            <a href="/516055">
+                                <span class="code">516055</span> Acueductos, plantas y redes</a>
+                        </li>
+                                            <li>
+                            <a href="/516060">
+                                <span class="code">516060</span> Armamento de vigilancia</a>
+                        </li>
+                                            <li>
+                            <a href="/516099">
+                                <span class="code">516099</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/5165">
+                                <span class="code">5165</span> Amortizaciones</a>
+                        </li>
+                                            <li>
+                            <a href="/516505">
+                                <span class="code">516505</span> Vías de comunicación</a>
+                        </li>
+                                            <li>
+                            <a href="/516510">
+                                <span class="code">516510</span> Intangibles</a>
+                        </li>
+                                            <li>
+                            <a href="/516515">
+                                <span class="code">516515</span> Cargos diferidos</a>
+                        </li>
+                                            <li>
+                            <a href="/516595">
+                                <span class="code">516595</span> Otras</a>
+                        </li>
+                                            <li>
+                            <a href="/516599">
+                                <span class="code">516599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/5195">
+                                <span class="code">5195</span> Diversos</a>
+                        </li>
+                                            <li>
+                            <a href="/519505">
+                                <span class="code">519505</span> Comisiones</a>
+                        </li>
+                                            <li>
+                            <a href="/519510">
+                                <span class="code">519510</span> Libros, suscripciones, periódicos y revistas</a>
+                        </li>
+                                            <li>
+                            <a href="/519515">
+                                <span class="code">519515</span> Música ambiental</a>
+                        </li>
+                                            <li>
+                            <a href="/519520">
+                                <span class="code">519520</span> Gastos de representación y relaciones públicas</a>
+                        </li>
+                                            <li>
+                            <a href="/519525">
+                                <span class="code">519525</span> Elementos de aseo y cafetería</a>
+                        </li>
+                                            <li>
+                            <a href="/519530">
+                                <span class="code">519530</span> Útiles, papelería y fotocopias</a>
+                        </li>
+                                            <li>
+                            <a href="/519535">
+                                <span class="code">519535</span> Combustibles y lubricantes</a>
+                        </li>
+                                            <li>
+                            <a href="/519540">
+                                <span class="code">519540</span> Envases y empaques</a>
+                        </li>
+                                            <li>
+                            <a href="/519545">
+                                <span class="code">519545</span> Taxis y buses</a>
+                        </li>
+                                            <li>
+                            <a href="/519550">
+                                <span class="code">519550</span> Estampillas</a>
+                        </li>
+                                            <li>
+                            <a href="/519555">
+                                <span class="code">519555</span> Microfilmación</a>
+                        </li>
+                                            <li>
+                            <a href="/519560">
+                                <span class="code">519560</span> Casino y restaurante</a>
+                        </li>
+                                            <li>
+                            <a href="/519565">
+                                <span class="code">519565</span> Parqueaderos</a>
+                        </li>
+                                            <li>
+                            <a href="/519570">
+                                <span class="code">519570</span> Indemnización por daños a terceros</a>
+                        </li>
+                                            <li>
+                            <a href="/519575">
+                                <span class="code">519575</span> Pólvora y similares</a>
+                        </li>
+                                            <li>
+                            <a href="/519595">
+                                <span class="code">519595</span> Otros</a>
+                        </li>
+                                            <li>
+                            <a href="/519599">
+                                <span class="code">519599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/5199">
+                                <span class="code">5199</span> Provisiones</a>
+                        </li>
+                                            <li>
+                            <a href="/519905">
+                                <span class="code">519905</span> Inversiones</a>
+                        </li>
+                                            <li>
+                            <a href="/519910">
+                                <span class="code">519910</span> Deudores</a>
+                        </li>
+                                            <li>
+                            <a href="/519915">
+                                <span class="code">519915</span> Propiedades, planta y equipo</a>
+                        </li>
+                                            <li>
+                            <a href="/519995">
+                                <span class="code">519995</span> Otros activos</a>
+                        </li>
+                                            <li>
+                            <a href="/519999">
+                                <span class="code">519999</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/52">
+                                <span class="code">52</span> Operacionales de ventas</a>
+                        </li>
+                                            <li>
+                            <a href="/5205">
+                                <span class="code">5205</span> Gastos de personal</a>
+                        </li>
+                                            <li>
+                            <a href="/520503">
+                                <span class="code">520503</span> Salario integral</a>
+                        </li>
+                                            <li>
+                            <a href="/520506">
+                                <span class="code">520506</span> Sueldos</a>
+                        </li>
+                                            <li>
+                            <a href="/520512">
+                                <span class="code">520512</span> Jornales</a>
+                        </li>
+                                            <li>
+                            <a href="/520515">
+                                <span class="code">520515</span> Horas extras y recargos</a>
+                        </li>
+                                            <li>
+                            <a href="/520518">
+                                <span class="code">520518</span> Comisiones</a>
+                        </li>
+                                            <li>
+                            <a href="/520521">
+                                <span class="code">520521</span> Viáticos</a>
+                        </li>
+                                            <li>
+                            <a href="/520524">
+                                <span class="code">520524</span> Incapacidades</a>
+                        </li>
+                                            <li>
+                            <a href="/520527">
+                                <span class="code">520527</span> Auxilio de transporte</a>
+                        </li>
+                                            <li>
+                            <a href="/520530">
+                                <span class="code">520530</span> Cesantías</a>
+                        </li>
+                                            <li>
+                            <a href="/520533">
+                                <span class="code">520533</span> Intereses sobre cesantías</a>
+                        </li>
+                                            <li>
+                            <a href="/520536">
+                                <span class="code">520536</span> Prima de servicios</a>
+                        </li>
+                                            <li>
+                            <a href="/520539">
+                                <span class="code">520539</span> Vacaciones</a>
+                        </li>
+                                            <li>
+                            <a href="/520542">
+                                <span class="code">520542</span> Primas extralegales</a>
+                        </li>
+                                            <li>
+                            <a href="/520545">
+                                <span class="code">520545</span> Auxilios</a>
+                        </li>
+                                            <li>
+                            <a href="/520548">
+                                <span class="code">520548</span> Bonificaciones</a>
+                        </li>
+                                            <li>
+                            <a href="/520551">
+                                <span class="code">520551</span> Dotación y suministro a trabajadores</a>
+                        </li>
+                                            <li>
+                            <a href="/520554">
+                                <span class="code">520554</span> Seguros</a>
+                        </li>
+                                            <li>
+                            <a href="/520557">
+                                <span class="code">520557</span> Cuotas partes pensiones de jubilación</a>
+                        </li>
+                                            <li>
+                            <a href="/520558">
+                                <span class="code">520558</span> Amortización cálculo actuarial pensiones de jubilación</a>
+                        </li>
+                                            <li>
+                            <a href="/520559">
+                                <span class="code">520559</span> Pensiones de jubilación</a>
+                        </li>
+                                            <li>
+                            <a href="/520560">
+                                <span class="code">520560</span> Indemnizaciones laborales</a>
+                        </li>
+                                            <li>
+                            <a href="/520561">
+                                <span class="code">520561</span> Amortización bonos pensionales</a>
+                        </li>
+                                            <li>
+                            <a href="/520562">
+                                <span class="code">520562</span> Amortización títulos pensionales</a>
+                        </li>
+                                            <li>
+                            <a href="/520563">
+                                <span class="code">520563</span> Capacitación al personal</a>
+                        </li>
+                                            <li>
+                            <a href="/520566">
+                                <span class="code">520566</span> Gastos deportivos y de recreación</a>
+                        </li>
+                                            <li>
+                            <a href="/520568">
+                                <span class="code">520568</span> Aportes a administradoras de riesgos profesionales, ARP</a>
+                        </li>
+                                            <li>
+                            <a href="/520569">
+                                <span class="code">520569</span> Aportes a entidades promotoras de salud, EPS</a>
+                        </li>
+                                            <li>
+                            <a href="/520570">
+                                <span class="code">520570</span> Aportes a fondos de pensiones y/o cesantías</a>
+                        </li>
+                                            <li>
+                            <a href="/520572">
+                                <span class="code">520572</span> Aportes cajas de compensación familiar</a>
+                        </li>
+                                            <li>
+                            <a href="/520575">
+                                <span class="code">520575</span> Aportes ICBF</a>
+                        </li>
+                                            <li>
+                            <a href="/520578">
+                                <span class="code">520578</span> SENA</a>
+                        </li>
+                                            <li>
+                            <a href="/520581">
+                                <span class="code">520581</span> Aportes sindicales</a>
+                        </li>
+                                            <li>
+                            <a href="/520584">
+                                <span class="code">520584</span> Gastos médicos y drogas</a>
+                        </li>
+                                            <li>
+                            <a href="/520595">
+                                <span class="code">520595</span> Otros</a>
+                        </li>
+                                            <li>
+                            <a href="/520599">
+                                <span class="code">520599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/5210">
+                                <span class="code">5210</span> Honorarios</a>
+                        </li>
+                                            <li>
+                            <a href="/521005">
+                                <span class="code">521005</span> Junta directiva</a>
+                        </li>
+                                            <li>
+                            <a href="/521010">
+                                <span class="code">521010</span> Revisoría fiscal</a>
+                        </li>
+                                            <li>
+                            <a href="/521015">
+                                <span class="code">521015</span> Auditoría externa</a>
+                        </li>
+                                            <li>
+                            <a href="/521020">
+                                <span class="code">521020</span> Avalúos</a>
+                        </li>
+                                            <li>
+                            <a href="/521025">
+                                <span class="code">521025</span> Asesoría jurídica</a>
+                        </li>
+                                            <li>
+                            <a href="/521030">
+                                <span class="code">521030</span> Asesoría financiera</a>
+                        </li>
+                                            <li>
+                            <a href="/521035">
+                                <span class="code">521035</span> Asesoría técnica</a>
+                        </li>
+                                            <li>
+                            <a href="/521095">
+                                <span class="code">521095</span> Otros</a>
+                        </li>
+                                            <li>
+                            <a href="/521099">
+                                <span class="code">521099</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/5215">
+                                <span class="code">5215</span> Impuestos</a>
+                        </li>
+                                            <li>
+                            <a href="/521505">
+                                <span class="code">521505</span> Industria y comercio</a>
+                        </li>
+                                            <li>
+                            <a href="/521510">
+                                <span class="code">521510</span> De timbres</a>
+                        </li>
+                                            <li>
+                            <a href="/521515">
+                                <span class="code">521515</span> A la propiedad raíz</a>
+                        </li>
+                                            <li>
+                            <a href="/521520">
+                                <span class="code">521520</span> Derechos sobre instrumentos públicos</a>
+                        </li>
+                                            <li>
+                            <a href="/521525">
+                                <span class="code">521525</span> De valorización</a>
+                        </li>
+                                            <li>
+                            <a href="/521530">
+                                <span class="code">521530</span> De turismo</a>
+                        </li>
+                                            <li>
+                            <a href="/521535">
+                                <span class="code">521535</span> Tasa por utilización de puertos</a>
+                        </li>
+                                            <li>
+                            <a href="/521540">
+                                <span class="code">521540</span> De vehículos</a>
+                        </li>
+                                            <li>
+                            <a href="/521545">
+                                <span class="code">521545</span> De espectáculos públicos</a>
+                        </li>
+                                            <li>
+                            <a href="/521550">
+                                <span class="code">521550</span> Cuotas de fomento</a>
+                        </li>
+                                            <li>
+                            <a href="/521555">
+                                <span class="code">521555</span> Licores</a>
+                        </li>
+                                            <li>
+                            <a href="/521560">
+                                <span class="code">521560</span> Cervezas</a>
+                        </li>
+                                            <li>
+                            <a href="/521565">
+                                <span class="code">521565</span> Cigarrillos</a>
+                        </li>
+                                            <li>
+                            <a href="/521570">
+                                <span class="code">521570</span> IVA descontable</a>
+                        </li>
+                                            <li>
+                            <a href="/521595">
+                                <span class="code">521595</span> Otros</a>
+                        </li>
+                                            <li>
+                            <a href="/521599">
+                                <span class="code">521599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/5220">
+                                <span class="code">5220</span> Arrendamientos</a>
+                        </li>
+                                            <li>
+                            <a href="/522005">
+                                <span class="code">522005</span> Terrenos</a>
+                        </li>
+                                            <li>
+                            <a href="/522010">
+                                <span class="code">522010</span> Construcciones y edificaciones</a>
+                        </li>
+                                            <li>
+                            <a href="/522015">
+                                <span class="code">522015</span> Maquinaria y equipo</a>
+                        </li>
+                                            <li>
+                            <a href="/522020">
+                                <span class="code">522020</span> Equipo de oficina</a>
+                        </li>
+                                            <li>
+                            <a href="/522025">
+                                <span class="code">522025</span> Equipo de computación y comunicación</a>
+                        </li>
+                                            <li>
+                            <a href="/522030">
+                                <span class="code">522030</span> Equipo médico-científico</a>
+                        </li>
+                                            <li>
+                            <a href="/522035">
+                                <span class="code">522035</span> Equipo de hoteles y restaurantes</a>
+                        </li>
+                                            <li>
+                            <a href="/522040">
+                                <span class="code">522040</span> Flota y equipo de transporte</a>
+                        </li>
+                                            <li>
+                            <a href="/522045">
+                                <span class="code">522045</span> Flota y equipo fluvial y/o marítimo</a>
+                        </li>
+                                            <li>
+                            <a href="/522050">
+                                <span class="code">522050</span> Flota y equipo aéreo</a>
+                        </li>
+                                            <li>
+                            <a href="/522055">
+                                <span class="code">522055</span> Flota y equipo férreo</a>
+                        </li>
+                                            <li>
+                            <a href="/522060">
+                                <span class="code">522060</span> Acueductos, plantas y redes</a>
+                        </li>
+                                            <li>
+                            <a href="/522065">
+                                <span class="code">522065</span> Aeródromos</a>
+                        </li>
+                                            <li>
+                            <a href="/522070">
+                                <span class="code">522070</span> Semovientes</a>
+                        </li>
+                                            <li>
+                            <a href="/522095">
+                                <span class="code">522095</span> Otros</a>
+                        </li>
+                                            <li>
+                            <a href="/522099">
+                                <span class="code">522099</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/5225">
+                                <span class="code">5225</span> Contribuciones y afiliaciones</a>
+                        </li>
+                                            <li>
+                            <a href="/522505">
+                                <span class="code">522505</span> Contribuciones</a>
+                        </li>
+                                            <li>
+                            <a href="/522510">
+                                <span class="code">522510</span> Afiliaciones y sostenimiento</a>
+                        </li>
+                                            <li>
+                            <a href="/522599">
+                                <span class="code">522599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/5230">
+                                <span class="code">5230</span> Seguros</a>
+                        </li>
+                                            <li>
+                            <a href="/523005">
+                                <span class="code">523005</span> Manejo</a>
+                        </li>
+                                            <li>
+                            <a href="/523010">
+                                <span class="code">523010</span> Cumplimiento</a>
+                        </li>
+                                            <li>
+                            <a href="/523015">
+                                <span class="code">523015</span> Corriente débil</a>
+                        </li>
+                                            <li>
+                            <a href="/523020">
+                                <span class="code">523020</span> Vida colectiva</a>
+                        </li>
+                                            <li>
+                            <a href="/523025">
+                                <span class="code">523025</span> Incendio</a>
+                        </li>
+                                            <li>
+                            <a href="/523030">
+                                <span class="code">523030</span> Terremoto</a>
+                        </li>
+                                            <li>
+                            <a href="/523035">
+                                <span class="code">523035</span> Sustracción y hurto</a>
+                        </li>
+                                            <li>
+                            <a href="/523040">
+                                <span class="code">523040</span> Flota y equipo de transporte</a>
+                        </li>
+                                            <li>
+                            <a href="/523045">
+                                <span class="code">523045</span> Flota y equipo fluvial y/o marítimo</a>
+                        </li>
+                                            <li>
+                            <a href="/523050">
+                                <span class="code">523050</span> Flota y equipo aéreo</a>
+                        </li>
+                                            <li>
+                            <a href="/523055">
+                                <span class="code">523055</span> Flota y equipo férreo</a>
+                        </li>
+                                            <li>
+                            <a href="/523060">
+                                <span class="code">523060</span> Responsabilidad civil y extracontractual</a>
+                        </li>
+                                            <li>
+                            <a href="/523065">
+                                <span class="code">523065</span> Vuelo</a>
+                        </li>
+                                            <li>
+                            <a href="/523070">
+                                <span class="code">523070</span> Rotura de maquinaria</a>
+                        </li>
+                                            <li>
+                            <a href="/523075">
+                                <span class="code">523075</span> Obligatorio accidente de tránsito</a>
+                        </li>
+                                            <li>
+                            <a href="/523080">
+                                <span class="code">523080</span> Lucro cesante</a>
+                        </li>
+                                            <li>
+                            <a href="/523095">
+                                <span class="code">523095</span> Otros</a>
+                        </li>
+                                            <li>
+                            <a href="/523099">
+                                <span class="code">523099</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/5235">
+                                <span class="code">5235</span> Servicios</a>
+                        </li>
+                                            <li>
+                            <a href="/523505">
+                                <span class="code">523505</span> Aseo y vigilancia</a>
+                        </li>
+                                            <li>
+                            <a href="/523510">
+                                <span class="code">523510</span> Temporales</a>
+                        </li>
+                                            <li>
+                            <a href="/523515">
+                                <span class="code">523515</span> Asistencia técnica</a>
+                        </li>
+                                            <li>
+                            <a href="/523520">
+                                <span class="code">523520</span> Procesamiento electrónico de datos</a>
+                        </li>
+                                            <li>
+                            <a href="/523525">
+                                <span class="code">523525</span> Acueducto y alcantarillado</a>
+                        </li>
+                                            <li>
+                            <a href="/523530">
+                                <span class="code">523530</span> Energía eléctrica</a>
+                        </li>
+                                            <li>
+                            <a href="/523535">
+                                <span class="code">523535</span> Teléfono</a>
+                        </li>
+                                            <li>
+                            <a href="/523540">
+                                <span class="code">523540</span> Correo, portes y telegramas</a>
+                        </li>
+                                            <li>
+                            <a href="/523545">
+                                <span class="code">523545</span> Fax y télex</a>
+                        </li>
+                                            <li>
+                            <a href="/523550">
+                                <span class="code">523550</span> Transporte, fletes y acarreos</a>
+                        </li>
+                                            <li>
+                            <a href="/523555">
+                                <span class="code">523555</span> Gas</a>
+                        </li>
+                                            <li>
+                            <a href="/523560">
+                                <span class="code">523560</span> Publicidad, propaganda y promoción</a>
+                        </li>
+                                            <li>
+                            <a href="/523595">
+                                <span class="code">523595</span> Otros</a>
+                        </li>
+                                            <li>
+                            <a href="/523599">
+                                <span class="code">523599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/5240">
+                                <span class="code">5240</span> Gastos legales</a>
+                        </li>
+                                            <li>
+                            <a href="/524005">
+                                <span class="code">524005</span> Notariales</a>
+                        </li>
+                                            <li>
+                            <a href="/524010">
+                                <span class="code">524010</span> Registro mercantil</a>
+                        </li>
+                                            <li>
+                            <a href="/524015">
+                                <span class="code">524015</span> Trámites y licencias</a>
+                        </li>
+                                            <li>
+                            <a href="/524020">
+                                <span class="code">524020</span> Aduaneros</a>
+                        </li>
+                                            <li>
+                            <a href="/524025">
+                                <span class="code">524025</span> Consulares</a>
+                        </li>
+                                            <li>
+                            <a href="/524095">
+                                <span class="code">524095</span> Otros</a>
+                        </li>
+                                            <li>
+                            <a href="/524099">
+                                <span class="code">524099</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/5245">
+                                <span class="code">5245</span> Mantenimiento y reparaciones</a>
+                        </li>
+                                            <li>
+                            <a href="/524505">
+                                <span class="code">524505</span> Terrenos</a>
+                        </li>
+                                            <li>
+                            <a href="/524510">
+                                <span class="code">524510</span> Construcciones y edificaciones</a>
+                        </li>
+                                            <li>
+                            <a href="/524515">
+                                <span class="code">524515</span> Maquinaria y equipo</a>
+                        </li>
+                                            <li>
+                            <a href="/524520">
+                                <span class="code">524520</span> Equipo de oficina</a>
+                        </li>
+                                            <li>
+                            <a href="/524525">
+                                <span class="code">524525</span> Equipo de computación y comunicación</a>
+                        </li>
+                                            <li>
+                            <a href="/524530">
+                                <span class="code">524530</span> Equipo médico-científico</a>
+                        </li>
+                                            <li>
+                            <a href="/524535">
+                                <span class="code">524535</span> Equipo de hoteles y restaurantes</a>
+                        </li>
+                                            <li>
+                            <a href="/524540">
+                                <span class="code">524540</span> Flota y equipo de transporte</a>
+                        </li>
+                                            <li>
+                            <a href="/524545">
+                                <span class="code">524545</span> Flota y equipo fluvial y/o marítimo</a>
+                        </li>
+                                            <li>
+                            <a href="/524550">
+                                <span class="code">524550</span> Flota y equipo aéreo</a>
+                        </li>
+                                            <li>
+                            <a href="/524555">
+                                <span class="code">524555</span> Flota y equipo férreo</a>
+                        </li>
+                                            <li>
+                            <a href="/524560">
+                                <span class="code">524560</span> Acueductos, plantas y redes</a>
+                        </li>
+                                            <li>
+                            <a href="/524565">
+                                <span class="code">524565</span> Armamento de vigilancia</a>
+                        </li>
+                                            <li>
+                            <a href="/524570">
+                                <span class="code">524570</span> Vías de comunicación</a>
+                        </li>
+                                            <li>
+                            <a href="/524599">
+                                <span class="code">524599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/5250">
+                                <span class="code">5250</span> Adecuación e instalación</a>
+                        </li>
+                                            <li>
+                            <a href="/525005">
+                                <span class="code">525005</span> Instalaciones eléctricas</a>
+                        </li>
+                                            <li>
+                            <a href="/525010">
+                                <span class="code">525010</span> Arreglos ornamentales</a>
+                        </li>
+                                            <li>
+                            <a href="/525015">
+                                <span class="code">525015</span> Reparaciones locativas</a>
+                        </li>
+                                            <li>
+                            <a href="/525095">
+                                <span class="code">525095</span> Otros</a>
+                        </li>
+                                            <li>
+                            <a href="/525099">
+                                <span class="code">525099</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/5255">
+                                <span class="code">5255</span> Gastos de viaje</a>
+                        </li>
+                                            <li>
+                            <a href="/525505">
+                                <span class="code">525505</span> Alojamiento y manutención</a>
+                        </li>
+                                            <li>
+                            <a href="/525510">
+                                <span class="code">525510</span> Pasajes fluviales y/o marítimos</a>
+                        </li>
+                                            <li>
+                            <a href="/525515">
+                                <span class="code">525515</span> Pasajes aéreos</a>
+                        </li>
+                                            <li>
+                            <a href="/525520">
+                                <span class="code">525520</span> Pasajes terrestres</a>
+                        </li>
+                                            <li>
+                            <a href="/525525">
+                                <span class="code">525525</span> Pasajes férreos</a>
+                        </li>
+                                            <li>
+                            <a href="/525595">
+                                <span class="code">525595</span> Otros</a>
+                        </li>
+                                            <li>
+                            <a href="/525599">
+                                <span class="code">525599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/5260">
+                                <span class="code">5260</span> Depreciaciones</a>
+                        </li>
+                                            <li>
+                            <a href="/526005">
+                                <span class="code">526005</span> Construcciones y edificaciones</a>
+                        </li>
+                                            <li>
+                            <a href="/526010">
+                                <span class="code">526010</span> Maquinaria y equipo</a>
+                        </li>
+                                            <li>
+                            <a href="/526015">
+                                <span class="code">526015</span> Equipo de oficina</a>
+                        </li>
+                                            <li>
+                            <a href="/526020">
+                                <span class="code">526020</span> Equipo de computación y comunicación</a>
+                        </li>
+                                            <li>
+                            <a href="/526025">
+                                <span class="code">526025</span> Equipo médico-científico</a>
+                        </li>
+                                            <li>
+                            <a href="/526030">
+                                <span class="code">526030</span> Equipo de hoteles y restaurantes</a>
+                        </li>
+                                            <li>
+                            <a href="/526035">
+                                <span class="code">526035</span> Flota y equipo de transporte</a>
+                        </li>
+                                            <li>
+                            <a href="/526040">
+                                <span class="code">526040</span> Flota y equipo fluvial y/o marítimo</a>
+                        </li>
+                                            <li>
+                            <a href="/526045">
+                                <span class="code">526045</span> Flota y equipo aéreo</a>
+                        </li>
+                                            <li>
+                            <a href="/526050">
+                                <span class="code">526050</span> Flota y equipo férreo</a>
+                        </li>
+                                            <li>
+                            <a href="/526055">
+                                <span class="code">526055</span> Acueductos, plantas y redes</a>
+                        </li>
+                                            <li>
+                            <a href="/526060">
+                                <span class="code">526060</span> Armamento de vigilancia</a>
+                        </li>
+                                            <li>
+                            <a href="/526065">
+                                <span class="code">526065</span> Envases y empaques</a>
+                        </li>
+                                            <li>
+                            <a href="/526099">
+                                <span class="code">526099</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/5265">
+                                <span class="code">5265</span> Amortizaciones</a>
+                        </li>
+                                            <li>
+                            <a href="/526505">
+                                <span class="code">526505</span> Vías de comunicación</a>
+                        </li>
+                                            <li>
+                            <a href="/526510">
+                                <span class="code">526510</span> Intangibles</a>
+                        </li>
+                                            <li>
+                            <a href="/526515">
+                                <span class="code">526515</span> Cargos diferidos</a>
+                        </li>
+                                            <li>
+                            <a href="/526595">
+                                <span class="code">526595</span> Otras</a>
+                        </li>
+                                            <li>
+                            <a href="/526599">
+                                <span class="code">526599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/5270">
+                                <span class="code">5270</span> Financieros-reajuste del sistema</a>
+                        </li>
+                                            <li>
+                            <a href="/527099">
+                                <span class="code">527099</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/5275">
+                                <span class="code">5275</span> Pérdidas método de participación</a>
+                        </li>
+                                            <li>
+                            <a href="/527505">
+                                <span class="code">527505</span> De sociedades anónimas y/o asimiladas</a>
+                        </li>
+                                            <li>
+                            <a href="/527510">
+                                <span class="code">527510</span> De sociedades limitadas y/o asimiladas</a>
+                        </li>
+                                            <li>
+                            <a href="/5295">
+                                <span class="code">5295</span> Diversos</a>
+                        </li>
+                                            <li>
+                            <a href="/529505">
+                                <span class="code">529505</span> Comisiones</a>
+                        </li>
+                                            <li>
+                            <a href="/529510">
+                                <span class="code">529510</span> Libros, suscripciones, periódicos y revistas</a>
+                        </li>
+                                            <li>
+                            <a href="/529515">
+                                <span class="code">529515</span> Música ambiental</a>
+                        </li>
+                                            <li>
+                            <a href="/529520">
+                                <span class="code">529520</span> Gastos de representación y relaciones públicas</a>
+                        </li>
+                                            <li>
+                            <a href="/529525">
+                                <span class="code">529525</span> Elementos de aseo y cafetería</a>
+                        </li>
+                                            <li>
+                            <a href="/529530">
+                                <span class="code">529530</span> Útiles, papelería y fotocopias</a>
+                        </li>
+                                            <li>
+                            <a href="/529535">
+                                <span class="code">529535</span> Combustibles y lubricantes</a>
+                        </li>
+                                            <li>
+                            <a href="/529540">
+                                <span class="code">529540</span> Envases y empaques</a>
+                        </li>
+                                            <li>
+                            <a href="/529545">
+                                <span class="code">529545</span> Taxis y buses</a>
+                        </li>
+                                            <li>
+                            <a href="/529550">
+                                <span class="code">529550</span> Estampillas</a>
+                        </li>
+                                            <li>
+                            <a href="/529555">
+                                <span class="code">529555</span> Microfilmación</a>
+                        </li>
+                                            <li>
+                            <a href="/529560">
+                                <span class="code">529560</span> Casino y restaurante</a>
+                        </li>
+                                            <li>
+                            <a href="/529565">
+                                <span class="code">529565</span> Parqueaderos</a>
+                        </li>
+                                            <li>
+                            <a href="/529570">
+                                <span class="code">529570</span> Indemnización por daños a terceros</a>
+                        </li>
+                                            <li>
+                            <a href="/529575">
+                                <span class="code">529575</span> Pólvora y similares</a>
+                        </li>
+                                            <li>
+                            <a href="/529595">
+                                <span class="code">529595</span> Otros</a>
+                        </li>
+                                            <li>
+                            <a href="/529599">
+                                <span class="code">529599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/5299">
+                                <span class="code">5299</span> Provisiones</a>
+                        </li>
+                                            <li>
+                            <a href="/529905">
+                                <span class="code">529905</span> Inversiones</a>
+                        </li>
+                                            <li>
+                            <a href="/529910">
+                                <span class="code">529910</span> Deudores</a>
+                        </li>
+                                            <li>
+                            <a href="/529915">
+                                <span class="code">529915</span> Inventarios</a>
+                        </li>
+                                            <li>
+                            <a href="/529920">
+                                <span class="code">529920</span> Propiedades, planta y equipo</a>
+                        </li>
+                                            <li>
+                            <a href="/529995">
+                                <span class="code">529995</span> Otros activos</a>
+                        </li>
+                                            <li>
+                            <a href="/529999">
+                                <span class="code">529999</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/53">
+                                <span class="code">53</span> No operacionales</a>
+                        </li>
+                                            <li>
+                            <a href="/5305">
+                                <span class="code">5305</span> Financieros</a>
+                        </li>
+                                            <li>
+                            <a href="/530505">
+                                <span class="code">530505</span> Gastos bancarios</a>
+                        </li>
+                                            <li>
+                            <a href="/530510">
+                                <span class="code">530510</span> Reajuste monetario-UPAC (hoy UVR)</a>
+                        </li>
+                                            <li>
+                            <a href="/530515">
+                                <span class="code">530515</span> Comisiones</a>
+                        </li>
+                                            <li>
+                            <a href="/530520">
+                                <span class="code">530520</span> Intereses</a>
+                        </li>
+                                            <li>
+                            <a href="/530525">
+                                <span class="code">530525</span> Diferencia en cambio</a>
+                        </li>
+                                            <li>
+                            <a href="/530530">
+                                <span class="code">530530</span> Gastos en negociación certificados de cambio</a>
+                        </li>
+                                            <li>
+                            <a href="/530535">
+                                <span class="code">530535</span> Descuentos comerciales condicionados</a>
+                        </li>
+                                            <li>
+                            <a href="/530540">
+                                <span class="code">530540</span> Gastos manejo y emisión de bonos</a>
+                        </li>
+                                            <li>
+                            <a href="/530545">
+                                <span class="code">530545</span> Prima amortizada</a>
+                        </li>
+                                            <li>
+                            <a href="/530595">
+                                <span class="code">530595</span> Otros</a>
+                        </li>
+                                            <li>
+                            <a href="/530599">
+                                <span class="code">530599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/5310">
+                                <span class="code">5310</span> Pérdida en venta y retiro de bienes</a>
+                        </li>
+                                            <li>
+                            <a href="/531005">
+                                <span class="code">531005</span> Venta de inversiones</a>
+                        </li>
+                                            <li>
+                            <a href="/531010">
+                                <span class="code">531010</span> Venta de cartera</a>
+                        </li>
+                                            <li>
+                            <a href="/531015">
+                                <span class="code">531015</span> Venta de propiedades, planta y equipo</a>
+                        </li>
+                                            <li>
+                            <a href="/531020">
+                                <span class="code">531020</span> Venta de intangibles</a>
+                        </li>
+                                            <li>
+                            <a href="/531025">
+                                <span class="code">531025</span> Venta de otros activos</a>
+                        </li>
+                                            <li>
+                            <a href="/531030">
+                                <span class="code">531030</span> Retiro de propiedades, planta y equipo</a>
+                        </li>
+                                            <li>
+                            <a href="/531035">
+                                <span class="code">531035</span> Retiro de otros activos</a>
+                        </li>
+                                            <li>
+                            <a href="/531040">
+                                <span class="code">531040</span> Pérdidas por siniestros</a>
+                        </li>
+                                            <li>
+                            <a href="/531095">
+                                <span class="code">531095</span> Otros</a>
+                        </li>
+                                            <li>
+                            <a href="/531099">
+                                <span class="code">531099</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/5313">
+                                <span class="code">5313</span> Pérdidas método de participación</a>
+                        </li>
+                                            <li>
+                            <a href="/531305">
+                                <span class="code">531305</span> De sociedades anónimas y/o asimiladas</a>
+                        </li>
+                                            <li>
+                            <a href="/531310">
+                                <span class="code">531310</span> De sociedades limitadas y/o asimiladas</a>
+                        </li>
+                                            <li>
+                            <a href="/5315">
+                                <span class="code">5315</span> Gastos extraordinarios</a>
+                        </li>
+                                            <li>
+                            <a href="/531505">
+                                <span class="code">531505</span> Costas y procesos judiciales</a>
+                        </li>
+                                            <li>
+                            <a href="/531510">
+                                <span class="code">531510</span> Actividades culturales y cívicas</a>
+                        </li>
+                                            <li>
+                            <a href="/531515">
+                                <span class="code">531515</span> Costos y gastos de ejercicios anteriores</a>
+                        </li>
+                                            <li>
+                            <a href="/531520">
+                                <span class="code">531520</span> Impuestos asumidos</a>
+                        </li>
+                                            <li>
+                            <a href="/531595">
+                                <span class="code">531595</span> Otros</a>
+                        </li>
+                                            <li>
+                            <a href="/531599">
+                                <span class="code">531599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/5395">
+                                <span class="code">5395</span> Gastos diversos</a>
+                        </li>
+                                            <li>
+                            <a href="/539505">
+                                <span class="code">539505</span> Demandas laborales</a>
+                        </li>
+                                            <li>
+                            <a href="/539510">
+                                <span class="code">539510</span> Demandas por incumplimiento de contratos</a>
+                        </li>
+                                            <li>
+                            <a href="/539515">
+                                <span class="code">539515</span> Indemnizaciones</a>
+                        </li>
+                                            <li>
+                            <a href="/539520">
+                                <span class="code">539520</span> Multas, sanciones y litigios</a>
+                        </li>
+                                            <li>
+                            <a href="/539525">
+                                <span class="code">539525</span> Donaciones</a>
+                        </li>
+                                            <li>
+                            <a href="/539530">
+                                <span class="code">539530</span> Constitución de garantías</a>
+                        </li>
+                                            <li>
+                            <a href="/539535">
+                                <span class="code">539535</span> Amortización de bienes entregados en comodato</a>
+                        </li>
+                                            <li>
+                            <a href="/539595">
+                                <span class="code">539595</span> Otros</a>
+                        </li>
+                                            <li>
+                            <a href="/539599">
+                                <span class="code">539599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/54">
+                                <span class="code">54</span> Impuesto de renta y complementarios</a>
+                        </li>
+                                            <li>
+                            <a href="/5405">
+                                <span class="code">5405</span> Impuesto de renta y complementarios</a>
+                        </li>
+                                            <li>
+                            <a href="/540505">
+                                <span class="code">540505</span> Impuesto de renta y complementarios</a>
+                        </li>
+                                            <li>
+                            <a href="/59">
+                                <span class="code">59</span> Ganancias y pérdidas</a>
+                        </li>
+                                            <li>
+                            <a href="/5905">
+                                <span class="code">5905</span> Ganancias y pérdidas</a>
+                        </li>
+                                            <li>
+                            <a href="/590505">
+                                <span class="code">590505</span> Ganancias y pérdidas</a>
+                        </li>
+                                        </ul>

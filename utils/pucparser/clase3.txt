@@ -1,0 +1,462 @@
+<ul class="account-list">
+                                            <li>
+                            <a href="/3">
+                                <span class="code">3</span> Patrimonio</a>
+                        </li>
+                                            <li>
+                            <a href="/31">
+                                <span class="code">31</span> Capital social</a>
+                        </li>
+                                            <li>
+                            <a href="/3105">
+                                <span class="code">3105</span> Capital suscrito y pagado</a>
+                        </li>
+                                            <li>
+                            <a href="/310505">
+                                <span class="code">310505</span> Capital autorizado</a>
+                        </li>
+                                            <li>
+                            <a href="/310510">
+                                <span class="code">310510</span> Capital por suscribir (DB)</a>
+                        </li>
+                                            <li>
+                            <a href="/310515">
+                                <span class="code">310515</span> Capital suscrito por cobrar (DB)</a>
+                        </li>
+                                            <li>
+                            <a href="/3115">
+                                <span class="code">3115</span> Aportes sociales</a>
+                        </li>
+                                            <li>
+                            <a href="/311505">
+                                <span class="code">311505</span> Cuotas o partes de interés social</a>
+                        </li>
+                                            <li>
+                            <a href="/311510">
+                                <span class="code">311510</span> Aportes de socios-fondo mutuo de inversión</a>
+                        </li>
+                                            <li>
+                            <a href="/311515">
+                                <span class="code">311515</span> Contribución de la empresa-fondo mutuo de inversión</a>
+                        </li>
+                                            <li>
+                            <a href="/311520">
+                                <span class="code">311520</span> Suscripciones del público</a>
+                        </li>
+                                            <li>
+                            <a href="/3120">
+                                <span class="code">3120</span> Capital asignado</a>
+                        </li>
+                                            <li>
+                            <a href="/3125">
+                                <span class="code">3125</span> Inversión suplementaria al capital asignado</a>
+                        </li>
+                                            <li>
+                            <a href="/3130">
+                                <span class="code">3130</span> Capital de personas naturales</a>
+                        </li>
+                                            <li>
+                            <a href="/3135">
+                                <span class="code">3135</span> Aportes del Estado</a>
+                        </li>
+                                            <li>
+                            <a href="/3140">
+                                <span class="code">3140</span> Fondo social</a>
+                        </li>
+                                            <li>
+                            <a href="/32">
+                                <span class="code">32</span> Superávit de capital</a>
+                        </li>
+                                            <li>
+                            <a href="/3205">
+                                <span class="code">3205</span> Prima en colocación de acciones, cuotas o partes de interés social</a>
+                        </li>
+                                            <li>
+                            <a href="/320505">
+                                <span class="code">320505</span> Prima en colocación de acciones</a>
+                        </li>
+                                            <li>
+                            <a href="/320510">
+                                <span class="code">320510</span> Prima en colocación de acciones por cobrar (DB)</a>
+                        </li>
+                                            <li>
+                            <a href="/320515">
+                                <span class="code">320515</span> Prima en colocación de cuotas o partes de interés social</a>
+                        </li>
+                                            <li>
+                            <a href="/3210">
+                                <span class="code">3210</span> Donaciones</a>
+                        </li>
+                                            <li>
+                            <a href="/321005">
+                                <span class="code">321005</span> En dinero</a>
+                        </li>
+                                            <li>
+                            <a href="/321010">
+                                <span class="code">321010</span> En valores mobiliarios</a>
+                        </li>
+                                            <li>
+                            <a href="/321015">
+                                <span class="code">321015</span> En bienes muebles</a>
+                        </li>
+                                            <li>
+                            <a href="/321020">
+                                <span class="code">321020</span> En bienes inmuebles</a>
+                        </li>
+                                            <li>
+                            <a href="/321025">
+                                <span class="code">321025</span> En intangibles</a>
+                        </li>
+                                            <li>
+                            <a href="/3215">
+                                <span class="code">3215</span> Crédito mercantil</a>
+                        </li>
+                                            <li>
+                            <a href="/3220">
+                                <span class="code">3220</span> Know how</a>
+                        </li>
+                                            <li>
+                            <a href="/3225">
+                                <span class="code">3225</span> Superávit método de participación</a>
+                        </li>
+                                            <li>
+                            <a href="/322505">
+                                <span class="code">322505</span> De acciones</a>
+                        </li>
+                                            <li>
+                            <a href="/322510">
+                                <span class="code">322510</span> De cuotas o partes de interés social</a>
+                        </li>
+                                            <li>
+                            <a href="/33">
+                                <span class="code">33</span> Reservas</a>
+                        </li>
+                                            <li>
+                            <a href="/3305">
+                                <span class="code">3305</span> Reservas obligatorias</a>
+                        </li>
+                                            <li>
+                            <a href="/330505">
+                                <span class="code">330505</span> Reserva legal</a>
+                        </li>
+                                            <li>
+                            <a href="/330510">
+                                <span class="code">330510</span> Reservas por disposiciones fiscales</a>
+                        </li>
+                                            <li>
+                            <a href="/330515">
+                                <span class="code">330515</span> Reserva para readquisición de acciones</a>
+                        </li>
+                                            <li>
+                            <a href="/330516">
+                                <span class="code">330516</span> Acciones propias readquiridas (DB)</a>
+                        </li>
+                                            <li>
+                            <a href="/330517">
+                                <span class="code">330517</span> Reserva para readquisición de cuotas o partes de interés social</a>
+                        </li>
+                                            <li>
+                            <a href="/330518">
+                                <span class="code">330518</span> Cuotas o partes de interés social propias readquiridas (DB)</a>
+                        </li>
+                                            <li>
+                            <a href="/330520">
+                                <span class="code">330520</span> Reserva para extensión agropecuaria</a>
+                        </li>
+                                            <li>
+                            <a href="/330525">
+                                <span class="code">330525</span> Reserva Ley 7ª de 1990</a>
+                        </li>
+                                            <li>
+                            <a href="/330530">
+                                <span class="code">330530</span> Reserva para reposición de semovientes</a>
+                        </li>
+                                            <li>
+                            <a href="/330535">
+                                <span class="code">330535</span> Reserva Ley 4ª de 1980</a>
+                        </li>
+                                            <li>
+                            <a href="/330595">
+                                <span class="code">330595</span> Otras</a>
+                        </li>
+                                            <li>
+                            <a href="/3310">
+                                <span class="code">3310</span> Reservas estatutarias</a>
+                        </li>
+                                            <li>
+                            <a href="/331005">
+                                <span class="code">331005</span> Para futuras capitalizaciones</a>
+                        </li>
+                                            <li>
+                            <a href="/331010">
+                                <span class="code">331010</span> Para reposición de activos</a>
+                        </li>
+                                            <li>
+                            <a href="/331015">
+                                <span class="code">331015</span> Para futuros ensanches</a>
+                        </li>
+                                            <li>
+                            <a href="/331095">
+                                <span class="code">331095</span> Otras</a>
+                        </li>
+                                            <li>
+                            <a href="/3315">
+                                <span class="code">3315</span> Reservas ocasionales</a>
+                        </li>
+                                            <li>
+                            <a href="/331505">
+                                <span class="code">331505</span> Para beneficencia y civismo</a>
+                        </li>
+                                            <li>
+                            <a href="/331510">
+                                <span class="code">331510</span> Para futuras capitalizaciones</a>
+                        </li>
+                                            <li>
+                            <a href="/331515">
+                                <span class="code">331515</span> Para futuros ensanches</a>
+                        </li>
+                                            <li>
+                            <a href="/331520">
+                                <span class="code">331520</span> Para adquisición o reposición de propiedades, planta y equipo</a>
+                        </li>
+                                            <li>
+                            <a href="/331525">
+                                <span class="code">331525</span> Para investigaciones y desarrollo</a>
+                        </li>
+                                            <li>
+                            <a href="/331530">
+                                <span class="code">331530</span> Para fomento económico</a>
+                        </li>
+                                            <li>
+                            <a href="/331535">
+                                <span class="code">331535</span> Para capital de trabajo</a>
+                        </li>
+                                            <li>
+                            <a href="/331540">
+                                <span class="code">331540</span> Para estabilización de rendimientos</a>
+                        </li>
+                                            <li>
+                            <a href="/331545">
+                                <span class="code">331545</span> A disposición del máximo órgano social</a>
+                        </li>
+                                            <li>
+                            <a href="/331595">
+                                <span class="code">331595</span> Otras</a>
+                        </li>
+                                            <li>
+                            <a href="/34">
+                                <span class="code">34</span> Revalorización del patrimonio</a>
+                        </li>
+                                            <li>
+                            <a href="/3405">
+                                <span class="code">3405</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/340505">
+                                <span class="code">340505</span> De capital social</a>
+                        </li>
+                                            <li>
+                            <a href="/340510">
+                                <span class="code">340510</span> De superávit de capital</a>
+                        </li>
+                                            <li>
+                            <a href="/340515">
+                                <span class="code">340515</span> De reservas</a>
+                        </li>
+                                            <li>
+                            <a href="/340520">
+                                <span class="code">340520</span> De resultados de ejercicios anteriores</a>
+                        </li>
+                                            <li>
+                            <a href="/340525">
+                                <span class="code">340525</span> De activos en período improductivo</a>
+                        </li>
+                                            <li>
+                            <a href="/340530">
+                                <span class="code">340530</span> De saneamiento fiscal</a>
+                        </li>
+                                            <li>
+                            <a href="/340535">
+                                <span class="code">340535</span> De ajustes Decreto 3019 de 1989</a>
+                        </li>
+                                            <li>
+                            <a href="/340540">
+                                <span class="code">340540</span> De dividendos y participaciones decretadas en acciones, cuotas o partes de interés social</a>
+                        </li>
+                                            <li>
+                            <a href="/340545">
+                                <span class="code">340545</span> Superávit método de participación</a>
+                        </li>
+                                            <li>
+                            <a href="/3410">
+                                <span class="code">3410</span> Saneamiento fiscal</a>
+                        </li>
+                                            <li>
+                            <a href="/3415">
+                                <span class="code">3415</span> Ajustes por inflación Decreto 3019 de 1989</a>
+                        </li>
+                                            <li>
+                            <a href="/35">
+                                <span class="code">35</span> Dividendos o participaciones decretados en acciones, cuotas o partes de interés social</a>
+                        </li>
+                                            <li>
+                            <a href="/3505">
+                                <span class="code">3505</span> Dividendos decretados en acciones</a>
+                        </li>
+                                            <li>
+                            <a href="/3510">
+                                <span class="code">3510</span> Participaciones decretadas en cuotas o partes de interés social</a>
+                        </li>
+                                            <li>
+                            <a href="/36">
+                                <span class="code">36</span> Resultados del ejercicio</a>
+                        </li>
+                                            <li>
+                            <a href="/3605">
+                                <span class="code">3605</span> Utilidad del ejercicio</a>
+                        </li>
+                                            <li>
+                            <a href="/3610">
+                                <span class="code">3610</span> Pérdida del ejercicio</a>
+                        </li>
+                                            <li>
+                            <a href="/37">
+                                <span class="code">37</span> Resultados de ejercicios anteriores</a>
+                        </li>
+                                            <li>
+                            <a href="/3705">
+                                <span class="code">3705</span> Utilidades acumuladas</a>
+                        </li>
+                                            <li>
+                            <a href="/3710">
+                                <span class="code">3710</span> Pérdidas acumuladas</a>
+                        </li>
+                                            <li>
+                            <a href="/38">
+                                <span class="code">38</span> Superávit por valorizaciones</a>
+                        </li>
+                                            <li>
+                            <a href="/3805">
+                                <span class="code">3805</span> De inversiones</a>
+                        </li>
+                                            <li>
+                            <a href="/380505">
+                                <span class="code">380505</span> Acciones</a>
+                        </li>
+                                            <li>
+                            <a href="/380510">
+                                <span class="code">380510</span> Cuotas o partes de interés social</a>
+                        </li>
+                                            <li>
+                            <a href="/380515">
+                                <span class="code">380515</span> Derechos fiduciarios</a>
+                        </li>
+                                            <li>
+                            <a href="/3810">
+                                <span class="code">3810</span> De propiedades, planta y equipo</a>
+                        </li>
+                                            <li>
+                            <a href="/381004">
+                                <span class="code">381004</span> Terrenos</a>
+                        </li>
+                                            <li>
+                            <a href="/381006">
+                                <span class="code">381006</span> Materiales proyectos petroleros</a>
+                        </li>
+                                            <li>
+                            <a href="/381008">
+                                <span class="code">381008</span> Construcciones y edificaciones</a>
+                        </li>
+                                            <li>
+                            <a href="/381012">
+                                <span class="code">381012</span> Maquinaria y equipo</a>
+                        </li>
+                                            <li>
+                            <a href="/381016">
+                                <span class="code">381016</span> Equipo de oficina</a>
+                        </li>
+                                            <li>
+                            <a href="/381020">
+                                <span class="code">381020</span> Equipo de computación y comunicación</a>
+                        </li>
+                                            <li>
+                            <a href="/381024">
+                                <span class="code">381024</span> Equipo médico-científico</a>
+                        </li>
+                                            <li>
+                            <a href="/381028">
+                                <span class="code">381028</span> Equipo de hoteles y restaurantes</a>
+                        </li>
+                                            <li>
+                            <a href="/381032">
+                                <span class="code">381032</span> Flota y equipo de transporte</a>
+                        </li>
+                                            <li>
+                            <a href="/381036">
+                                <span class="code">381036</span> Flota y equipo fluvial y/o marítimo</a>
+                        </li>
+                                            <li>
+                            <a href="/381040">
+                                <span class="code">381040</span> Flota y equipo aéreo</a>
+                        </li>
+                                            <li>
+                            <a href="/381044">
+                                <span class="code">381044</span> Flota y equipo férreo</a>
+                        </li>
+                                            <li>
+                            <a href="/381048">
+                                <span class="code">381048</span> Acueductos, plantas y redes</a>
+                        </li>
+                                            <li>
+                            <a href="/381052">
+                                <span class="code">381052</span> Armamento de vigilancia</a>
+                        </li>
+                                            <li>
+                            <a href="/381056">
+                                <span class="code">381056</span> Envases y empaques</a>
+                        </li>
+                                            <li>
+                            <a href="/381060">
+                                <span class="code">381060</span> Plantaciones agrícolas y forestales</a>
+                        </li>
+                                            <li>
+                            <a href="/381064">
+                                <span class="code">381064</span> Vías de comunicación</a>
+                        </li>
+                                            <li>
+                            <a href="/381068">
+                                <span class="code">381068</span> Minas y canteras</a>
+                        </li>
+                                            <li>
+                            <a href="/381072">
+                                <span class="code">381072</span> Pozos artesianos</a>
+                        </li>
+                                            <li>
+                            <a href="/381076">
+                                <span class="code">381076</span> Yacimientos</a>
+                        </li>
+                                            <li>
+                            <a href="/381080">
+                                <span class="code">381080</span> Semovientes</a>
+                        </li>
+                                            <li>
+                            <a href="/3895">
+                                <span class="code">3895</span> De otros activos</a>
+                        </li>
+                                            <li>
+                            <a href="/389505">
+                                <span class="code">389505</span> Bienes de arte y cultura</a>
+                        </li>
+                                            <li>
+                            <a href="/389510">
+                                <span class="code">389510</span> Bienes entregados en comodato</a>
+                        </li>
+                                            <li>
+                            <a href="/389515">
+                                <span class="code">389515</span> Bienes recibidos en pago</a>
+                        </li>
+                                            <li>
+                            <a href="/389520">
+                                <span class="code">389520</span> Inventario de semovientes</a>
+                        </li>
+                                        </ul>

@@ -1,0 +1,350 @@
+<ul class="account-list">
+                                            <li>
+                            <a href="/8">
+                                <span class="code">8</span> Cuentas de orden deudoras</a>
+                        </li>
+                                            <li>
+                            <a href="/81">
+                                <span class="code">81</span> Derechos contingentes</a>
+                        </li>
+                                            <li>
+                            <a href="/8105">
+                                <span class="code">8105</span> Bienes y valores entregados en custodia</a>
+                        </li>
+                                            <li>
+                            <a href="/810505">
+                                <span class="code">810505</span> Valores mobiliarios</a>
+                        </li>
+                                            <li>
+                            <a href="/810510">
+                                <span class="code">810510</span> Bienes muebles</a>
+                        </li>
+                                            <li>
+                            <a href="/810599">
+                                <span class="code">810599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/8110">
+                                <span class="code">8110</span> Bienes y valores entregados en garantía</a>
+                        </li>
+                                            <li>
+                            <a href="/811005">
+                                <span class="code">811005</span> Valores mobiliarios</a>
+                        </li>
+                                            <li>
+                            <a href="/811010">
+                                <span class="code">811010</span> Bienes muebles</a>
+                        </li>
+                                            <li>
+                            <a href="/811015">
+                                <span class="code">811015</span> Bienes inmuebles</a>
+                        </li>
+                                            <li>
+                            <a href="/811020">
+                                <span class="code">811020</span> Contratos de ganado en participación</a>
+                        </li>
+                                            <li>
+                            <a href="/811099">
+                                <span class="code">811099</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/8115">
+                                <span class="code">8115</span> Bienes y valores en poder de terceros</a>
+                        </li>
+                                            <li>
+                            <a href="/811505">
+                                <span class="code">811505</span> En arrendamiento</a>
+                        </li>
+                                            <li>
+                            <a href="/811510">
+                                <span class="code">811510</span> En préstamo</a>
+                        </li>
+                                            <li>
+                            <a href="/811515">
+                                <span class="code">811515</span> En depósito</a>
+                        </li>
+                                            <li>
+                            <a href="/811520">
+                                <span class="code">811520</span> En consignación</a>
+                        </li>
+                                            <li>
+                            <a href="/811599">
+                                <span class="code">811599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/8120">
+                                <span class="code">8120</span> Litigios y/o demandas</a>
+                        </li>
+                                            <li>
+                            <a href="/812005">
+                                <span class="code">812005</span> Ejecutivos</a>
+                        </li>
+                                            <li>
+                            <a href="/812010">
+                                <span class="code">812010</span> Incumplimiento de contratos</a>
+                        </li>
+                                            <li>
+                            <a href="/8125">
+                                <span class="code">8125</span> Promesas de compraventa</a>
+                        </li>
+                                            <li>
+                            <a href="/8195">
+                                <span class="code">8195</span> Diversas</a>
+                        </li>
+                                            <li>
+                            <a href="/819505">
+                                <span class="code">819505</span> Valores adquiridos por recibir</a>
+                        </li>
+                                            <li>
+                            <a href="/819595">
+                                <span class="code">819595</span> Otras</a>
+                        </li>
+                                            <li>
+                            <a href="/819599">
+                                <span class="code">819599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/82">
+                                <span class="code">82</span> Deudoras fiscales</a>
+                        </li>
+                                            <li>
+                            <a href="/83">
+                                <span class="code">83</span> Deudoras de control</a>
+                        </li>
+                                            <li>
+                            <a href="/8305">
+                                <span class="code">8305</span> Bienes recibidos en arrendamiento financiero</a>
+                        </li>
+                                            <li>
+                            <a href="/830505">
+                                <span class="code">830505</span> Bienes muebles</a>
+                        </li>
+                                            <li>
+                            <a href="/830510">
+                                <span class="code">830510</span> Bienes inmuebles</a>
+                        </li>
+                                            <li>
+                            <a href="/830599">
+                                <span class="code">830599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/8310">
+                                <span class="code">8310</span> Títulos de inversión no colocados</a>
+                        </li>
+                                            <li>
+                            <a href="/831005">
+                                <span class="code">831005</span> Acciones</a>
+                        </li>
+                                            <li>
+                            <a href="/831010">
+                                <span class="code">831010</span> Bonos</a>
+                        </li>
+                                            <li>
+                            <a href="/831095">
+                                <span class="code">831095</span> Otros</a>
+                        </li>
+                                            <li>
+                            <a href="/8315">
+                                <span class="code">8315</span> Propiedades, planta y equipo totalmente depreciados, agotados y/o amortizados</a>
+                        </li>
+                                            <li>
+                            <a href="/831506">
+                                <span class="code">831506</span> Materiales proyectos petroleros</a>
+                        </li>
+                                            <li>
+                            <a href="/831516">
+                                <span class="code">831516</span> Construcciones y edificaciones</a>
+                        </li>
+                                            <li>
+                            <a href="/831520">
+                                <span class="code">831520</span> Maquinaria y equipo</a>
+                        </li>
+                                            <li>
+                            <a href="/831524">
+                                <span class="code">831524</span> Equipo de oficina</a>
+                        </li>
+                                            <li>
+                            <a href="/831528">
+                                <span class="code">831528</span> Equipo de computación y comunicación</a>
+                        </li>
+                                            <li>
+                            <a href="/831532">
+                                <span class="code">831532</span> Equipo médico-científico</a>
+                        </li>
+                                            <li>
+                            <a href="/831536">
+                                <span class="code">831536</span> Equipo de hoteles y restaurantes</a>
+                        </li>
+                                            <li>
+                            <a href="/831540">
+                                <span class="code">831540</span> Flota y equipo de transporte</a>
+                        </li>
+                                            <li>
+                            <a href="/831544">
+                                <span class="code">831544</span> Flota y equipo fluvial y/o marítimo</a>
+                        </li>
+                                            <li>
+                            <a href="/831548">
+                                <span class="code">831548</span> Flota y equipo aéreo</a>
+                        </li>
+                                            <li>
+                            <a href="/831552">
+                                <span class="code">831552</span> Flota y equipo férreo</a>
+                        </li>
+                                            <li>
+                            <a href="/831556">
+                                <span class="code">831556</span> Acueductos, plantas y redes</a>
+                        </li>
+                                            <li>
+                            <a href="/831560">
+                                <span class="code">831560</span> Armamento de vigilancia</a>
+                        </li>
+                                            <li>
+                            <a href="/831562">
+                                <span class="code">831562</span> Envases y empaques</a>
+                        </li>
+                                            <li>
+                            <a href="/831564">
+                                <span class="code">831564</span> Plantaciones agrícolas y forestales</a>
+                        </li>
+                                            <li>
+                            <a href="/831568">
+                                <span class="code">831568</span> Vías de comunicación</a>
+                        </li>
+                                            <li>
+                            <a href="/831572">
+                                <span class="code">831572</span> Minas y canteras</a>
+                        </li>
+                                            <li>
+                            <a href="/831576">
+                                <span class="code">831576</span> Pozos artesianos</a>
+                        </li>
+                                            <li>
+                            <a href="/831580">
+                                <span class="code">831580</span> Yacimientos</a>
+                        </li>
+                                            <li>
+                            <a href="/831584">
+                                <span class="code">831584</span> Semovientes</a>
+                        </li>
+                                            <li>
+                            <a href="/831599">
+                                <span class="code">831599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/8320">
+                                <span class="code">8320</span> Créditos a favor no utilizados</a>
+                        </li>
+                                            <li>
+                            <a href="/832005">
+                                <span class="code">832005</span> País</a>
+                        </li>
+                                            <li>
+                            <a href="/832010">
+                                <span class="code">832010</span> Exterior</a>
+                        </li>
+                                            <li>
+                            <a href="/8325">
+                                <span class="code">8325</span> Activos castigados</a>
+                        </li>
+                                            <li>
+                            <a href="/832505">
+                                <span class="code">832505</span> Inversiones</a>
+                        </li>
+                                            <li>
+                            <a href="/832510">
+                                <span class="code">832510</span> Deudores</a>
+                        </li>
+                                            <li>
+                            <a href="/832595">
+                                <span class="code">832595</span> Otros activos</a>
+                        </li>
+                                            <li>
+                            <a href="/8330">
+                                <span class="code">8330</span> Títulos de inversión amortizados</a>
+                        </li>
+                                            <li>
+                            <a href="/833005">
+                                <span class="code">833005</span> Bonos</a>
+                        </li>
+                                            <li>
+                            <a href="/833095">
+                                <span class="code">833095</span> Otros</a>
+                        </li>
+                                            <li>
+                            <a href="/8335">
+                                <span class="code">8335</span> Capitalización por revalorización de patrimonio</a>
+                        </li>
+                                            <li>
+                            <a href="/8395">
+                                <span class="code">8395</span> Otras cuentas deudoras de control</a>
+                        </li>
+                                            <li>
+                            <a href="/839505">
+                                <span class="code">839505</span> Cheques posfechados</a>
+                        </li>
+                                            <li>
+                            <a href="/839510">
+                                <span class="code">839510</span> Certificados de depósito a término</a>
+                        </li>
+                                            <li>
+                            <a href="/839515">
+                                <span class="code">839515</span> Cheques devueltos</a>
+                        </li>
+                                            <li>
+                            <a href="/839520">
+                                <span class="code">839520</span> Bienes y valores en fideicomiso</a>
+                        </li>
+                                            <li>
+                            <a href="/839525">
+                                <span class="code">839525</span> Intereses sobre deudas vencidas</a>
+                        </li>
+                                            <li>
+                            <a href="/839595">
+                                <span class="code">839595</span> Diversas</a>
+                        </li>
+                                            <li>
+                            <a href="/839599">
+                                <span class="code">839599</span> Ajustes por inflación</a>
+                        </li>
+                                            <li>
+                            <a href="/8399">
+                                <span class="code">8399</span> Ajustes por inflación activos</a>
+                        </li>
+                                            <li>
+                            <a href="/839905">
+                                <span class="code">839905</span> Inversiones</a>
+                        </li>
+                                            <li>
+                            <a href="/839910">
+                                <span class="code">839910</span> Inventarios</a>
+                        </li>
+                                            <li>
+                            <a href="/839915">
+                                <span class="code">839915</span> Propiedades, planta y equipo</a>
+                        </li>
+                                            <li>
+                            <a href="/839920">
+                                <span class="code">839920</span> Intangibles</a>
+                        </li>
+                                            <li>
+                            <a href="/839925">
+                                <span class="code">839925</span> Cargos diferidos</a>
+                        </li>
+                                            <li>
+                            <a href="/839995">
+                                <span class="code">839995</span> Otros activos</a>
+                        </li>
+                                            <li>
+                            <a href="/84">
+                                <span class="code">84</span> Derechos contingentes por contra (CR)</a>
+                        </li>
+                                            <li>
+                            <a href="/85">
+                                <span class="code">85</span> Deudoras fiscales por contra (CR)</a>
+                        </li>
+                                            <li>
+                            <a href="/86">
+                                <span class="code">86</span> Deudoras de control por contra (CR)</a>
+                        </li>
+                                        </ul>
