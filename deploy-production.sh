@@ -23,15 +23,9 @@ fi
 chmod +x docker/php/entrypoint.sh
 chmod +x docker/update-redis-config.sh
 
-# Verificar si se necesita ejecutar composer install
-if [ ! -d "vendor" ] || [ ! -f "vendor/autoload.php" ]; then
-    echo "Instalando dependencias con Composer..."
-    composer install --optimize-autoloader --no-dev
-fi
-
 # Construir y ejecutar los contenedores
 echo "Construyendo y ejecutando los contenedores..."
-docker-compose down
+docker-compose down  --remove-orphans
 docker-compose build --no-cache
 docker-compose up -d
 
