@@ -22,6 +22,11 @@ class PUCResource extends Resource
     protected static ?string $pluralModelLabel = 'PUCs';
     protected static ?string $navigationGroup = 'Contabilidad';
     protected static ?int $navigationSort = 10;
+    
+    public static function canAccess(): bool
+    {
+        return auth()->user()->isAdmin();
+    }
 
     public static function form(Form $form): Form
     {

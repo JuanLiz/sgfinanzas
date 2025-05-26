@@ -22,6 +22,11 @@ class MunicipioResource extends Resource
     protected static ?string $pluralModelLabel = 'Municipios';
     protected static ?string $navigationGroup = 'Configuración general';
     protected static ?int $navigationSort = 20;
+    
+    public static function canAccess(): bool
+    {
+        return auth()->user()->isAdmin();
+    }
 
     public static function form(Form $form): Form
     {

@@ -95,6 +95,7 @@ class CostoVariableResource extends Resource
                     ->searchable()
                     ->required()
                     ->default(auth()->id())
+                    ->visible(fn () => auth()->user()->isAdmin())
                     ->columnSpan(['lg' => 1]),
 
                 Forms\Components\Select::make('estado')
@@ -119,6 +120,12 @@ class CostoVariableResource extends Resource
     public static function table(Table $table): Table
     {
         return $table
+            ->modifyQueryUsing(function (Builder $query) {
+                // Si no es administrador, filtrar solo por el usuario autenticado
+                if (!auth()->user()->isAdmin()) {
+                    $query->where('usu_idusu', auth()->id());
+                }
+            })
             ->columns([
                 Tables\Columns\TextColumn::make('idcostovariable')
                     ->label('ID')
@@ -146,6 +153,7 @@ class CostoVariableResource extends Resource
                     
                 Tables\Columns\TextColumn::make('usuario.usua_nombre')
                     ->label('Usuario')
+                    ->visible(fn () => auth()->user()->isAdmin())
                     ->searchable(),
                     
                 Tables\Columns\TextColumn::make('costovariable_descripcion')
@@ -195,6 +203,7 @@ class CostoVariableResource extends Resource
                     ->label('Usuario')
                     ->searchable()
                     ->preload()
+                    ->visible(fn () => auth()->user()->isAdmin())
                     ->indicator('Usuario'),
             ])
             ->actions([

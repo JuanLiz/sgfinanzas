@@ -23,6 +23,7 @@ class AppServiceProvider extends ServiceProvider
     {
         // Configuración de los grupos de navegación en Filament
         Filament::serving(function () {
+            // Configurar los grupos de navegación en el orden deseado
             Filament::registerNavigationGroups([
                 NavigationGroup::make()
                     ->label('Transacciones'),

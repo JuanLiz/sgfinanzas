@@ -22,6 +22,11 @@ class DepartamentoResource extends Resource
     protected static ?string $pluralModelLabel = 'Departamentos';
     protected static ?string $navigationGroup = 'Configuración general';
     protected static ?int $navigationSort = 10;
+    
+    public static function canAccess(): bool
+    {
+        return auth()->user()->isAdmin();
+    }
 
     public static function form(Form $form): Form
     {
