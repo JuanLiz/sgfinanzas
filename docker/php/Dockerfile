@@ -60,6 +60,9 @@ COPY . .
 RUN npm run build
 
 # Run post-install scripts and optimize Laravel
+RUN php artisan vendor:publish --tag=livewire:assets --force && \
+    php artisan vendor:publish --tag=filament-assets --force
+
 RUN composer dump-autoload --optimize && \
     php artisan optimize && \
     php artisan filament:optimize && \
