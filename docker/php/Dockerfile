@@ -2,7 +2,7 @@ FROM php:8.4-fpm
 
 WORKDIR /var/www/html
 
-# Instalar dependencias
+# Install dependencies
 RUN apt-get update && apt-get install -y \
     git \
     curl \
@@ -13,15 +13,29 @@ RUN apt-get update && apt-get install -y \
     zip \
     unzip \
     nodejs \
-    npm
+    npm \
+    libzip-dev \
+    libicu-dev \
+    netcat-openbsd \
+    && apt-get clean && rm -rf /var/lib/apt/lists/*
 
-# Limpiar cache
-RUN apt-get clean && rm -rf /var/lib/apt/lists/*
+# Git configuration for permission issues
+RUN git config --global --add safe.directory /var/www/html
 
-# Instalar extensiones PHP
-RUN docker-php-ext-install pdo pdo_pgsql mbstring exif pcntl bcmath gd
+# Install PHP extensions
+RUN docker-php-ext-configure intl \
+    && docker-php-ext-install \
+        pdo \
+        pdo_pgsql \
+        mbstring \
+        exif \
+        pcntl \
+        bcmath \
+        gd \
+        intl \
+        zip
 
-# Instalar redis
+# Install Redis extension
 RUN pecl install redis && docker-php-ext-enable redis
 
 # Instalar Composer
@@ -30,17 +44,27 @@ COPY --from=composer:latest /usr/bin/composer /usr/bin/composer
 # Copiar archivos de configuración
 COPY ./docker/php/php.ini /usr/local/etc/php/conf.d/app.ini
 
-# Copiar código de la aplicación
+# Copy composer files first for better layer caching
+COPY composer.json composer.lock ./
+
+# Install PHP dependencies
+RUN composer install --optimize-autoloader --no-dev --no-scripts
+
+# Copy package.json for better layer caching
+COPY package.json package-lock.json* ./
+
+# Install Node.js dependencies
+RUN npm ci
+
+# Copy the rest of the application code
 COPY . .
 
-# Instalar dependencias PHP
-RUN composer install --optimize-autoloader --no-dev
+# Build frontend assets
+RUN npm run build
 
-# Instalar dependencias de Node.js y construir activos
-RUN npm install && npm run build
-
-# Optimizar Laravel y Filament
-RUN php artisan optimize && \
+# Run post-install scripts and optimize Laravel
+RUN composer dump-autoload --optimize && \
+    php artisan optimize && \
     php artisan filament:optimize && \
     php artisan config:cache && \
     php artisan route:cache && \
@@ -49,10 +73,7 @@ RUN php artisan optimize && \
 # Cambiar permisos
 RUN chown -R www-data:www-data /var/www/html/storage /var/www/html/bootstrap/cache
 
-# Instalar netcat para el script de entrypoint
-RUN apt-get update && apt-get install -y netcat-openbsd && rm -rf /var/lib/apt/lists/*
-
-# Copiar y configurar el script de entrypoint
+# Copy and configure the entrypoint script
 COPY ./docker/php/entrypoint.sh /usr/local/bin/entrypoint.sh
 RUN chmod +x /usr/local/bin/entrypoint.sh
 
