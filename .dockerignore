@@ -25,12 +25,6 @@ yarn-error.log
 /bootstrap/cache/*
 .phpunit.result.cache
 
-# Docker files
-docker-compose.yml
-docker-compose.*.yml
-Dockerfile
-docker/
-
 # IDE files
 .idea
 .vscode
