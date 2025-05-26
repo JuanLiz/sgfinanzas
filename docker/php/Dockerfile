@@ -19,9 +19,6 @@ RUN apt-get update && apt-get install -y \
     netcat-openbsd \
     && apt-get clean && rm -rf /var/lib/apt/lists/*
 
-# Git configuration for permission issues
-RUN git config --global --add safe.directory /var/www/html
-
 # Install PHP extensions
 RUN docker-php-ext-configure intl \
     && docker-php-ext-install \

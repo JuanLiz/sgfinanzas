@@ -14,16 +14,6 @@ echo "Verificando permisos..."
 chown -R www-data:www-data /var/www/html/storage /var/www/html/bootstrap/cache
 chmod -R 775 /var/www/html/storage /var/www/html/bootstrap/cache
 
-# Fix Git directory permissions if it exists
-if [ -d "/var/www/html/.git" ]; then
-    echo "Corrigiendo permisos de Git..."
-    # Add git directory as safe directory
-    git config --global --add safe.directory /var/www/html
-    # Make directory accessible but protect important files
-    find /var/www/html/.git -type d -exec chmod 755 {} \;
-    find /var/www/html/.git -type f -exec chmod 644 {} \;
-fi
-
 # Limpiar cache en caso de cambios
 php artisan optimize:clear
 
