@@ -45,7 +45,7 @@ COPY ./docker/php/php.ini /usr/local/etc/php/conf.d/app.ini
 COPY composer.json composer.lock ./
 
 # Install PHP dependencies
-RUN composer install --optimize-autoloader --no-dev --no-scripts
+RUN composer install --optimize-autoloader --no-dev
 
 # Copy package.json for better layer caching
 COPY package.json package-lock.json* ./
