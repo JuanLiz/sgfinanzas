@@ -78,6 +78,7 @@ class IngresoResource extends Resource
                     ->searchable()
                     ->required()
                     ->default(auth()->id())
+                    ->visible(fn () => auth()->user()->isAdmin())
                     ->columnSpan(['lg' => 1]),
 
                 Forms\Components\Select::make('estado')
@@ -102,6 +103,12 @@ class IngresoResource extends Resource
     public static function table(Table $table): Table
     {
         return $table
+            ->modifyQueryUsing(function (Builder $query) {
+                // Si no es administrador, filtrar solo por el usuario autenticado
+                if (!auth()->user()->isAdmin()) {
+                    $query->where('usu_idusu', auth()->id());
+                }
+            })
             ->columns([
                 Tables\Columns\TextColumn::make('iding')
                     ->label('ID')
@@ -130,6 +137,7 @@ class IngresoResource extends Resource
                 Tables\Columns\TextColumn::make('usuario.usua_nombre')
                     ->label('Usuario')
                     ->formatStateUsing(fn($record) => $record->usuario->usua_nombre)
+                    ->visible(fn () => auth()->user()->isAdmin())
                     ->searchable(),
 
                 Tables\Columns\TextColumn::make('ingre_descripcion')
@@ -168,6 +176,7 @@ class IngresoResource extends Resource
                     ->label('Usuario')
                     ->searchable()
                     ->preload()
+                    ->visible(fn () => auth()->user()->isAdmin())
                     ->indicator('Usuario'),
 
                 Filter::make('ingre_fecha')

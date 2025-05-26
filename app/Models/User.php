@@ -81,11 +81,16 @@ class User extends Authenticatable implements FilamentUser, HasName
     // Add this method for Filament
     public function canAccessPanel(Panel $panel): bool
     {
-        // For now, allow all users who can log in to access the default panel.
-        // You can customize this later, e.g., based on roles.
-        // return $this->hasVerifiedEmail(); // Example: only allow verified users
-        // return $this->role && $this->role->rol_descripcion === 'Administrador'; // Example: only admin role
-        return true; 
+        // Todos los usuarios pueden acceder al panel
+        return true;
+    }
+    
+    /**
+     * Verifica si el usuario es administrador
+     */
+    public function isAdmin(): bool 
+    {
+        return $this->role && $this->role->rol_descripcion === 'Administrador';
     }
 
     public function role(): BelongsTo

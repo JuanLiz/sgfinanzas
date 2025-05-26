@@ -31,6 +31,11 @@ class UserResource extends Resource
     protected static ?string $pluralModelLabel = 'Usuarios';
     protected static ?string $navigationGroup = 'Administración de acceso';
     protected static ?int $navigationSort = 20;
+    
+    public static function canAccess(): bool
+    {
+        return auth()->user()->isAdmin();
+    }
 
     public static function form(Form $form): Form
     {

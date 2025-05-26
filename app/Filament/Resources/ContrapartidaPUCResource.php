@@ -24,6 +24,11 @@ class ContrapartidaPUCResource extends Resource
     protected static ?string $pluralModelLabel = 'Contrapartidas PUC';
     protected static ?string $navigationGroup = 'Contabilidad';
     protected static ?int $navigationSort = 20;
+    
+    public static function canAccess(): bool
+    {
+        return auth()->user()->isAdmin();
+    }
 
     public static function form(Form $form): Form
     {
