@@ -60,7 +60,6 @@ COPY . .
 RUN npm run build
 
 # Run post-install scripts and optimize Laravel
-RUN composer update
 RUN composer dump-autoload --optimize && \
     php artisan optimize && \
     php artisan filament:optimize && \
