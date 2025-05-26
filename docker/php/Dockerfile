@@ -35,10 +35,10 @@ RUN docker-php-ext-configure intl \
 # Install Redis extension
 RUN pecl install redis && docker-php-ext-enable redis
 
-# Instalar Composer
+# Install Composer
 COPY --from=composer:latest /usr/bin/composer /usr/bin/composer
 
-# Copiar archivos de configuración
+# Copy configuration files
 COPY ./docker/php/php.ini /usr/local/etc/php/conf.d/app.ini
 
 # Copy composer files first for better layer caching

@@ -1,45 +1,45 @@
 #!/bin/bash
 
-echo "Preparando entorno para producción..."
+echo "Preparing environment for production..."
 
-# Verificar si existe .env.production
+# Check if .env.production exists
 if [ -f .env.production ]; then
-    echo "Copiando .env.production a .env para entorno de producción..."
+    echo "Copying .env.production to .env for production environment..."
     cp .env.production .env
-    echo "Archivo de entorno para producción copiado correctamente."
+    echo "Production environment file copied successfully."
 else
-    echo "Advertencia: No se encontró .env.production. Usando .env actual."
+    echo "Warning: .env.production not found. Using current .env file."
     
-    # Actualizar variables críticas para producción en el .env actual
+    # Update critical variables for production in the current .env file
     sed -i 's/APP_ENV=.*/APP_ENV=production/' .env
     sed -i 's/APP_DEBUG=.*/APP_DEBUG=false/' .env
     sed -i 's/REDIS_HOST=127.0.0.1/REDIS_HOST=redis/' .env
     sed -i 's/LOG_LEVEL=.*/LOG_LEVEL=error/' .env
     
-    echo "Variables críticas actualizadas en .env para entorno de producción."
+    echo "Critical variables updated in .env for production environment."
 fi
 
-# Configurar permisos para los scripts
+# Configure permissions for scripts
 chmod +x docker/php/entrypoint.sh
 
-# Verificar si se necesita ejecutar composer install
+# Check if composer install needs to be executed
 if [ ! -d "vendor" ] || [ ! -f "vendor/autoload.php" ]; then
-    echo "Instalando dependencias con Composer..."
+    echo "Installing dependencies with Composer..."
     composer install --optimize-autoloader --no-dev
 fi
 
-# Construir y ejecutar los contenedores
-echo "Construyendo y ejecutando los contenedores..."
+# Build and run containers
+echo "Building and running containers..."
 docker-compose down  --remove-orphans
 docker-compose build --no-cache
 docker-compose up -d
 
-# Mostrar servicios activos
-echo "Servicios Docker activos:"
+# Show active services
+echo "Active Docker services:"
 docker-compose ps
 
 echo ""
-echo "=========== APLICACIÓN LISTA ==========="
-echo "La aplicación está ejecutándose en: http://localhost"
-echo "Puedes verificar los logs con: docker-compose logs -f"
-echo "========================================="
+echo "=========== APPLICATION READY ==========="
+echo "The application is running at: http://localhost"
+echo "You can check the logs with: docker-compose logs -f"
+echo "==========================================="
