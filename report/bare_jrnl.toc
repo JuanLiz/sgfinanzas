@@ -1,0 +1,14 @@
+\contentsline {section}{\numberline {I}Introducción}{1}{}%
+\contentsline {section}{\numberline {II}Objetivos}{1}{}%
+\contentsline {subsection}{\numberline {\mbox {II-A}}Objetivo general}{1}{}%
+\contentsline {subsection}{\numberline {\mbox {II-B}}Objetivos específicos}{1}{}%
+\contentsline {section}{\numberline {III}Alcance}{2}{}%
+\contentsline {section}{\numberline {IV}Requerimientos}{2}{}%
+\contentsline {subsection}{\numberline {\mbox {IV-A}}Requerimientos funcionales}{2}{}%
+\contentsline {subsection}{\numberline {\mbox {IV-B}}Requerimientos no funcionales}{2}{}%
+\contentsline {subsection}{\numberline {\mbox {IV-C}}Requerimientos de hardware}{3}{}%
+\contentsline {subsection}{\numberline {\mbox {IV-D}}Requerimientos de software}{3}{}%
+\contentsline {section}{References}{3}{}%
+\contentsline {section}{Biographies}{3}{}%
+\contentsline {subsection}{Juan Diego Lizarazo}{3}{}%
+\contentsline {subsection}{Sergio Alejandro López}{3}{}%
